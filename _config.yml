@@ -1,0 +1,74 @@
+# Main settings
+baseurl: ''
+url: https://blog.fractalsoft.org
+
+# Theme
+remote_theme: mmistakes/minimal-mistakes@4.13.0
+# theme: minimal-mistakes-jekyll
+
+# Meta head
+description: Fractal Soft blogs about Ruby on Rails, Ember.js, Backbone.js, React.js and maybe Elixir. Technical blog will be full of web development and the developer community.
+locale: pl
+title: Web Development in Ruby on Rails, technical blog Fractal Soft
+
+# Jekyll settings
+exclude: ['.keep', '.ruby-gemset', '.ruby-version', '.sass-cache', '_drafts', 'Gemfile', 'Gemfile.lock']
+highlighter: rouge
+include: ['_data', '_pages']
+permalink: /:categories/:title/
+
+# Plugins settings
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji
+
+# Theme settings
+breadcrumbs: false
+minimal_mistakes_skin: contrast
+paginate: 5
+paginate_path: /page:num/
+search: true
+
+analytics:
+  provider: 'google-gtag'
+  google:
+    anonymize_ip: false
+    tracking_id: 'UA-127776922-2'
+
+author:
+  name: Fractal Soft Ruby on Rails Developers
+
+# category_archive:
+#   type: liquid
+#   path: /categories/
+
+comments:
+  provider: 'disqus'
+  disqus:
+    shortname: 'fractalsoft'
+
+defaults:
+  # _posts
+  - scope:
+      path: ''
+      type: posts
+    values:
+      comments: true
+      read_time: true
+      related: false
+      share: true
+
+footer:
+  links:
+    - label: Fractal Soft
+      url: https://fractalsoft.org
+
+# tag_archive:
+#   type: liquid
+#   path: /tags/
+
+twitter:
+  username: fractal_soft
