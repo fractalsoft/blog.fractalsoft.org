@@ -15,7 +15,8 @@ title: Web Development in Ruby on Rails, technical blog Fractal Soft
 exclude: ['.keep', '.ruby-gemset', '.ruby-version', '.sass-cache', '_drafts', 'Gemfile', 'Gemfile.lock']
 highlighter: rouge
 include: ['_data', '_pages']
-permalink: /:categories/:title/
+og_image: /assets/images/fractalsoft/blog.svg
+permalink: /:categories/:year/:month/:title/
 
 # Plugins settings
 plugins:
@@ -38,24 +39,31 @@ analytics:
     anonymize_ip: false
     tracking_id: 'UA-127776922-2'
 
-author:
-  name: Fractal Soft Ruby on Rails Developers
-
-# category_archive:
-#   type: liquid
-#   path: /categories/
+category_archive:
+  type: liquid
+  path: /categories/
 
 comments:
   provider: 'disqus'
   disqus:
     shortname: 'fractalsoft'
 
+compress_html:
+  clippings: all
+
 defaults:
+  # _pages
+  - scope:
+      path: ''
+      type: pages
+    values:
+      author_profile: true
   # _posts
   - scope:
       path: ''
       type: posts
     values:
+      author_profile: true
       comments: true
       read_time: true
       related: false
@@ -63,12 +71,12 @@ defaults:
 
 footer:
   links:
-    - label: Fractal Soft
-      url: https://fractalsoft.org
+    # - label: Fractal Soft
+    #   url: https://fractalsoft.org
 
-# tag_archive:
-#   type: liquid
-#   path: /tags/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 twitter:
   username: fractal_soft

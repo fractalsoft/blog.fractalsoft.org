@@ -1,4 +1,5 @@
 ---
+author: torrocus
 category: programming
 description: Witamy się ze światem, czyli nasz pierwszy post na blogu firmowym.
 excerpt: Każdy programista kiedyś zaczynał i pisał najprostszy program wypisujący słowa "Hello world". Specjalnie dla Was, krótki eksperyment pamięciowy.

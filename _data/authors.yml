@@ -1,0 +1,34 @@
+womanonrails:
+  name: Agnieszka Matysek
+  avatar: http://www.gravatar.com/avatar/b6e8fe8b1304dc65a50cc3c48fc69a81?s=110
+  bio:
+  links:
+    - label: Programista śledczy
+      icon: 'fas fa-fw fa-link'
+      url: https://fractalsoft.org/pl/team/womanonrails
+
+lisu:
+  name: Grzegorz Lisowski
+  avatar: https://www.gravatar.com/avatar/0c63820e8b1390a92c4dbbcaa10fe8c4?s=110
+  bio:
+  links:
+    - label: Programista aplikacji i gier
+      icon: 'fas fa-fw fa-link'
+      url: https://fractalsoft.org/pl/team/lisu
+
+torrocus:
+  name: Alek Malaszkiewicz
+  avatar: https://www.gravatar.com/avatar/f6bcc574c88017e6cc8491b571fd816d?s=110
+  bio:
+  links:
+    - label: Programista aplikacji webowych
+      icon: 'fas fa-fw fa-link'
+      url: https://fractalsoft.org/pl/team/torrocus
+
+team:
+  name: Fractal Soft Team
+  avatar: /assets/images/fractalsoft/blog.svg
+  links:
+    - label: Ruby on Rails developers
+      icon: 'fas fa-fw fa-link'
+      url: https://fractalsoft.org/pl/team
