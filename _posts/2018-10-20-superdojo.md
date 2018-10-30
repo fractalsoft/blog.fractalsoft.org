@@ -10,13 +10,39 @@ title: SuperDojo 2018
 toc: true
 toc_label: SuperDojo 2018
 toc_icon: users
+gallery:
+  - url: /assets/gallery/2018-10-20/01-coderdojo-gliwice.jpg
+    image_path: /assets/gallery/2018-10-20/thumbs/01-coderdojo-gliwice.jpg
+    alt: 'Grupowe zdjęcie najwytrwalszych dzieci i mentórów CodejDojo z Gliwic'
+    title: 'CoderDojo Gliwice - ninja i mentorzy'
+  - url: /assets/gallery/2018-10-20/02-superdojo-zebranie-mentorow.jpg
+    image_path: /assets/gallery/2018-10-20/thumbs/02-superdojo-zebranie-mentorow.jpg
+    alt: 'Grupa mentorów CoderDojo czeka na instrukcje'
+    title: 'Mentorzy gotowi do dalszej pracy'
+  - url: /assets/gallery/2018-10-20/03-superdojo-unity-wprowadzenie.jpg
+    image_path: /assets/gallery/2018-10-20/thumbs/03-superdojo-unity-wprowadzenie.jpg
+    alt: 'Grupa ninja uważnie słucha mentora Grzegorza'
+    title: 'Krótkie wprowadzenie do Unity'
+  - url: /assets/gallery/2018-10-20/04-superdojo-unity-warsztaty.jpg
+    image_path: /assets/gallery/2018-10-20/thumbs/04-superdojo-unity-warsztaty.jpg
+    alt: 'Dzieci uczestniczą w warsztatach z Unity'
+    title: 'Warsztaty z Unity, czyli tworzenie gier bez programowania'
+  - url: /assets/gallery/2018-10-20/05-superdojo-unity-po-warsztatach.jpg
+    image_path: /assets/gallery/2018-10-20/thumbs/05-superdojo-unity-po-warsztatach.jpg
+    alt: 'Dziewczynka pracuje na komputerze pod okiem mentora'
+    title: 'Po warsztatach - mentor Grzegorz dalej pomaga uczestniczce SuperDojo'
+  - url: /assets/gallery/2018-10-20/06-coderdojo-polska-mentorzy.jpg
+    image_path: /assets/gallery/2018-10-20/thumbs/06-coderdojo-polska-mentorzy.jpg
+    alt: 'Grupowe zdjęcie mentorów CoderDojo z całej Polski'
+    title: 'CoderDojo Polska - uśmiechnięci mentorzy'
 ---
 
 {: .text-justify}
 Dzieci to nasza przyszłość. Dlatego angażujemy się w inicjatywy takie jak **CoderDojo**. Uczymy dzieci programowania, kreatywności i wykorzystania technologii. Chcemy, żeby kolejne pokolenia wiedziały, jak to wszystko jest zbudowane. Aby nie były tylko biernymi odbiorcami tego, co jest w Internecie, ale by potrafiły coś stworzyć, wykorzystać technologię w dobrym celu.
 
 {: .text-justify}
-W sobotę, 20-tego października, w ramach europejskiego tygodnia kodowania pojechaliśmy do Warszawy na **SuperDojo**. Na co dzień <a href='https://fractalsoft.org/pl' target='_blank' title='Aplikacje internetowe w Ruby on Rails'>**tworzymy aplikacje internetowe**</a>.
+W sobotę, 20-tego października, w ramach europejskiego tygodnia kodowania pojechaliśmy do Warszawy na
+<span style='font-weight: bold; text-transform: uppercase;'><span style='color: #4084c5;'>Super</span><span style='color: #224769;'>Dojo</span><span style='color: #f1b611;'>2018</span></span>. Na co dzień <a href='https://fractalsoft.org/pl' target='_blank' title='Aplikacje internetowe w Ruby on Rails'>**tworzymy aplikacje internetowe**</a>.
 Tym razem chcieliśmy poprowadzić warsztaty niekoniecznie związane z programowaniem, ale ciągle w tematyce IT. Zajęcia miały być interesujące dla dzieci oraz inspirujące dla rodziców i mentorów.
 
 {: .text-justify}
@@ -66,7 +92,7 @@ Wspaniałe narzędzie jakim jest <a href='https://sonic-pi.net/' rel='nofollow n
 Ponadto Sonic Pi umożliwia tworzenie muzyki na żywo. Jest to jedna z najciekawszych opcji, która zamienia klawiaturę komputera w konsolę prawdziwego DJ-a. Osoby sprawnie posługujące się tym narzędziem modyfikują kod i od razu słyszymy różnicę generowanych dźwięków. Odbywają się nawet koncerty w klubach z wizualizacją kodu źródłowego.
 
 {: .text-justify}
-Warsztaty na __SuperDojo__ wprowadziły uczestników w świat muzyki oraz programowania. Podczas nich uczestnicy rozłożyli dźwięki na czynniki pierwsze. Dowiedzieli się o zasadach działania fal dźwiękowych, akordów oraz instrumentów muzycznych. Mogli na własnych uszach odczuć działania różnych syntezatorów. Wszystko to możliwe było ucząc się programowania w języku **Ruby** (naszym ulubionym jęzku programowania). Zajęcia prowadził mentor Alek. :musical_note:
+Warsztaty na __SuperDojo__ wprowadziły uczestników w świat muzyki oraz programowania. Podczas nich uczestnicy rozłożyli dźwięki na czynniki pierwsze. Dowiedzieli się o zasadach działania fal dźwiękowych, akordów oraz instrumentów muzycznych. Mogli na własnych uszach odczuć działania różnych syntezatorów. Wszystko to możliwe było ucząc się programowania w języku **Ruby** (naszym ulubionym języku programowania). Zajęcia prowadził mentor Alek. :musical_note:
 
 
 ## Podsumowanie
@@ -79,6 +105,9 @@ My również podczas __SuperDojo__ zdobywaliśmy nową wiedzę. Mieliśmy okazj�
 
 {: .text-justify}
 Dziękujemy <a href='https://coderdojo.org.pl/' rel='nofollow noopener noreferrer' target='_blank'>Fundacji Coder Dojo</a> za zorganizowanie __SuperDojo__. Było to olbrzymie przedsięwzięcie pod względem organizacyjnym. Mamy nadzieję, że za rok znowu uda nam się wesprzeć to wydarzenie naszą wiedzą mentorską.
+
+### Zdjęcia z SuperDojo 2018
+{% include gallery caption='Zdjęcia udostępniła **Fundacja CoderDojo Polska**, fot. Tomasz Mateusiak' %}
 
 <hr>
 <small>Spodobało Ci się? Podziel się tym artykułem z innymi i czytaj nas regularnie.</small>
