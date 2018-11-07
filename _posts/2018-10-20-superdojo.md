@@ -13,7 +13,7 @@ toc_icon: users
 gallery:
   - url: /assets/gallery/2018-10-20/01-coderdojo-gliwice.jpg
     image_path: /assets/gallery/2018-10-20/thumbs/01-coderdojo-gliwice.jpg
-    alt: 'Grupowe zdjęcie najwytrwalszych dzieci i mentórów CodejDojo z Gliwic'
+    alt: 'Grupowe zdjęcie najwytrwalszych dzieci i mentorów CodejDojo z Gliwic'
     title: 'CoderDojo Gliwice - ninja i mentorzy'
   - url: /assets/gallery/2018-10-20/02-superdojo-zebranie-mentorow.jpg
     image_path: /assets/gallery/2018-10-20/thumbs/02-superdojo-zebranie-mentorow.jpg
