@@ -26,9 +26,10 @@ Więcej informacji o terminach oraz miejscach spotkań znajdziecie na oficjalnej
 ## Tematy na SRUG-u w Gliwicach
 
 {: .text-justify}
-- _How to Never Let your Hands off the Keyboard_ - prezentacja o tym jak nie zdejmować rąk z klawiatury i zminimalizować użycie myszki komputerowej, trackballa, trackpada lub touchpada.
-- _Dry-Transaction - Co to?_ - prezentacja o bibliotece wspomagającej definiowanie i modelowanie złożonych transakcji biznesowych, które wymagają przetwarzania wielu kroków na wielu różnych obiektach. **dry-transaction** jest częścią kolekcji dry-rb.
-- _SVG for Developers, not Designers_ - prezentacja o otwartym formacie grafiki wektorowej **SVG** z punktu widzenia programisty, ale nie grafika. Prezentację przedstawi Alek.
++ _How to Never Let your Hands off the Keyboard_ - prezentacja o tym jak nie zdejmować rąk z klawiatury i zminimalizować użycie myszki komputerowej, trackballa, trackpada lub touchpada.
++ _Dry-Transaction - Co to?_ - prezentacja o bibliotece wspomagającej definiowanie i modelowanie złożonych transakcji biznesowych, które wymagają przetwarzania wielu kroków na wielu różnych obiektach. **dry-transaction** jest częścią kolekcji dry-rb.
++ _SVG for Developers, not Designers_ - prezentacja o otwartym formacie grafiki wektorowej **SVG** z punktu widzenia programisty, ale nie grafika.
+  Tę prezentację przedstawi Alek.
 
 {: .text-justify}
 O prezentacji z _SVG dla programistów_ możemy powiedzieć nieco więcej, nie zdradzając jej treści.

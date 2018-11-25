@@ -10,12 +10,15 @@ title: Hello world w programowaniu
 ---
 
 {: .text-justify}
-**Hello world** - te dwa słowa to chyba najpopularniejszy tekst wypisywany na ekranach komputerów podczas nauki programowania.
-My uczymy się cały czas. Jako programiści uczymy się nowych języków programowania i technologii.
-A jako mentorzy uczymy innych jak programować. Dzięki temu uczymy się jak dobrze uczyć innych i jak robić to coraz lepiej.
+**Hello world** - te dwa słowa to chyba najpopularniejszy zwrot wypisywany na ekranach komputerów podczas nauki programowania.
+My uczymy się cały czas.
+Jako programiści uczymy się nowych języków programowania i technologii.
+A jako mentorzy uczymy innych jak programować.
+Przez to uczymy się jak dobrze uczyć innych i jak robić to coraz lepiej.
 
 {: .text-justify}
-Przeprowadźmy mały eksperyment. Zobaczmy w ilu językach programowania potrafimy stworzyć program typu _Hello world_ nie korzystając z pomocy Google, Wikipedii czy Stackoverflow.
+Żeby nie być gołosłownym, przeprowadźmy mały eksperyment.
+Zobaczmy, w ilu językach programowania potrafimy stworzyć program typu _Hello world_ nie korzystając z pomocy Google, Wikipedii czy Stackoverflow.
 :unicorn:
 
 Eksperyment czas zacząć...
@@ -86,4 +89,10 @@ Hello world
 ```
 
 {: .text-justify}
-I to by było na tyle. Ludzka pamięć jest zawodna. Pamiętamy te rzeczy, których używamy. Te mniej potrzebne usuwamy z naszej pamięci. Podobnie zachowują się komputery. Za taki mechanizm zwalniania pamięci w <strong>programowaniu</strong> odpowiada _garbage collector_. Ale to temat na zupełnie inny artykuł.
+I to by było na tyle.
+Mógłbym przywołać jeszcze inne przykłady kodu źródłowego wypisującego "Hello world" w różnych językach programowania, ale ludzka pamięć jest zawodna.
+Pamiętamy te rzeczy, których używamy częściej.
+Te mniej potrzebne usuwamy z naszej pamięci.
+Podobnie zachowują się komputery.
+Za taki mechanizm zwalniania pamięci w **programowaniu** odpowiada _garbage collector_.
+Ale to temat na zupełnie inny artykuł.

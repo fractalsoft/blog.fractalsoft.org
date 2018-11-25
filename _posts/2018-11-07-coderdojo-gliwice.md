@@ -43,13 +43,15 @@ Będzie można poznać obsługę programu RPG Maker VX Ace.
 Każdy ninja stworzy swoją własną, unikalną grę.
 Na początku ważne będzie stworzenie mapy.
 Powstaną nowe kontynenty i wyspy, a na nich góry, rzeki, lasy i miasta.
-W miastach będzie można stawiać budynki oraz rozmieszczać postacie (tzw. NPC).
-W wybranych lokacjach twórcy mogą umieszczać potworki.
+W miastach będzie można stawiać budynki oraz rozmieszczać postaci (tzw. NPC).
+W wybranych lokacjach twórcy będą mogli również umieszczać potworki.
 Uczestnicy CoderDojo będą mogli testować swoją grę, czyli po prostu w nią zagrać oraz dać zagrać koleżance lub koledze obok.
 
 Wymagania:
-- {: .text-justify} Ściągnij i zainstaluj <a href='https://www.rpgmakerweb.com/download/free-trials/trial-rpg-maker-vx-ace' rel='nofollow noopener noreferrer' target='_blank'>RPG Maker VX Ace</a> - oprogramowanie do tworzenia komputerowych gier fabularnych. Na potrzeby zajęć CoderDojo wystarczy wersja trial (darmowa). Nie trzeba więc płacić za pełną wersję.
-- Słuchawki - jeśli chcesz mieć dźwięk w swojej grze.
++ {: .text-justify} Ściągnij i zainstaluj <a href='https://www.rpgmakerweb.com/download/free-trials/trial-rpg-maker-vx-ace' rel='nofollow noopener noreferrer' target='_blank'>RPG Maker VX Ace</a> - oprogramowanie do tworzenia komputerowych gier fabularnych.
+Na potrzeby zajęć CoderDojo wystarczy wersja trial (darmowa).
+Nie trzeba więc płacić za pełną wersję.
++ Słuchawki - jeśli chcesz mieć dźwięk w swojej grze.
 
 
 ----
@@ -64,15 +66,17 @@ Wymagania:
 **Programista Grzegorz** przeprowadzi pierwszą lekcję **programowania w języku C#**.
 Będą to podstawy programowania.
 Rozpocznie się od wypisywania tekstu na konsoli, czyli tzw. [Hello World](/programming/2018/10/hello-world/) oraz deklarowania zmiennych.
-Kolejnym krokiem będzie odczytywanie danych z konsoli, podstawowe działania matematyczne oraz instrukcje warunkowe.
+Kolejne kroki to odczytywanie danych z konsoli, podstawowe działania matematyczne oraz instrukcje warunkowe.
 
 Zapytacie _"Po co to wszystko?"_
 
 {: .text-justify}
-Ponieważ tworzenie gier zawsze zawiera elementy programowania. I bez programowania ciężko będzie tworzyć profesjonalne gry. :game_die:
+Ponieważ tworzenie gier zawsze zawiera elementy programowania.
+I bez umiejętności programowania ciężko będzie tworzyć profesjonalne gry. :game_die:
 
 Wymagania:
-- {: .text-justify} Ściągnij i zainstaluj <a href='https://www.monodevelop.com/' rel='nofollow noopener noreferrer' target='_blank'>MonoDevelop</a> - darmowe środowisko programistyczne umożliwiające programowanie w C# oraz innych językach platformy .NET (dotNet). Oprogramowanie to działa na różnych systemach operacyjnych (Linux, Windows, OS X).
++ {: .text-justify} Ściągnij i zainstaluj <a href='https://www.monodevelop.com/' rel='nofollow noopener noreferrer' target='_blank'>MonoDevelop</a> - darmowe środowisko programistyczne umożliwiające programowanie w C# oraz innych językach platformy .NET (dotNet).
+Oprogramowanie to działa na różnych systemach operacyjnych (Linux, Windows, OS X).
 
 
 ----
@@ -96,8 +100,10 @@ Powtarzające się fragmenty (np. refren) zostaną zamknięte w pętle, a warto�
 Zajęcia muzyczno-programistyczne przeprowadzi **programista Alek**. :notes:
 
 Wymagania:
-- {: .text-justify} Ściągnij i zainstaluj <a href='https://sonic-pi.net/' rel='nofollow noopener noreferrer' target='_blank'>Sonic Pi</a> - oprogramowanie pozwalające generować dźwięki instrumentów oraz miksować muzykę programując w języku Ruby. Projekt jest open source. Można go uruchomić na różnych systemach operacyjnych (Raspberry Pi, Windows, Mac, Linux).
-- Słuchawki - obowiązkowo! :loudspeaker:
++ {: .text-justify} Ściągnij i zainstaluj <a href='https://sonic-pi.net/' rel='nofollow noopener noreferrer' target='_blank'>Sonic Pi</a> - oprogramowanie pozwalające generować dźwięki instrumentów oraz miksować muzykę programując w języku Ruby.
+Projekt jest open source.
+Można go uruchomić na różnych systemach operacyjnych (Raspberry Pi, Windows, Mac, Linux).
++ Słuchawki - obowiązkowo! :loudspeaker:
 
 
 ----
@@ -116,7 +122,8 @@ Później już będzie tylko praktyka.
 A jak wiadomo praktyka czyni mistrza.
 
 Wymagania:
-- {: .text-justify} Ściągnij <a href='https://www.arduino.cc/en/Guide/HomePage#install' rel='nofollow noopener noreferrer' target='_blank'>Arduino Desktop IDE</a> - aplikację służącą do pisania programów oraz wgrywania ich na płytki Arduino. Środowisko jest dostępne do instalacji na różne platformy (Windows, Mac OS, Linux) oraz w wersji portable, czyli bez potrzeby instalacji w systemie (Windows, Linux).
++ {: .text-justify} Ściągnij <a href='https://www.arduino.cc/en/Guide/HomePage#install' rel='nofollow noopener noreferrer' target='_blank'>Arduino Desktop IDE</a> - aplikację służącą do pisania programów oraz wgrywania ich na płytki Arduino.
+Środowisko jest dostępne do instalacji na różne platformy (Windows, Mac OS, Linux) oraz w wersji portable, czyli bez potrzeby instalacji w systemie (Windows, Linux).
 
 
 ## Informacje organizacyjne
@@ -151,9 +158,18 @@ Więcej informacji na temat elektronicznego podpisywania zgód w artykule
 ### FAQ (Często Zadawane Pytania)
 
 Co dziecko potrzebuje na zajęcia?
-: + {: .text-justify} **komputer / laptop** - Większość zajęć odbywa się w formule BYOD (_Bring Your Own Device_). Każdy pracuje na własnym sprzęcie. Dzięki temu dziecko może rozwijać swoje zainteresowania również po zajęciach CoderDojo. :computer:
-  + {: .text-justify} **słuchawki** - Opcjonalnie. Wymagane są na zajęciach związanych z dźwiękiem tj. komponowanie muzyki, montaż wideo i tworzenie gier. Ninja, który nie będzie posiadał słuchawek nie może uczestniczyć w takich zajęciach. Po prostu uczestnicy zagłuszaliby się wzajemnie. Do tego mentorzy szanują swoje uszy. :headphones:
-  + {: .text-justify} **oprogramowanie** - Opcjonalnie. Przed zajęciami będziemy zamieszczać informację o wymaganym oprogramowaniu wraz z linkiem gdzie można je znaleźć. Preferujemy oprogramowanie z otwartym kodem źródłowym (**open source**) lub na darmowych licencjach edukacyjnych. Część zajęć wymaga tylko przeglądarki internetowej. :house:
+: + {: .text-justify} **komputer / laptop** - Większość zajęć odbywa się w formule BYOD (_Bring Your Own Device_).
+  Każdy pracuje na własnym sprzęcie.
+  Dzięki temu dziecko może rozwijać swoje zainteresowania również po zajęciach CoderDojo. :computer:
+  + {: .text-justify} **słuchawki** - Opcjonalnie.
+    Wymagane są na zajęciach związanych z dźwiękiem tj. komponowanie muzyki, montaż wideo i tworzenie gier.
+    Ninja, który nie będzie posiadał słuchawek nie może uczestniczyć w takich zajęciach.
+    Po prostu uczestnicy zagłuszaliby się wzajemnie.
+    Do tego mentorzy szanują swoje uszy. :headphones:
+  + {: .text-justify} **oprogramowanie** - Opcjonalnie.
+    Przed zajęciami będziemy zamieszczać informację o wymaganym oprogramowaniu wraz z linkiem gdzie można je znaleźć.
+    Preferujemy oprogramowanie z otwartym kodem źródłowym (**open source**) lub na darmowych licencjach edukacyjnych.
+    Część zajęć wymaga tylko przeglądarki internetowej. :house:
 
 Kto może być opiekunem dziecka?
 : + rodzice (matka lub ojciec), opiekun prawny
@@ -168,10 +184,14 @@ Czy jako opiekun mogę uczestniczyć wraz z dzieckiem w&nbsp;zajęciach?
   Poza tym daje to dobry przykład dla innych, zarówno dzieci jak i rodziców.
 
 Kim jest ninja?
-: {: .text-justify} Wszyscy uczestnicy CoderDojo to ninja. Dotyczy to zarówno dzieci młodszych oraz starszych, nastolatków, młodzież, czasem studentów lub nawet dorosłych.
+: {: .text-justify} Wszyscy uczestnicy CoderDojo to ninja.
+  Dotyczy to zarówno dzieci młodszych oraz starszych, nastolatków, młodzież, czasem studentów lub nawet dorosłych.
 
 Kim są mentorzy?
-: {: .text-justify} Mentorzy to osoby, które dzielą się swoją wiedzą. Zawodowo <a href='https://fractalsoft.org/pl' title='Programiści aplikacji internetowych'>jesteśmy programistami</a> i pracujemy z różnymi technologiami. Na CoderDojo uczymy rzeczy, których sami musieliśmy się nauczyć, nie zawsze w pracy. Dzielimy z Wami swój czas oraz pasję do tego co robimy.
+: {: .text-justify} Mentorzy to osoby, które dzielą się swoją wiedzą.
+  Zawodowo <a href='https://fractalsoft.org/pl' title='Programiści aplikacji internetowych'>jesteśmy programistami</a> i pracujemy z różnymi technologiami.
+  Na CoderDojo bezpłatnie uczymy rzeczy, których sami musieliśmy się nauczyć, nie zawsze w pracy.
+  Dzielimy z Wami swój czas oraz pasję do tego co robimy.
 
 ----
 <small>Spodobało Ci się? Podziel się tym artykułem z innymi i czytaj nas regularnie.</small>
