@@ -12,7 +12,7 @@ locale: pl
 title: Web Development in Ruby on Rails, technical blog Fractal Soft
 
 # Jekyll settings
-exclude: ['.keep', '.ruby-gemset', '.ruby-version', '.sass-cache', '_drafts', 'Gemfile', 'Gemfile.lock']
+exclude: ['.keep', '.ruby-gemset', '.ruby-version', '.sass-cache', '_drafts', '_templates', 'Gemfile', 'Gemfile.lock']
 highlighter: rouge
 include: ['_data', '_pages']
 og_image: /assets/images/fractalsoft/blog.svg
