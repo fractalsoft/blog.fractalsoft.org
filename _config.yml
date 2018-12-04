@@ -3,7 +3,7 @@ baseurl: ''
 url: https://blog.fractalsoft.org
 
 # Theme
-remote_theme: mmistakes/minimal-mistakes@4.14.1
+remote_theme: mmistakes/minimal-mistakes@4.13.0
 # theme: minimal-mistakes-jekyll
 
 # Meta head
