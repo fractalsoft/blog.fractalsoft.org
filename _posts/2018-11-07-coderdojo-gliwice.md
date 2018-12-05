@@ -17,9 +17,7 @@ Przygotowaliśmy dla Was mnóstwo wiedzy i już nie możemy się doczekać, kied
 
 {: .text-justify}
 Zainspirowani [SuperDojo](/coderdojo/2018/10/superdojo/) wprowadzamy nową formułę zajęć.
-Chcemy, aby każdy znalazł coś dla siebie i mógł wykorzystać zajęcia
-<span style='font-weight: bold; text-transform: uppercase;'><span style='color: #f1b611;'>Coder</span><span style='color: #4084c5;'>Dojo</span></span>
-jak najlepiej.
+Chcemy, aby każdy znalazł coś dla siebie i mógł wykorzystać zajęcia {% include common/coderdojo--colorful-text.html %} jak najlepiej.
 Dlatego postanowiliśmy informować o naszych planach.
 Możemy zapewnić, że będzie dużo programowania, tworzenia gier, budowania robotów oraz wiele kreatywnych zajęć, ale zero nudy!
 Poniżej zamieszczamy tematy jakie będą poruszane podczas najbliższego spotkania CoderDojo Gliwice.
@@ -58,9 +56,7 @@ Nie trzeba więc płacić za pełną wersję.
 
 ### Pierwsze kroki w języku C#
 
-<div style='background-image: linear-gradient(135deg, rgb(57, 57, 84) 0%, rgb(113, 153, 206) 100%);'>
-  <img src='/assets/images/monodevelop/logo.svg' alt='Logo MonoDevelop' class='align-center'>
-</div>
+{% include common/monodevelop--headline-image.html %}
 
 {: .text-justify}
 **Programista Grzegorz** przeprowadzi pierwszą lekcję **programowania w języku C#**.
@@ -110,9 +106,7 @@ Można go uruchomić na różnych systemach operacyjnych (Raspberry Pi, Windows,
 
 ### Programowanie w C na Arduino
 
-<div style='background-color: #00979d'>
-  <img src='/assets/images/arduino/arduino-white.svg' alt='Logo Arduino' class='align-center'>
-</div>
+{% include common/arduino--headline-image.html %}
 
 {: .text-justify}
 **Mentor Darek** :neckbeard: wprowadzi w świat łączący programowanie oraz elektronikę.
@@ -132,16 +126,7 @@ Wymagania:
 _17.11.2018 (sobota) od 09:00 do 12:00_
 
 ### Miejsce zajęć :office:
-<address itemscope itemtype="http://schema.org/Organization">
-<span itemprop="name">Technopark Gliwice</span>
-<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-  <span itemprop="streetAddress">ul. Konarskiego 18C</span><br>
-  <span itemprop="postalCode">44-100</span>
-  <span itemprop="addressLocality">Gliwice</span>
-</div>
-</address>
-
-<iframe width='100%' height='350' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' src="https://www.openstreetmap.org/export/embed.html?bbox=18.68098765611649%2C50.29078730163252%2C18.684528172016147%2C50.29237410637014&amp;layer=mapnik&amp;marker=50.29158071061608%2C18.682757914066315" style='border: black 1px solid' title='Mapa z zaznaczonym budynkiem Technoparku'></iframe>
+{% include common/coderdojo--workshops-place.html %}
 
 ### Zasady CoderDojo Gliwice
 

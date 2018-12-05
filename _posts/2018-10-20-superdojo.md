@@ -45,8 +45,7 @@ Chcemy, żeby kolejne pokolenia wiedziały, jak zbudowany jest świat technologi
 Aby nie były tylko biernymi odbiorcami tego, co jest w Internecie, ale by potrafiły coś tworzyć, wykorzystać technologię w dobrym celu.
 
 {: .text-justify}
-W sobotę, 20-tego października, w ramach europejskiego tygodnia kodowania **CodeWeek** pojechaliśmy do Warszawy na
-<span style='font-weight: bold; text-transform: uppercase;'><span style='color: #4084c5;'>Super</span><span style='color: #224769;'>Dojo</span><span style='color: #f1b611;'>2018</span></span>.
+W sobotę, 20-tego października, w ramach europejskiego tygodnia kodowania **CodeWeek** pojechaliśmy do Warszawy na {% include common/superdojo--colorful-text.html year='2018' %}.
 Na co dzień <a href='https://fractalsoft.org/pl' target='_blank' title='Aplikacje internetowe w Ruby on Rails'>**tworzymy aplikacje internetowe**</a>.
 Tym razem chcieliśmy poprowadzić warsztaty niekoniecznie związane z programowaniem, ale ciągle w tematyce IT.
 Zajęcia miały być interesujące dla dzieci oraz inspirujące dla rodziców i mentorów.
