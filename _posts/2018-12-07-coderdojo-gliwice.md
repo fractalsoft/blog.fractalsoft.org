@@ -229,7 +229,7 @@ Co tylko Wam się wymarzy.
 
 ### Lista nagród
 
-Do wygrania będą drobne upominiki:
+Do wygrania będą drobne upominki:
 + Nagroda niespodzianka dla graczy
 + Kubki termiczne
 + Bidony na wodę

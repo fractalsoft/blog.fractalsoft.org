@@ -79,16 +79,7 @@ Wymagania:
 _TODO_DataZajęć (sobota) od 09:00 do 12:00_
 
 ### Miejsce zajęć :office:
-<address itemscope itemtype="http://schema.org/Organization">
-<span itemprop="name">Technopark Gliwice</span>
-<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-  <span itemprop="streetAddress">ul. Konarskiego 18C</span><br>
-  <span itemprop="postalCode">44-100</span>
-  <span itemprop="addressLocality">Gliwice</span>
-</div>
-</address>
-
-<iframe width='100%' height='350' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' src="https://www.openstreetmap.org/export/embed.html?bbox=18.68098765611649%2C50.29078730163252%2C18.684528172016147%2C50.29237410637014&amp;layer=mapnik&amp;marker=50.29158071061608%2C18.682757914066315" style='border: black 1px solid' title='Mapa z zaznaczonym budynkiem Technoparku'></iframe>
+{% include common/coderdojo--workshops-place.html %}
 
 ----
 <small>Spodobało Ci się? Podziel się tym artykułem z innymi i czytaj nas regularnie.</small>
