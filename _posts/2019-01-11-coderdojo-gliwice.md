@@ -6,7 +6,7 @@ excerpt: Po świątecznym wypoczynku startujemy z nowymi siłami. Będzie dużo 
 lang: pl
 layout: single
 tags: [programming, beginner, charity]
-title: CoderDojo Gliwice - 2019-01-19
+title: CoderDojo Gliwice - 2019-01
 toc: true
 toc_label: CoderDojo - 19.01.2019
 ---
