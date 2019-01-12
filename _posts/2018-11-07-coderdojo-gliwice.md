@@ -179,4 +179,4 @@ Kim są mentorzy?
   Dzielimy z Wami swój czas oraz pasję do tego co robimy.
 
 ----
-<small>Spodobało Ci się? Podziel się tym artykułem z innymi i czytaj nas regularnie.</small>
+{% include common/footer--polish-text.html %}

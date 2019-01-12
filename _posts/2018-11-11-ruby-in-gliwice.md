@@ -69,4 +69,4 @@ Programista odpowiedzialny jest za dobranie właściwego narzędzia do tego prob
 Dlatego jeszcze raz zachęcamy Was do uczestnictwa na spotkaniu SRUG-a.
 
 ----
-<small>Spodobało Ci się? Podziel się tym artykułem z innymi i czytaj nas regularnie.</small>
+{% include common/footer--polish-text.html %}

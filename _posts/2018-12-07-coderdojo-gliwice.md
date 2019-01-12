@@ -248,4 +248,4 @@ Cześć i czołem! Kluski z rosołem.
 ![Rosół z makaronem w literki](/assets/articles/2018-12-07/literki-w-rosole.jpg){: .align-center}
 
 ----
-<small>Spodobało Ci się? Podziel się tym artykułem z innymi i czytaj nas regularnie.</small>
+{% include common/footer--polish-text.html %}

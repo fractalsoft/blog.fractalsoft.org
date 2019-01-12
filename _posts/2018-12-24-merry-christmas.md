@@ -138,9 +138,4 @@ Niechaj te kilka magicznych dni pozwoli Wam nabrać sił, aby razem z nami zmien
 Tego Wam i sobie życzymy! Wesołych Świąt w rytmie Ruby. :christmas_tree:
 
 ----
-<small>
-Spodobało Ci się?
-Napisz nam o tym i czytaj nas regularnie.
-Możesz również podzielić się tym artykułem z innymi.
-Będzie nam niezmiernie miło.
-</small>
+{% include common/footer--polish-text.html %}

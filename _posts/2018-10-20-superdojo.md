@@ -150,5 +150,5 @@ Mamy nadzieję, że za rok znowu uda nam się wesprzeć to wydarzenie naszą wie
 ### Zdjęcia z SuperDojo 2018
 {% include gallery caption='Zdjęcia udostępniła **Fundacja CoderDojo Polska**, fot. Tomasz Mateusiak' %}
 
-<hr>
-<small>Spodobało Ci się? Podziel się tym artykułem z innymi i czytaj nas regularnie.</small>
+----
+{% include common/footer--polish-text.html %}

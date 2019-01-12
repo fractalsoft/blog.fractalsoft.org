@@ -113,4 +113,4 @@ _19.01.2019 (sobota) od 09:00 do 12:00_
 {% include common/coderdojo--workshops-place.html %}
 
 ----
-<small>Spodobało Ci się? Podziel się tym artykułem z innymi i czytaj nas regularnie.</small>
+{% include common/footer--polish-text.html %}
