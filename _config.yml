@@ -31,7 +31,7 @@ plugins:
 breadcrumbs: false
 minimal_mistakes_skin: contrast
 og_image: /assets/images/fractalsoft/blog-144x144.png
-paginate: 5
+paginate: 10
 paginate_path: /page:num/
 search: true
 
