@@ -73,11 +73,8 @@ defaults:
 
 footer:
   links:
-    # - label: Fractal Soft
-    #   url: https://fractalsoft.org
-    - label: GitHub
-      icon: 'fab fa-fw fa-github'
-      url: https://github.com/fractalsoft
+    - label: Fractal Soft
+      url: https://fractalsoft.org
 
 tag_archive:
   type: liquid
