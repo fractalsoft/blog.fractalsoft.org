@@ -3,7 +3,7 @@ baseurl: ''
 url: https://blog.fractalsoft.org
 
 # Theme
-remote_theme: mmistakes/minimal-mistakes@4.13.0
+remote_theme: mmistakes/minimal-mistakes
 # theme: minimal-mistakes-jekyll
 
 # Meta head
@@ -75,6 +75,9 @@ footer:
   links:
     # - label: Fractal Soft
     #   url: https://fractalsoft.org
+    - label: GitHub
+      icon: 'fab fa-fw fa-github'
+      url: https://github.com/fractalsoft
 
 tag_archive:
   type: liquid

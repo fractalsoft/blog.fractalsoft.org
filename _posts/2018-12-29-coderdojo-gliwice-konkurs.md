@@ -250,7 +250,7 @@ Dla urozmaicenia dodali efekt padającego śniegu, mimo iż za oknem śniegu nie
 {: .text-justify}
 Nie wyobrażamy sobie Świąt bez choinki.
 Choćby miało to być malutkie drzewko z papierowymi ozdobami.
-Takie jak stoi u nas w [biurze w Gliwicach](/news/2018/12/merry-christmas).
+Takie jak stoi u nas w [biurze w Gliwicach](/news/2018/12/merry-christmas/).
 Jednak rzeczywista choinka zajmuje przestrzeń.
 A gdyby tak zdygitalizować choinkę?
 Tą drogą poszło kilku ninja i to w różnych grupach.

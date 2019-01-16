@@ -23,7 +23,7 @@ Nie czekajcie i dołączcie do **CoderDojo Gliwice**!
 {: .text-justify}
 Na ostatnich zajęciach zorganizowaliśmy dla Was [świąteczny konkurs CoderDojo](/coderdojo/2018/12/coderdojo-gliwice/#konkurs).
 Bardzo dziękujemy Wam za udział oraz fantastyczne pomysły.
-Ciekawskich zapraszamy do przeczytania [relacji z konkursu](/coderdojo/2018/12/coderdojo-gliwice-konkurs).
+Ciekawskich zapraszamy do przeczytania [relacji z konkursu](/coderdojo/2018/12/coderdojo-gliwice-konkurs/).
 A teraz do rzeczy!
 
 ## Tematy na CoderDojo Gliwice

@@ -6,6 +6,18 @@ womanonrails:
     - label: Programista śledczy
       icon: 'fas fa-fw fa-link'
       url: https://fractalsoft.org/pl/team/womanonrails
+    - label: Twitter
+      icon: 'fab fa-fw fa-twitter'
+      url: https://twitter.com/womanonrails
+    - label: LinkedIn
+      icon: 'fab fa-fw fa-linkedin'
+      url: https://linkedin.com/in/womanonrails
+    - label: Stack Overflow
+      icon: 'fab fa-fw fa-stack-overflow'
+      url: http://stackoverflow.com/users/2885676/womanonrails
+    - label: Instagram
+      icon: 'fab fa-fw fa-instagram'
+      url: https://instagram.com/womanonrails
 
 lisu:
   name: Grzegorz Lisowski
@@ -24,6 +36,18 @@ torrocus:
     - label: Programista aplikacji webowych
       icon: 'fas fa-fw fa-link'
       url: https://fractalsoft.org/pl/team/torrocus
+    - label: Twitter
+      icon: 'fab fa-fw fa-twitter'
+      url: https://twitter.com/torrocus
+    - label: LinkedIn
+      icon: 'fab fa-fw fa-linkedin'
+      url: https://linkedin.com/in/torrocus
+    - label: Stack Overflow
+      icon: 'fab fa-fw fa-stack-overflow'
+      url: https://stackoverflow.com/users/2883890/torrocus
+    - label: Instagram
+      icon: 'fab fa-fw fa-instagram'
+      url: https://instagram.com/torrocus
 
 team:
   name: Fractal Soft Team
@@ -32,3 +56,21 @@ team:
     - label: Ruby on Rails developers
       icon: 'fas fa-fw fa-link'
       url: https://fractalsoft.org/pl/team
+    - label: Twitter
+      icon: 'fab fa-fw fa-twitter'
+      url: https://twitter.com/fractal_soft
+    - label: LinkedIn
+      icon: 'fab fa-fw fa-linkedin'
+      url: https://www.linkedin.com/company/fractalsoft
+    - label: YouTube
+      icon: 'fab fa-fw fa-youtube'
+      url: https://www.youtube.com/c/fractalsoft
+    - label: Google+
+      icon: 'fab fa-fw fa-google-plus'
+      url: https://www.google.com/+fractalsoft
+    - label: Facebook
+      icon: 'fab fa-fw fa-facebook'
+      url: https://www.facebook.com/fractalsoft
+    - label: Instagram
+      icon: 'fab fa-fw fa-instagram'
+      url: https://instagram.com/fractalsoft
