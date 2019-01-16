@@ -29,6 +29,8 @@ plugins:
 
 # Theme settings
 breadcrumbs: false
+logo: /assets/images/fractalsoft/blog-44x44.png
+masthead_title: Technical blog by Fractal Soft
 minimal_mistakes_skin: contrast
 og_image: /assets/images/fractalsoft/blog-144x144.png
 paginate: 10
@@ -73,8 +75,24 @@ defaults:
 
 footer:
   links:
-    - label: Fractal Soft
-      url: https://fractalsoft.org
+    - label: Twitter
+      icon: 'fab fa-fw fa-twitter'
+      url: https://twitter.com/fractal_soft
+    - label: LinkedIn
+      icon: 'fab fa-fw fa-linkedin'
+      url: https://www.linkedin.com/company/fractalsoft
+    - label: YouTube
+      icon: 'fab fa-fw fa-youtube'
+      url: https://www.youtube.com/c/fractalsoft
+    - label: Google+
+      icon: 'fab fa-fw fa-google-plus'
+      url: https://www.google.com/+fractalsoft
+    - label: Facebook
+      icon: 'fab fa-fw fa-facebook'
+      url: https://www.facebook.com/fractalsoft
+    - label: Instagram
+      icon: 'fab fa-fw fa-instagram'
+      url: https://instagram.com/fractalsoft
 
 tag_archive:
   type: liquid
