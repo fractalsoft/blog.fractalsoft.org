@@ -16,6 +16,7 @@ Programowaniem gier w firmie zajmuje się głównie [Grzegorz](https://fractalso
 Na codzień [tworzymy aplikacje internetowe](https://fractalsoft.org/pl), ale czasem nadarza się okazja uczestniczenia w projekcie jakiejś gry.
 Jedną z takich gier jest gra _M1 Fun_, czyli _Przygody Misia Pierwszego_.
 Głównym bohaterem jest mały miś, który przeżywa swoje zabawne przygody wraz z graczem.
+:bear:
 
 ![Ekran początkowy gry](/assets/gallery/2019-01-18/game-initial-screen.jpg){: .align-center}
 
@@ -56,6 +57,7 @@ Interakcja z tymi obiektami odbywa się podobnie jak w grach mobilnych.
 Trzeba jednak pamiętać, że _rozszerzanie rzeczywistości_ możliwe jest tylko w wyznaczonych obszarach.
 Obszary te w grze nazywa się **markerami**.
 W omawianym przypadku markerami są obrazy na podświetlonych sześciennych boksach.
+:video_game:
 
 <figure class='third'>
   <a href='/assets/gallery/2019-01-18/01-board.jpg'>
@@ -84,6 +86,7 @@ W omawianym przypadku markerami są obrazy na podświetlonych sześciennych boks
 {: .text-justify}
 Gra M1 Fun dostępna jest w sklepie Google Play na platformę Android.
 Można ją zainstalować za darmo, a w okresie do 23.12.2018 można było zagrać w centrach handlowych M1.
+:department_store:
 Poniżej zamieszczamy zrzuty ekranu widoczne po uruchomieniu gry.
 Na liście twórców znajdziecie m.in. Grzegorza.
 
