@@ -122,7 +122,7 @@ Będzie można również nauczyć się programowania robotów.
 Ponieważ nie wiem czy wiecie, ale **programując w C** można sterować mBotem.
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj <a href='https://www.python.org/downloads/' rel='nofollow noopener noreferrer' target='_blank'>Python</a> - popularny i darmowy język wysokiego poziomu, który można uruchomić na wielu systemach operacyjnych.
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='Python' url='https://www.python.org/downloads/' %} - popularny i darmowy język wysokiego poziomu, który można uruchomić na wielu systemach operacyjnych.
 
 
 ----
@@ -145,7 +145,7 @@ Aż po praktyczne zastosowania i wielokrotne zagnieżdżanie.
 Do tego dorzucona zostanie klasa Random, aby trochę urozmaicić zabawę z kodem.
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj <a href='https://www.monodevelop.com/' rel='nofollow noopener noreferrer' target='_blank'>MonoDevelop</a> - oprogramowanie IDE do C sharpa, które jest zupełnie za darmo. Można je uruchomić na różnych systemach operacyjnych (Linux, Mac OS, Windows).
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='MonoDevelop' url='https://www.monodevelop.com/' %} - oprogramowanie IDE do C sharpa, które jest zupełnie za darmo. Można je uruchomić na różnych systemach operacyjnych (Linux, Mac OS, Windows).
 
 
 ----
@@ -165,9 +165,8 @@ Spróbujemy wykorzystać pętle.
 A może nawet uda się trochę poeksperymentować.
 Muzyczno-programistyczne zajęcia poprowadzi **programista Alek**. :musical_keyboard:
 
-
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj <a href='https://sonic-pi.net/' rel='nofollow noopener noreferrer' target='_blank'>Sonic Pi</a> - darmowe narzędzie do programowania muzyki. Przy pomocy języka Ruby można komponować własne utwory lub przerabiać istniejące. Program można uruchomić na wielu systemach operacyjnych (Windows, Mac OS, Linux), a nawet na Raspberry Pi.
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='Sonic Pi' url='https://sonic-pi.net/' %} - darmowe narzędzie do programowania muzyki. Przy pomocy języka Ruby można komponować własne utwory lub przerabiać istniejące. Program można uruchomić na wielu systemach operacyjnych (Windows, Mac OS, Linux), a nawet na Raspberry Pi.
 + Słuchawki - obowiązkowo! :loudspeaker:
 
 
@@ -198,7 +197,7 @@ Wszystko to pozwoli na umieszczenie swojej strony w Internecie przy wykorzystani
 
 Wymagania:
 + {: .text-justify}Sprawdź czy masz **przeglądarkę internetową**.
-+ {: .text-justify}Ściągnij i zainstaluj <a href='https://git-scm.com/downloads' rel='nofollow noopener noreferrer' target='_blank'>Git-a</a> - dokładnie chodzi o klienta. Git to rozproszony system kontroli wersji, czyli podstawowe narzędzie każdego programisty. Można znaleźć wiele różnych klientów, zależnie od systemu operacyjnego. Dlatego wybór pozostawiamy Wam.
++ {: .text-justify}Ściągnij i zainstaluj {% include common/foreign-link.html name='Git-a' url='https://git-scm.com/downloads' %} - dokładnie chodzi o klienta. Git to rozproszony system kontroli wersji, czyli podstawowe narzędzie każdego programisty. Można znaleźć wiele różnych klientów, zależnie od systemu operacyjnego. Dlatego wybór pozostawiamy Wam.
 
 
 ## Informacje organizacyjne

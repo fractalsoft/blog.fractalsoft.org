@@ -19,7 +19,7 @@ Każdy uczestnik naszego małego konkursu otrzymał nagrodę.
 Nagrodami były różnego rodzaju gadżety (kubki termiczne, bidony, gry logiczne, czyściki do telefonów, długopisy, smycze), a nagrodą główną był klucz licencyjny do gry <a href='https://undertale.com/' rel='nofollow noopener' target='_blank'>Undertale</a>.
 Sponsorem nagród jest **Fractal Soft**.
 Firma, w której pracujemy i <a href='https://fractalsoft.org/pl' target='_blank' title='Aplikacje internetowe w Ruby on Rails'>**tworzymy aplikacje internetowe**</a>, a czasem również piszemy gry.
-Jak chcecie możecie zalajkować naszą stronę na <a href='https://www.facebook.com/fractalsoft' rel='nofollow noopener noreferrer' target='_blank'>Facebooku</a>.
+Jak chcecie możecie zalajkować naszą stronę na {% include common/foreign-link.html name='Facebooku' url='https://www.facebook.com/fractalsoft' %}.
 
 {: .text-justify}
 Chcemy trochę więcej opowiedzieć o nagrodzie głównej.

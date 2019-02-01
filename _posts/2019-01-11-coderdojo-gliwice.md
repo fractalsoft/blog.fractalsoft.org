@@ -79,7 +79,7 @@ Ponadto [programowanie Arduino](/coderdojo/2018/11/coderdojo-gliwice/#programowa
 Polecamy go szczególnie dla młodszych ninja, którzy chcą poeksperymentować z elektroniką.
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj <a href='https://www.python.org/downloads/' rel='nofollow noopener noreferrer' target='_blank'>Python</a> - język programowania wysokiego poziomu, szczególnie popularny w środowiskach akademickich. Jest darmowy i ma wiele użytecznych bibliotek. A w dodatku uruchomić go można na różnych systemach.
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='Python' url='https://www.python.org/downloads/' %} - język programowania wysokiego poziomu, szczególnie popularny w środowiskach akademickich. Jest darmowy i ma wiele użytecznych bibliotek. A w dodatku uruchomić go można na różnych systemach.
 
 ----
 
@@ -102,7 +102,7 @@ Na koniec zajęć stworzymy naszą pierwszą grę. :video_game:
 Będzie to gra w kółko krzyżyk.
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj <a href='https://www.monodevelop.com/' rel='nofollow noopener noreferrer' target='_blank'>MonoDevelop</a> - darmowe oraz wielosystemowe IDE, czyli zintegrowane środowisko programistyczne. Pozwala na programowanie w językach takich jak C#, F#, Visual Basic i inne.
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='MonoDevelop' url='https://www.monodevelop.com/' %} - darmowe oraz wielosystemowe IDE, czyli zintegrowane środowisko programistyczne. Pozwala na programowanie w językach takich jak C#, F#, Visual Basic i inne.
 
 ## Informacje organizacyjne
 

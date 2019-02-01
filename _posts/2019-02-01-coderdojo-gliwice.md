@@ -85,10 +85,6 @@ Jakby co wszystko jest w artykule [CoderDojo Gliwice - 2019-01](/coderdojo/2019/
   </a>
 </figure>
 
-<!-- 
-{% include gallery caption='TODO_Opis zajęcia CoderDojo Gliwice TODO_DataPoprzednichZajęć' %}
- -->
-
 ## Tematy na CoderDojo Gliwice
 
 ### Gry czasu rzeczywistego w C#
@@ -112,7 +108,7 @@ Grą, którą będziemy tworzyć na tych zajęciach będzie Snake.
 :bug:
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj <a href='#' rel='nofollow noopener noreferrer' target='_blank'>MonoDevelop</a> - darmowe środowisko do programowania w C# i językach platformy .NET. Program dostępny jest na system Windows, Linux i Mac OS.
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='MonoDevelop' url='https://www.monodevelop.com/' %} - darmowe środowisko do programowania w C# i językach platformy .NET. Program dostępny jest na system Windows, Linux i Mac OS.
 
 ----
 
