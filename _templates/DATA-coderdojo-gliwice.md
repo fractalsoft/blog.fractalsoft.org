@@ -1,8 +1,10 @@
 ---
 author: TODO_AutorArtykułu
 category: coderdojo
-description: "Programowanie dla dzieci - CoderDojo Gliwice #TODO_NumerKolejny - Nauka TODO_ListaTechnologii"
+description: "TODO_ListaTechnologiiOrazCzegoMoznaSieNauczyc - Programowanie dla dzieci - CoderDojo Gliwice #TODO_NumerKolejny"
 excerpt: TODO_OpisDo160Znaków
+header:
+  image: assets/articles/TODO_Data/header.jpg-TODO_OpcjonalneTematyczneZdjecie
 lang: pl
 layout: single
 tags: [programming, beginner, charity]

@@ -17,6 +17,7 @@ highlighter: rouge
 include: ['_data', '_pages']
 og_image: /assets/images/fractalsoft/blog.svg
 permalink: /:categories/:year/:month/:title/
+# permalink: pretty
 
 # Plugins settings
 plugins:

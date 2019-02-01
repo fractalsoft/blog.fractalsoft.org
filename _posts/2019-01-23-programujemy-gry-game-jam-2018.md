@@ -39,7 +39,7 @@ Właśnie na temat _game jamu_ jest ten artykuł.
 **Game Jam** to rodzaj hackathonu, czyli programistycznego maratonu.
 Celem hackathonów jest zbudowanie jakiegoś projektu w zadanym z góry czasie i temacie.
 W przypadku game jamu głównym celem jest zaplanowanie, zaprojektowanie oraz zaimplementowanie działającej gry.
-Określenie _game jam_ nawiązuje do _jam session_, czyli grania (muzykowania) na różnych instrumentach ale w sposób improwizowany.
+Określenie _game jam_ nawiązuje do _jam session_, czyli grania (muzykowania) na różnych instrumentach, ale w sposób improwizowany.
 
 {: .text-justify}
 Skojarzenie _hackathonu_ z maratonem jest nieprzypadkowe.

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="780" height="360" x="0" y="0">
+<line x1='0' y1='60' x2='780' y2='60' stroke='grey' stroke-width='1' />
+<text x='30' y='55' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>9%</text>
+<line x1='0' y1='90' x2='780' y2='90' stroke='grey' stroke-width='1' />
+<text x='30' y='85' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>8%</text>
+<line x1='0' y1='120' x2='780' y2='120' stroke='grey' stroke-width='1' />
+<text x='30' y='115' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>7%</text>
+<line x1='0' y1='150' x2='780' y2='150' stroke='grey' stroke-width='1' />
+<text x='30' y='145' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>6%</text>
+<line x1='0' y1='180' x2='780' y2='180' stroke='grey' stroke-width='1' />
+<text x='30' y='175' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>5%</text>
+<line x1='0' y1='210' x2='780' y2='210' stroke='grey' stroke-width='1' />
+<text x='30' y='205' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>4%</text>
+<line x1='0' y1='240' x2='780' y2='240' stroke='grey' stroke-width='1' />
+<text x='30' y='235' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>3%</text>
+<line x1='0' y1='270' x2='780' y2='270' stroke='grey' stroke-width='1' />
+<text x='30' y='265' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>2%</text>
+<line x1='0' y1='300' x2='780' y2='300' stroke='grey' stroke-width='1' />
+<text x='30' y='295' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>1%</text>
+<line x1='0' y1='330' x2='780' y2='330' stroke='grey' stroke-width='1' />
+<text x='30' y='325' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>0%</text>
+<g transform="translate(60 -20)">
+<rect x='0' y='82.69999999999999' width='20' height='267.3' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='10' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>a</text>
+<text x='0' y='37.69999999999999' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 0 37.69999999999999) translate(-4 -4)'>8.91%</text>
+<rect x='20' y='320.3' width='20' height='29.7' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='30' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>ą</text>
+<text x='20' y='275.3' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 20 275.3) translate(-4 -4)'>0.99%</text>
+<rect x='40' y='305.9' width='20' height='44.1' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='50' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>b</text>
+<text x='40' y='260.9' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 40 260.9) translate(-4 -4)'>1.47%</text>
+<rect x='60' y='231.2' width='20' height='118.8' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='70' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>c</text>
+<text x='60' y='186.2' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 60 186.2) translate(-4 -4)'>3.96%</text>
+<rect x='80' y='338.0' width='20' height='12.0' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='90' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>ć</text>
+<text x='80' y='293.0' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 80 293.0) translate(-4 -4)'>0.40%</text>
+<rect x='100' y='252.5' width='20' height='97.5' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='110' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>d</text>
+<text x='100' y='207.5' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 100 207.5) translate(-4 -4)'>3.25%</text>
+<rect x='120' y='120.20000000000002' width='20' height='229.79999999999998' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='130' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>e</text>
+<text x='120' y='75.20000000000002' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 120 75.20000000000002) translate(-4 -4)'>7.66%</text>
+<rect x='140' y='316.7' width='20' height='33.300000000000004' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='150' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>ę</text>
+<text x='140' y='271.7' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 140 271.7) translate(-4 -4)'>1.11%</text>
+<rect x='160' y='341.0' width='20' height='9.0' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='170' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>f</text>
+<text x='160' y='296.0' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 160 296.0) translate(-4 -4)'>0.30%</text>
+<rect x='180' y='307.4' width='20' height='42.6' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='190' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>g</text>
+<text x='180' y='262.4' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 180 262.4) translate(-4 -4)'>1.42%</text>
+<rect x='200' y='317.6' width='20' height='32.4' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='210' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>h</text>
+<text x='200' y='272.6' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 200 272.6) translate(-4 -4)'>1.08%</text>
+<rect x='220' y='103.69999999999999' width='20' height='246.3' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='230' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>i</text>
+<text x='220' y='58.69999999999999' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 220 58.69999999999999) translate(-4 -4)'>8.21%</text>
+<rect x='240' y='281.6' width='20' height='68.39999999999999' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='250' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>j</text>
+<text x='240' y='236.60000000000002' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 240 236.60000000000002) translate(-4 -4)'>2.28%</text>
+<rect x='260' y='244.7' width='20' height='105.3' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='270' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>k</text>
+<text x='260' y='199.7' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 260 199.7) translate(-4 -4)'>3.51%</text>
+<rect x='280' y='287.0' width='20' height='63.0' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='290' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>l</text>
+<text x='280' y='242.0' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 280 242.0) translate(-4 -4)'>2.10%</text>
+<rect x='300' y='295.4' width='20' height='54.6' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='310' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>ł</text>
+<text x='300' y='250.39999999999998' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 300 250.39999999999998) translate(-4 -4)'>1.82%</text>
+<rect x='320' y='266.0' width='20' height='84.0' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='330' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>m</text>
+<text x='320' y='221.0' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 320 221.0) translate(-4 -4)'>2.80%</text>
+<rect x='340' y='184.4' width='20' height='165.6' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='350' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>n</text>
+<text x='340' y='139.4' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 340 139.4) translate(-4 -4)'>5.52%</text>
+<rect x='360' y='344.0' width='20' height='6.0' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='370' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>ń</text>
+<text x='360' y='299.0' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 360 299.0) translate(-4 -4)'>0.20%</text>
+<rect x='380' y='117.5' width='20' height='232.5' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='390' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>o</text>
+<text x='380' y='72.5' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 380 72.5) translate(-4 -4)'>7.75%</text>
+<rect x='400' y='324.5' width='20' height='25.5' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='410' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>ó</text>
+<text x='400' y='279.5' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 400 279.5) translate(-4 -4)'>0.85%</text>
+<rect x='420' y='256.1' width='20' height='93.89999999999999' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='430' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>p</text>
+<text x='420' y='211.10000000000002' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 420 211.10000000000002) translate(-4 -4)'>3.13%</text>
+<rect x='440' y='345.8' width='20' height='4.2' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='450' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>q</text>
+<text x='440' y='300.8' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 440 300.8) translate(-4 -4)'>0.14%</text>
+<rect x='460' y='209.29999999999998' width='20' height='140.70000000000002' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='470' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>r</text>
+<text x='460' y='164.29999999999998' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 460 164.29999999999998) translate(-4 -4)'>4.69%</text>
+<rect x='480' y='220.4' width='20' height='129.6' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='490' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>s</text>
+<text x='480' y='175.4' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 480 175.4) translate(-4 -4)'>4.32%</text>
+<rect x='500' y='330.2' width='20' height='19.8' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='510' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>ś</text>
+<text x='500' y='285.2' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 500 285.2) translate(-4 -4)'>0.66%</text>
+<rect x='520' y='230.60000000000002' width='20' height='119.39999999999999' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='530' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>t</text>
+<text x='520' y='185.60000000000002' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 520 185.60000000000002) translate(-4 -4)'>3.98%</text>
+<rect x='540' y='275.0' width='20' height='75.0' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='550' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>u</text>
+<text x='540' y='230.0' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 540 230.0) translate(-4 -4)'>2.50%</text>
+<rect x='560' y='348.8' width='20' height='1.2' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='570' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>v</text>
+<text x='560' y='303.8' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 560 303.8) translate(-4 -4)'>0.04%</text>
+<rect x='580' y='210.5' width='20' height='139.5' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='590' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>w</text>
+<text x='580' y='165.5' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 580 165.5) translate(-4 -4)'>4.65%</text>
+<rect x='600' y='349.4' width='20' height='0.6' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='610' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>x</text>
+<text x='600' y='304.4' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 600 304.4) translate(-4 -4)'>0.02%</text>
+<rect x='620' y='237.2' width='20' height='112.8' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='630' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>y</text>
+<text x='620' y='192.2' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 620 192.2) translate(-4 -4)'>3.76%</text>
+<rect x='640' y='180.8' width='20' height='169.2' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='650' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>z</text>
+<text x='640' y='135.8' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 640 135.8) translate(-4 -4)'>5.64%</text>
+<rect x='660' y='348.2' width='20' height='1.7999999999999998' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='670' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>ź</text>
+<text x='660' y='303.2' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 660 303.2) translate(-4 -4)'>0.06%</text>
+<rect x='680' y='325.1' width='20' height='24.9' fill='#abcdef' stroke='black' stroke-width='1' />
+<text x='690' y='370' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>ż</text>
+<text x='680' y='280.1' width='20' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 680 280.1) translate(-4 -4)'>0.83%</text>
+</g>
+</svg>
