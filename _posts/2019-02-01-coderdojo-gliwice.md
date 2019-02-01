@@ -8,7 +8,7 @@ header:
     - label: Programowanie gier w Unity
       url: /news/2019/01/programujemy-gry-game-jam-2018/
   caption: "Źródło: <a href='https://www.flickr.com/photos/groume/6326938044' rel='nofollow noopener noreferrer' target='_blank'>Flickr</a>"
-  og_image: /assets/images/page-header-og-image.png
+  og_image: /assets/articles/2019-02-01/og_image.png
   overlay_filter: rgba(0, 0, 0, 0.5)
   overlay_image: assets/articles/2019-02-01/header.jpg
 lang: pl
