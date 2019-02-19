@@ -14,7 +14,7 @@ column_width = 20
 image_width = 80 + column_width * number_of_letters
 bar_color = '#abcdef'
 
-data=Hash[*frequency_of_letters.strip.split(/\s+/)]
+data = Hash[*frequency_of_letters.strip.split(/\s+/)]
 
 puts <<EOF
 <?xml version="1.0" encoding="utf-8" standalone="no"?>

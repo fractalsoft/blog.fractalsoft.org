@@ -93,6 +93,7 @@ Na szczęście na Uniwersytecie Śląskim, filia w Cieszynie, jest kierunek "Pro
 Spotkaliśmy tam czterech wspaniałych grafików: Anitę, Izabelę, Cypriana oraz Michała.
 Pełni pasji, pomysłów, talentu graficznego i chęci sprawdzenia się.
 Czego chcieć więcej.
+To był ich pierwszy Global Game Jam.
 
 ![Zespół Can't Sea](/assets/gallery/2019-01-23/cant-sea/cant-sea--team.jpg){: .align-center}
 
@@ -100,7 +101,7 @@ Czego chcieć więcej.
 ### Burza mózgów
 
 {: .text-justify}
-Po usłyszeniu tematu zorganizowaliśmy w zespole burzę mózgów, aby wymienić się pomysłami.
+Po usłyszeniu tematu game jamu zorganizowaliśmy w zespole burzę mózgów, aby wymienić się pomysłami.
 Jedno słowo - Transmission - a dawało tyle różnych znaczeń i skojarzeń.
 Można to rozumieć jako transmisja, przekazywanie (danych, informacji).
 Poszliśmy w tym kierunku i dotarliśmy do echolokacji i sonaru.
@@ -130,7 +131,7 @@ Dlatego w tych najciemniejszych zakamarkach warto używać sonaru zamiast świat
 {: .text-justify}
 Na platformie Global Game Jam znajdziecie
 {% include common/foreign-link.html name='stronę' url='https://globalgamejam.org/2018/games/cant-sea' %}
-naszej gry, która powstała na Global Game Jam 2018.
+naszej gry, która powstała na Global Game Jam 2018 w Cieszynie.
 
 
 <video width='640' height='480' controls controlsList='nodownload'>
@@ -177,28 +178,28 @@ Potrzebne były m.in. takie elementy jak:
 
 <figure class='half'>
   <a href='/assets/gallery/2019-01-23/cant-sea/01.jpg'>
-    <img src='/assets/gallery/2019-01-23/cant-sea/thumbs/01.jpg' alt=''>
+    <img src='/assets/gallery/2019-01-23/cant-sea/thumbs/01.jpg' alt='Nasi graficy na Global Game Jam Cieszyn 2018'>
   </a>
   <a href='/assets/gallery/2019-01-23/cant-sea/02.jpg'>
-    <img src='/assets/gallery/2019-01-23/cant-sea/thumbs/02.jpg' alt=''>
+    <img src='/assets/gallery/2019-01-23/cant-sea/thumbs/02.jpg' alt='Proces tworzenie gry na Global Game Jam Cieszyn 2018'>
   </a>
   <a href='/assets/gallery/2019-01-23/cant-sea/03.jpg'>
-    <img src='/assets/gallery/2019-01-23/cant-sea/thumbs/03.jpg' alt=''>
+    <img src='/assets/gallery/2019-01-23/cant-sea/thumbs/03.jpg' alt='Współpraca grafików i programistów - GGJ Cieszyn 2018'>
   </a>
   <a href='/assets/gallery/2019-01-23/cant-sea/04.jpg'>
-    <img src='/assets/gallery/2019-01-23/cant-sea/thumbs/04.jpg' alt=''>
+    <img src='/assets/gallery/2019-01-23/cant-sea/thumbs/04.jpg' alt='Projektowanie poziomu w grze'>
   </a>
   <a href='/assets/gallery/2019-01-23/cant-sea/05.jpg'>
-    <img src='/assets/gallery/2019-01-23/cant-sea/thumbs/05.jpg' alt=''>
+    <img src='/assets/gallery/2019-01-23/cant-sea/thumbs/05.jpg' alt='Składanie gry w Unity oraz nowe poziomy w grze'>
   </a>
   <a href='/assets/gallery/2019-01-23/cant-sea/06.jpg'>
-    <img src='/assets/gallery/2019-01-23/cant-sea/thumbs/06.jpg' alt=''>
+    <img src='/assets/gallery/2019-01-23/cant-sea/thumbs/06.jpg' alt='Selfi naszego zespołu na Global Game Jam w Cieszynie 2018'>
   </a>
   <a href='/assets/gallery/2019-01-23/cant-sea/07.jpg'>
-    <img src='/assets/gallery/2019-01-23/cant-sea/thumbs/07.jpg' alt=''>
+    <img src='/assets/gallery/2019-01-23/cant-sea/thumbs/07.jpg' alt='Pierwsze próby grania i dużo śmiechu'>
   </a>
   <a href='/assets/gallery/2019-01-23/cant-sea/08.jpg'>
-    <img src='/assets/gallery/2019-01-23/cant-sea/thumbs/08.jpg' alt=''>
+    <img src='/assets/gallery/2019-01-23/cant-sea/thumbs/08.jpg' alt='Prezentacja naszej gry w Unity na Global Game Jam Cieszyn 2018'>
   </a>
 </figure>
 

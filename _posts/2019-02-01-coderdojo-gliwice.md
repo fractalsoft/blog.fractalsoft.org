@@ -136,7 +136,7 @@ Zwłaszcza jeżeli nie zna się klucza szyfrującego.
 Oczywiście później cały proces kryptograficzny zautomatyzowaliśmy.
 Powstały m.in takie proste skrypty w Ruby:
 ```ruby
-# Klucze: GADERYPOLUKI | POLITYKARENU | KONIECMATURY
+# Klucze: GADERYPOLUKI | POLITYKARENU | KONIECMATURY | NOWEBUTYLISA
 klucz = "GADERYPOLUKI"
 tekst = "ZASZYFRUJ MNIE"
 zaszyfrowany = ""
@@ -144,7 +144,7 @@ zaszyfrowany = ""
 def szyfruj_litere(litera, klucz)
   indeks = klucz.index(litera)
   return litera unless indeks
-  klucz[indes.even? ? indeks + 1 : indeks - 1]
+  klucz[indeks.even? ? indeks + 1 : indeks - 1]
 end
 
 tekst.each_char do |litera|
