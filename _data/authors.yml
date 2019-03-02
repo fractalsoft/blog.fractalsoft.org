@@ -5,6 +5,7 @@ womanonrails:
   links:
     - label: Programista śledczy
       icon: 'fas fa-fw fa-link'
+      rel: ''
       url: https://fractalsoft.org/pl/team/womanonrails
     - label: Twitter
       icon: 'fab fa-fw fa-twitter'
@@ -26,16 +27,22 @@ lisu:
   links:
     - label: Programista aplikacji i gier
       icon: 'fas fa-fw fa-link'
+      rel: ''
       url: https://fractalsoft.org/pl/team/lisu
 
 torrocus:
-  name: Alek Malaszkiewicz
-  avatar: https://www.gravatar.com/avatar/f6bcc574c88017e6cc8491b571fd816d?s=110
+  name: Alek Małaszkiewicz
+  avatar: /assets/authors/torrocus.jpg
   bio:
   links:
     - label: Programista aplikacji webowych
       icon: 'fas fa-fw fa-link'
+      rel: ''
       url: https://fractalsoft.org/pl/team/torrocus
+    - label: Programmer, IT consultant
+      icon: 'fas fa-fw fa-link'
+      rel: ''
+      url: https://torrocus.com
     - label: Twitter
       icon: 'fab fa-fw fa-twitter'
       url: https://twitter.com/torrocus

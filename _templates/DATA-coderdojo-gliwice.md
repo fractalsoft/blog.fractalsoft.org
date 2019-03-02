@@ -36,7 +36,7 @@ TODO_KrótkieWprowadzenie.
 TODO_OpisNumer1
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj <a href='#' rel='nofollow noopener noreferrer' target='_blank'>TODO_ProgramDoZainstalowaniaNumer1</a>
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='TODO_ProgramDoZainstalowaniaNumer1' url='#' %}
 
 
 ----
@@ -48,7 +48,7 @@ Wymagania:
 TODO_OpisNumer2
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj <a href='#' rel='nofollow noopener noreferrer' target='_blank'>TODO_ProgramDoZainstalowaniaNumer2</a>
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='TODO_ProgramDoZainstalowaniaNumer2' url='#' %}
 
 
 ----
@@ -60,19 +60,7 @@ Wymagania:
 TODO_OpisNumer3
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj <a href='#' rel='nofollow noopener noreferrer' target='_blank'>TODO_ProgramDoZainstalowaniaNumer3</a>
-
-
-----
-
-### TODO_TematNumer4
-
-[TODO_ObrazekNumer4]
-
-TODO_OpisNumer4
-
-Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj <a href='#' rel='nofollow noopener noreferrer' target='_blank'>TODO_ProgramDoZainstalowaniaNumer4</a>
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='TODO_ProgramDoZainstalowaniaNumer3' url='#' %}
 
 
 ## Informacje organizacyjne
