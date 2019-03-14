@@ -1,12 +1,12 @@
 womanonrails:
   name: Agnieszka Matysek
-  avatar: https://www.gravatar.com/avatar/b6e8fe8b1304dc65a50cc3c48fc69a81?s=110
+  avatar: /assets/authors/womanonrails.jpg
   bio:
   links:
     - label: Programista śledczy
       icon: 'fas fa-fw fa-link'
       rel: ''
-      url: https://fractalsoft.org/pl/team/womanonrails
+      url: https://fractalsoft.org/pl/zespol/womanonrails
     - label: Twitter
       icon: 'fab fa-fw fa-twitter'
       url: https://twitter.com/womanonrails
@@ -15,7 +15,7 @@ womanonrails:
       url: https://linkedin.com/in/womanonrails
     - label: Stack Overflow
       icon: 'fab fa-fw fa-stack-overflow'
-      url: http://stackoverflow.com/users/2885676/womanonrails
+      url: https://stackoverflow.com/users/2885676/womanonrails
     - label: Instagram
       icon: 'fab fa-fw fa-instagram'
       url: https://instagram.com/womanonrails
@@ -28,7 +28,7 @@ lisu:
     - label: Programista aplikacji i gier
       icon: 'fas fa-fw fa-link'
       rel: ''
-      url: https://fractalsoft.org/pl/team/lisu
+      url: https://fractalsoft.org/pl/zespol/lisu
 
 torrocus:
   name: Alek Małaszkiewicz
@@ -38,7 +38,7 @@ torrocus:
     - label: Programista aplikacji webowych
       icon: 'fas fa-fw fa-link'
       rel: ''
-      url: https://fractalsoft.org/pl/team/torrocus
+      url: https://fractalsoft.org/pl/zespol/torrocus
     - label: Programmer, IT consultant
       icon: 'fas fa-fw fa-link'
       rel: ''
@@ -62,4 +62,4 @@ team:
   links:
     - label: Ruby on Rails developers
       icon: 'fas fa-fw fa-link'
-      url: https://fractalsoft.org/pl/team
+      url: https://fractalsoft.org/pl/zespol

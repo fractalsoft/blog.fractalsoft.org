@@ -85,7 +85,7 @@ Temat, który obowiązywał w roku 2018 to "Transmission".
 {: .text-justify}
 Na początku musieliśmy zorganizować zgrany zespół.
 Dwóch programistów to tylko część zespołu potrzebna do zbudowania gry.
-Wprawdzie [Grzegorz ma doświadczenie w Unity](https://fractalsoft.org/en/team/lisu), a ja, [Alek, kocham algorytmy](https://fractalsoft.org/pl/team/torrocus), ale gra musi też jakoś wyglądać.
+Wprawdzie [Grzegorz ma doświadczenie w Unity](https://fractalsoft.org/en/team/lisu), a ja, [Alek, kocham algorytmy](https://fractalsoft.org/pl/zespol/torrocus), ale gra musi też jakoś wyglądać.
 Potrzebowaliśmy grafików!
 
 {: .text-justify}

@@ -12,7 +12,7 @@ title: Programujemy gry w Unity - M1 Fun
 ---
 
 {: .text-justify}
-Programowaniem gier w firmie zajmuje się głównie [Grzegorz](https://fractalsoft.org/pl/team/lisu).
+Programowaniem gier w firmie zajmuje się głównie [Grzegorz](https://fractalsoft.org/pl/zespol/lisu).
 Na codzień [tworzymy aplikacje internetowe](https://fractalsoft.org/pl), ale czasem nadarza się okazja uczestniczenia w projekcie jakiejś gry.
 Jedną z takich gier jest gra _M1 Fun_, czyli _Przygody Misia Pierwszego_.
 Głównym bohaterem jest mały miś, który przeżywa swoje zabawne przygody wraz z graczem.

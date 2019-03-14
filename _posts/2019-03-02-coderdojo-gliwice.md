@@ -100,7 +100,7 @@ _Karramba!_
 
 {: .text-justify}
 Na ostatnich zajęciach z szyfrowania mieliście okazję poznać podstawy kryptoanalizy.
-**[Programistka](https://fractalsoft.org/pl/team/womanonrails) [Agnieszka](https://womanonrails.com/pl/)** oraz **programista Alek** zaszyfrowali dla Was wiadomości różnymi szyframi.
+**[Programistka](https://fractalsoft.org/pl/zespol/womanonrails) [Agnieszka](https://womanonrails.com/pl/)** oraz **programista Alek** zaszyfrowali dla Was wiadomości różnymi szyframi.
 Okazało się, że niektóre metody szyfrowania były tak skomplikowane, że nie dało się ich jednoznacznie odszyfrować.
 Ale dzięki temu nauczyliście się jak działa **kryptoanaliza statystyczna**.
 Wykorzystaliście częstotliwość występowania liter w języku polskim do znalezienia kluczy w szyfrach podstawieniowych.
@@ -163,7 +163,7 @@ We wcześniejszej serii zajęć zapoznaliśmy się z podstawami programowania ob
 Nauczyliśmy się wykorzystywać różne rodzaje zmiennych oraz instancjonowanie obiektów.
 Teraz zaczynamy nową tematykę.
 Na kolejnych kilku zajęciach będziemy poznawać krok po kroku podstawy Unity3D.
-Zajęcia poprowadzi **[game developer](https://fractalsoft.org/pl/team/lisu) Grzegorz**.
+Zajęcia poprowadzi **[game developer](https://fractalsoft.org/pl/zespol/lisu) Grzegorz**.
 
 {: .text-justify}
 Unity to silnik używany do tworzenia gier zarówno 2D jak i 3D.

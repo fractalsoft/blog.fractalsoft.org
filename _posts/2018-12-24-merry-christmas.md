@@ -117,7 +117,7 @@ Po wcześniejszym umówieniu się zapraszamy pod poniższy adres lub do Cieszyna
 ----
 
 {: .text-justify}
-Poza pracą działamy również w [lokalnych grupach IT](/categories/#community) np. SRUG (Silesian Ruby User Group).
+Poza pracą działamy również w [lokalnych grupach IT](https://fractalsoft.org/pl/spolecznosc) np. SRUG ([Silesian Ruby User Group](https://fractalsoft.org/pl/spolecznosc/srug)).
 Uczymy dzieci i młodzież programowania na zajęciach [CoderDojo](/categories/#coderdojo).
 A także aktywnie bierzemy udział jako mentorzy w nauce programowania dla kobiet.
 Robimy to wszystko, ponieważ wierzymy, że możemy zmieniać świat.
