@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" stroke="#000" stroke-width="1.2" fill="none">
+<style>
+text {
+  fill: #00f;
+  font-family: "Verdana";
+  font-size: 24px;
+}
+</style>
+<rect x="1" y="1" width="298" height="298"/>
+<path d="M100,1V299m99,0V1m100,99H1m0,99H299"/>
+<path stroke-width=".3" d="m34,1V299m33,0V1m66,0V299m33,0V1m66
+0V299m33,0V1m34,264H1m0-33H299m0-66H1m0-33H299m0-66H1m0-33H299m0-33H1"/>
+
+<text x="12"  y="25">1</text><text x="45"  y="25">2</text><text x="78"  y="25">3</text>
+<text x="12"  y="59">4</text><text x="45"  y="59">5</text><text x="78"  y="59">6</text>
+<text x="12"  y="91">7</text><text x="45"  y="91">8</text><text x="78"  y="91">9</text>
+
+<text x="111" y="25">4</text><text x="144" y="25">5</text><text x="177" y="25">6</text>
+<text x="111" y="59">7</text><text x="144" y="59">8</text><text x="177" y="59">9</text>
+<text x="111" y="91">1</text><text x="144" y="91">2</text><text x="177" y="91">3</text>
+
+<text x="210" y="25">7</text><text x="243" y="25">8</text><text x="276" y="25">9</text>
+<text x="210" y="59">1</text><text x="243" y="59">2</text><text x="276" y="59">3</text>
+<text x="210" y="91">4</text><text x="243" y="91">5</text><text x="276" y="91">6</text>
+
+
+<text x="12"  y="124">2</text><text x="45"  y="124">3</text><text x="78"  y="124">1</text>
+<text x="12"  y="157">5</text><text x="45"  y="157">6</text><text x="78"  y="157">4</text>
+<text x="12"  y="190">8</text><text x="45"  y="190">9</text><text x="78"  y="190">7</text>
+
+<text x="111" y="124">5</text><text x="144" y="124">6</text><text x="177" y="124">4</text>
+<text x="111" y="157">8</text><text x="144" y="157">9</text><text x="177" y="157">7</text>
+<text x="111" y="190">2</text><text x="144" y="190">3</text><text x="177" y="190">1</text>
+
+<text x="210" y="124">8</text><text x="243" y="124">9</text><text x="276" y="124">7</text>
+<text x="210" y="157">2</text><text x="243" y="157">3</text><text x="276" y="157">1</text>
+<text x="210" y="190">5</text><text x="243" y="190">6</text><text x="276" y="190">4</text>
+
+
+<text x="12"  y="223">3</text><text x="45"  y="223">1</text><text x="78"  y="223">2</text>
+<text x="12"  y="256">6</text><text x="45"  y="256">4</text><text x="78"  y="256">5</text>
+<text x="12"  y="289">9</text><text x="45"  y="289">7</text><text x="78"  y="289">8</text>
+
+<text x="111" y="223">6</text><text x="144" y="223">4</text><text x="177" y="223">5</text>
+<text x="111" y="256">9</text><text x="144" y="256">7</text><text x="177" y="256">8</text>
+<text x="111" y="289">3</text><text x="144" y="289">1</text><text x="177" y="289">2</text>
+
+<text x="210" y="223">9</text><text x="243" y="223">7</text><text x="276" y="223">8</text>
+<text x="210" y="256">3</text><text x="243" y="256">1</text><text x="276" y="256">2</text>
+<text x="210" y="289">6</text><text x="243" y="289">4</text><text x="276" y="289">5</text>
+
+</svg>

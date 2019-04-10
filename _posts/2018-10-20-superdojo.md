@@ -51,7 +51,8 @@ Tym razem chcieliśmy poprowadzić warsztaty niekoniecznie związane z programow
 Zajęcia miały być interesujące dla dzieci oraz inspirujące dla rodziców i mentorów.
 
 {: .text-justify}
-<a href='https://super.coderdojo.org.pl/' rel='nofollow noopener noreferrer' target='_blank' title='Wszystkie CoderDojo w jednym miejscu'>SuperDojo</a> organizowane jest w Warszawie raz w roku.
+{% include common/foreign-link.html name='SuperDojo' url='https://super.coderdojo.org.pl/' %}
+organizowane jest w Warszawie raz w roku.
 W tym roku przyjechało około 350 osób z całej Polski - dzieci, rodzice, mentorzy. Organizatorzy zaplanowali 12 różnych warsztatów, a my prowadziliśmy aż trzy z nich.
 Jesteśmy z siebie dumni!
 
@@ -71,7 +72,8 @@ Na warsztatach uczestnicy poznali tajniki składania filmów.
 + Jak stosować różne efekty wizualne i dźwiękowe w filmach?
 
 {: .text-justify}
-Wszystko to można zrobić przy pomocy darmowego narzędzia do obróbki wideo - <a href='https://www.openshot.org/' rel='nofollow noopener noreferrer' target='_blank'>OpenShot Video Editor</a>.
+Wszystko to można zrobić przy pomocy darmowego narzędzia do obróbki wideo -
+{% include common/foreign-link.html name='OpenShot Video Editor' url='https://www.openshot.org/' %}.
 Jest to oprogramowanie cross-platform, czyli takie, które można uruchomić na różnych systemach operacyjnych (od Linuksa, przez MacOS, aż po Windows).
 Warsztaty prowadziła nasza programistka Agnieszka. :movie_camera:
 
@@ -90,7 +92,8 @@ Oczywiście, ale kto powiedział, że trzeba wszystko wymyślać od zera.
 Dlaczego nie skorzystać z już istniejących klocków?
 
 {: .text-justify}
-:video_game: Grzegorz prowadził warsztaty wprowadzające do silnika <a href='https://unity3d.com/' rel='nofollow noopener noreferrer' target='_blank'>Unity</a>.
+:video_game: Grzegorz prowadził warsztaty wprowadzające do silnika
+{% include common/foreign-link.html name='Unity' url='https://unity3d.com/' %}.
 Na warsztatach uczestnicy mogli nauczyć się jak korzystać z podstawowych paczek rozwijając Game Kit.
 
 {: .text-justify}
@@ -105,7 +108,9 @@ W zależności od upodobań można było to robić pracując w 2D lub 3D.
 ![Splashscreen z Sonic Pi](/assets/images/sonic-pi/splashscreen.png){: .align-center}
 
 {: .text-justify}
-Wspaniałe narzędzie jakim jest <a href='https://sonic-pi.net/' rel='nofollow noopener noreferrer' target='_blank'>Sonic Pi</a> umożliwia tworzyć muzykę przy pomocy składni i komend języka Ruby.
+Wspaniałe narzędzie jakim jest
+{% include common/foreign-link.html name='Sonic Pi' url='https://sonic-pi.net/' %}
+umożliwia tworzyć muzykę przy pomocy składni i komend języka Ruby.
 Każdy mały i duży programista marzył o czymś takim.
 A do tego można uruchomić Sonic Pi na większości systemów operacyjnych.
 
@@ -137,13 +142,17 @@ Próbowanie oraz nauka poprzez błędy jest szczególnie ważne w całej branży
 
 {: .text-justify}
 Podczas __SuperDojo__ my również zdobywaliśmy nową wiedzę.
-Mieliśmy okazję uczestniczyć w warsztatach z <a href='https://kubernetes.io/' rel='nofollow noopener noreferrer' target='_blank'>Kubernetes</a>, czyli systemu do automatycznego zarządzania kontenerami Dockerowymi.
+Mieliśmy okazję uczestniczyć w warsztatach z
+{% include common/foreign-link.html name='Kubernetes' url='https://kubernetes.io/' %},
+czyli systemu do automatycznego zarządzania kontenerami Dockerowymi.
 Dziękujemy Hubertowi za tę możliwość.
 Jego zapał i sposób w jaki opowiadał o skomplikowanych rzeczach był fascynujący i zaraźliwy.
 I żeby nie było, to także były warsztaty dla dzieci. :carousel_horse:
 
 {: .text-justify}
-Dziękujemy <a href='https://coderdojo.org.pl/' rel='nofollow noopener noreferrer' target='_blank'>Fundacji Coder Dojo</a> za zorganizowanie __SuperDojo__.
+Dziękujemy
+{% include common/foreign-link.html name='Fundacji Coder Dojo' url='https://coderdojo.org.pl/' %}
+za zorganizowanie __SuperDojo__.
 Pod względem organizacyjnym było to przecież olbrzymie przedsięwzięcie.
 Mamy nadzieję, że za rok znowu uda nam się wesprzeć to wydarzenie naszą wiedzą mentorską.
 
