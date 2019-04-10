@@ -8,7 +8,7 @@ header:
     - label: Programowanie gier w Unity
       url: /news/2019/01/programujemy-gry-game-jam-2018/
   og_image: /assets/articles/2019-04-10/og_image.png
-  overlay_filter: rgba(0, 0, 0, 0.3)
+  overlay_filter: rgba(0, 0, 0, 0.5)
   overlay_image: /assets/articles/2019-04-10/header.svg
 lang: pl
 layout: single
@@ -145,9 +145,16 @@ To wcale nie oznacza, że będzie łatwo.
 _Nie ma leniuchowania - ucz się programowania!_
 Ta dewiza przyświeca naszemu **mentorowi Darkowi**.
 🧔
-Ostatnio omawiane były struktury danych i generatory w Pythonie.
-Dla przypomnienia generatory to rodzaj funkcji, która zachowuje się jak iterator.
-Można ją wstrzymać oraz wznowić zaczynając od miejsca wstrzymania.
+Na ostatnim CoderDojo omawiane były struktury danych i generatory w Pythonie.
+Dla przypomnienia generatory to rodzaj funkcji, które zachowują się jak iteratory.
+Co to jest iterator?
+Prosta sprawa, iterator to taki kursor.
+W danej chwili może on wskazywać tylko jedno miejsce.
+A więc widzimy tylko jedną daną z całej kolekcji lub listy.
+Jest to więc dostęp sekwencyjny, wg. jakiegoś ścisłego porządku.
+Jak się do tego mają generatory?
+Otóż generatory mogą wstrzymać oraz wznawiać wywołanie metody zaczynając od miejsca wstrzymania.
+To trochę taki czasowstrzymywacz.
 
 {: .text-justify}
 Co się pojawi na kolejnych zajęciach z nauki Pythona?
@@ -157,7 +164,7 @@ Spodziewajcie się zaawansowanych struktur danych.
 Będziecie parsować dane XML oraz tworzyć nowe pliki XML.
 
 Wymagania:
-+ {: .text-justify} Ściągnij {% include common/foreign-link.html name='Pythona za ogon' url='https://www.python.org/downloads/' %} na swój komputer i zainstaluj go. Python jest darmowy i można go uruchomić na różnych systemach.
++ {: .text-justify} Ściągnij {% include common/foreign-link.html name='Pythona za ogon' url='https://www.python.org/downloads/' %} na swój komputer i zainstaluj go. Python jest darmowy i może żyć w różnym środowisku (systemie operacyjnym).
 
 ----
 
@@ -167,7 +174,7 @@ Wymagania:
 
 {: .text-justify}
 Na poprzednich zajęciach zapoznaliśmy się z podstawami silnika Unity3D, nauczyliśmy się podstaw działania fizyki wewnątrz silnika oraz tworzenia skryptów C# działających w Unity.
-Na następnych zajęciach poznamy podstawy tworzenia assetów 3D.
+Na najbliższych zajęciach poznamy podstawy tworzenia assetów 3D.
 **[Programista](https://fractalsoft.org/pl/zespol/lisu) Grzegorz** zaprezentuje metody tworzenia obiektów trójwymiarowych przy użyciu narzędzia Blender.
 
 {: .text-justify}
@@ -175,11 +182,12 @@ Blender jest to silnik trójwymiarowy pozwalający od początku do końca tworzy
 Przy użyciu tego narzędzia można zarówno modelować, teksturować, tworzyć animacje 3D, a nawet całe gry komputerowe.
 
 {: .text-justify}
-Na zajęciach zapoznamy się z podstawowymi pojęciami używanymi przy tworzeniu grafiki trójwymiarowej jak _vertex_, _edge_, _face_, _mesh_.
-Utworzymy swój pierwszy obiekt 3D używając takich narzędzi jak knife oraz extrude.
+Przedstawione zostaną podstawowe pojęcia używane przy tworzeniu grafiki trójwymiarowej takie jak _vertex_, _edge_, _face_, _mesh_.
+Utworzymy swój pierwszy obiekt 3D używając takich narzędzi jak _knife_ oraz _extrude_.
 Nauczymy się jak wykonać _UV mapping modelu_ oraz nałożyć teksturę.
 Poznamy czym są _shadery_ oraz jak je tworzyć i używać w _cycles renderer_.
-Na koniec nauczymy się eksportować gotowy model i używać go w silniku Unity.
+Na koniec nauczymy się eksportować gotowy model.
+Będzie można go używać w silniku Unity.
 
 Wymagania:
 + {: .text-justify} Ściągnij i zainstaluj narzędzie {% include common/foreign-link.html name='Blender' url='https://www.blender.org/' %} - silnik pozwalający na tworzenie wszystkich elementów grafiki 3D.
@@ -193,17 +201,25 @@ Wymagania:
 
 {: .text-justify}
 Co to jest sudoku?
-Sudoku to japońska łamigówka matematyczna.
+Sudoku to japońska łamigłówka matematyczna.
 Oryginalna pisownia to 数独.
 Sūdoku jest skrótem od _**sū**ji wa **doku**shin ni kagiru_ i oznacza _cyfry muszą być pojedyncze_.
 Gra polega na wypełnieniu pól cyframi od 1 do 9, ale przy zachowaniu pewnych warunków.
 Główną zasadą sudoku jest to, aby w kwadratach 3 na 3 oraz wierszach i kolumnach dana cyfra występowała tylko raz.
 Plansza do sudoku składa się z dziewięciu kwadratów 3 na 3, a więc wszystkich pól jest 9 na 9, czyli 81.
-Dawniej sudoku spotkać można było pod nazwą "dziewięć na dziewięć".
+Dawniej sudoku można było spotkać pod nazwą "dziewięć na dziewięć".
 
 {: .text-justify}
 **[Programistka](https://fractalsoft.org/pl/zespol/womanonrails) [Agnieszka](https://womanonrails.com/pl/)** i **mentor Alek** pokażą Wam magiczne sposoby generowania własnych plansz sudoku.
 🔮
+Zanim to jednak nastąpi wytłumaczymy Wam zasady i samodzielnie spróbujecie rozwiązać jedno sudoku.
+Poznacie prostą sztuczkę pozwalającą na zbudowanie nowej zagadki odpowiednio przestawiając wiersze i kolumny.
+Będzie to pierwszy sposób na zaprogramowanie generatora sudoku.
+Napiszecie również program "sprawdzacz".
+Przyda się on do weryfikowania czy wygenerowana plansza spełnia założenia sudoku.
+Następnym etapem będzie automatyzacja usuwania cyfr z rozwiązanej planszy sudoku.
+Tą metodą również można uzyskać nową zagadkę do rozwiązania.
+Ambitnych ninja zapraszamy do pracy nad algorytmem rozwiązującym sudoku.
 Oczywiście poznane **algorytmy zaimplementujemy w Ruby**.
 Od tego momentu sami będziecie mogli generować dowolną ilość łamigłówek sudoku.
 Zobaczycie do czego przydaje się znajomość matematyki.
