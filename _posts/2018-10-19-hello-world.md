@@ -19,7 +19,7 @@ Przez to uczymy się jak dobrze uczyć innych i jak robić to coraz lepiej.
 {: .text-justify}
 Żeby nie być gołosłownym, przeprowadźmy mały eksperyment.
 Zobaczmy, w ilu językach programowania potrafimy stworzyć program typu _Hello world_ nie korzystając z pomocy Google, Wikipedii czy Stackoverflow.
-:unicorn:
+🦄
 
 Eksperyment czas zacząć...
 
@@ -96,3 +96,6 @@ Te mniej potrzebne usuwamy z naszej pamięci.
 Podobnie zachowują się komputery.
 Za taki mechanizm zwalniania pamięci w **programowaniu** odpowiada _garbage collector_.
 Ale to temat na zupełnie inny artykuł.
+
+----
+{% include common/footer--polish-text.html %}

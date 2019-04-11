@@ -23,18 +23,29 @@ Programowanie to umiejętność przydatna zarówno dla dzieci, młodzieży oraz 
 Dobry programista przede wszystkim myśli kreatywnie.
 Stawiamy przed Wami kolejne wyzwania.
 Zachęcamy do zapoznania się z tematami.
-Przygotujcie się, bo zajęcia CoderDojo w Gliwicach zapowiadają się naprawdę ciekawie.
+Przygotujcie się, bo zajęcia
+{% include common/coderdojo--colorful-text.html %}
+w Gliwicach zapowiadają się naprawdę ciekawie.
 Oczywiście nie zostaniecie z tym wszystkim sami.
 Jesteśmy tu po to, aby Was uczyć myśleć jak programiści.
 🧠
 
 ## Poprzednie CoderDojo
 
+{: .text-justify}
+Krótkie przypomnienie tematyki ostatnich zajęć z programowania CoderDojo Gliwice:
++ {: .text-justify} programowanie deszyfratora - automatyzacja kryptoanalizy
++ {: .text-justify} programowanie gier w Unity
++ {: .text-justify} matura z informatyki w Pythonie
+
+{: .text-justify}
+Dokładniej opisaliśmy te tematy zajęć w artykule [CoderDojo Gliwice - 2019-03](/coderdojo/2019/03/coderdojo-gliwice/).
+
 ![Kryształy siarki](/assets/articles/2019-04-10/siarka.jpg){: .align-center}
 
 {: .text-justify}
 Ale siara.
-Tak mocno się zaangażowaliśmy w ostatnie zajęcia, że zapomnieliśmy o robieniu zdjęć w trakcie.
+Tak mocno się zaangażowaliśmy w ostatnie zajęcia, że zapomnieliśmy o robieniu zdjęć w ich trakcie.
 W ten oto sposób nie mamy Wam czego pokazać.
 Chociaż zaraz, zaraz.
 Przecież napisaliśmy trochę kodu źródłowego.
@@ -43,6 +54,7 @@ Zamiast zdjęć, będzie kod / kot.
 
 {: .text-justify}
 Na poprzednich zajęciach z kryptoanalizy grupa ninja zajmowała się [programowaniem deszyfratora](/coderdojo/2019/03/coderdojo-gliwice/#zaprogramuj-deszyfrator).
+🕵️
 Oto prosty skrypt, który wtedy powstał w języku Ruby.
 
 ```ruby
@@ -113,7 +125,8 @@ end
 Skrypt w Ruby działa.
 Po uruchomieniu udało się odczytać jedną z tajnych wiadomości.
 Don Pedro byłby zaskoczony.
-Ci co nie wiedzą o co chodzi widocznie nie przeczytali poprzedniego artykułu.
+😲
+Ci co nie wiedzą o co chodzi widocznie nie przeczytali ze zrozumieniem poprzedniego tekstu na blogu.
 
 ```bash
 $ ./decryptobox.rb
@@ -164,7 +177,8 @@ Spodziewajcie się zaawansowanych struktur danych.
 Będziecie parsować dane XML oraz tworzyć nowe pliki XML.
 
 Wymagania:
-+ {: .text-justify} Ściągnij {% include common/foreign-link.html name='Pythona za ogon' url='https://www.python.org/downloads/' %} na swój komputer i zainstaluj go. Python jest darmowy i może żyć w różnym środowisku (systemie operacyjnym).
++ {: .text-justify} Ściągnij {% include common/foreign-link.html name='Pythona za ogon' url='https://www.python.org/downloads/' %} na swój komputer i zainstaluj go.
+Python jest darmowy i może żyć w różnym środowisku (systemie operacyjnym).
 
 ----
 
@@ -191,7 +205,9 @@ Będzie można go używać w silniku Unity.
 
 Wymagania:
 + {: .text-justify} Ściągnij i zainstaluj narzędzie {% include common/foreign-link.html name='Blender' url='https://www.blender.org/' %} - silnik pozwalający na tworzenie wszystkich elementów grafiki 3D.
-+ {: .text-justify} Ściągnij i zainstaluj silnik do tworzenia gier {% include common/foreign-link.html name='Unity3D' url='https://unity3d.com/get-unity/download' %}. Jeśli masz już Unity zainstalowany z poprzednich zajęć to sprawdź czy nie ma nowych aktualizacji. Warto być na bieżąco.
++ {: .text-justify} Ściągnij i zainstaluj silnik do tworzenia gier {% include common/foreign-link.html name='Unity3D' url='https://unity3d.com/get-unity/download' %}.
+Jeśli masz już Unity zainstalowany z poprzednich zajęć to sprawdź czy nie ma nowych aktualizacji.
+Warto być na bieżąco.
 
 ----
 
@@ -228,17 +244,13 @@ Zobaczycie do czego przydaje się znajomość matematyki.
 
 Wymagania:
 + {: .text-justify} Zamiłowanie do zagadek i matematyki.
-+ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='Ruby' url='https://www.ruby-lang.org/en/documentation/installation/' %} na swoim komputerze. Ruby jest jak rubin, kamień szlachetny wśród języków programowania.
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='Ruby' url='https://www.ruby-lang.org/en/documentation/installation/' %} na swoim komputerze.
+Ruby jest jak rubin, kamień szlachetny wśród języków programowania.
 💎
 
+----
 
-## Informacje organizacyjne
-
-### Czas zajęć ⏰
-_13.04.2019 (sobota) od 09:00 do 12:00_
-
-### Miejsce zajęć 🏢
-{% include common/coderdojo--workshops-place.html %}
+{% include common/coderdojo--footer.html date='13.04.2019' %}
 
 ----
 {% include common/footer--polish-text.html %}

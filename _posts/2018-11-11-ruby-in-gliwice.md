@@ -1,7 +1,7 @@
 ---
 author: torrocus
 category: community
-description: Lorem ipsum
+description: Lokalna społeczność rubiego na Śląsku, głównie w Gliwicach, zaprasza na SRUG-a 3.2018. Prezentacje na SRUG-u to nie tylko Ruby. Alek będzie opowiadał o SVG.
 excerpt: Programiści Ruby tworzą nie tylko dobre aplikacje, ale również wspaniałe lokalne społeczności. Rubiowców ze Śląska zapraszamy na SRUG-a. Więcej w artykule.
 lang: pl
 layout: single
@@ -10,7 +10,7 @@ title: Ruby Gliwice - SRUG 3.2018
 ---
 
 {: .text-justify}
-SRUG to skrót od **Silesian Ruby Users Group**, czyli Śląskiej Grupy Użytkowników Rubiego.
+SRUG to skrót od **Silesian Ruby Users Group**, czyli [Śląskiej Grupy Użytkowników Rubiego](https://fractalsoft.org/pl/spolecznosc/srug).
 Jest to lokalna społeczność miłośników języka Ruby działająca na terenie Śląska.
 Celem SRUG-owych spotkań jest wymiana wiedzy oraz doświadczeń pomiędzy programistami z różnych, lokalnych firm.
 Programiści przygotowują prezentacje dla innych programistów.
@@ -33,7 +33,8 @@ Więcej informacji o terminach oraz miejscach spotkań znajdziecie na oficjalnej
 
 {: .text-justify}
 O prezentacji z _SVG dla programistów_ możemy powiedzieć nieco więcej, nie zdradzając jej treści.
-Jeśli chcecie posłuchać musicie przyjść osobiście. :microphone:
+Jeśli chcecie posłuchać musicie przyjść osobiście.
+🎤
 
 
 ## SVG for Developers, not Designers

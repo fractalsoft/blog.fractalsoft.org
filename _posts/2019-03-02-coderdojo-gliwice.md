@@ -25,7 +25,7 @@ Podobnie, im więcej programujemy tym bardziej nam się to podoba.
 Mamy nadzieję, że Wy też tak macie.
 Dookoła panuje grypa, więc uważajcie, by się nie zarazić.
 My za to chcemy zarażać Was pasją do programowania i dzielić się wiedzą, a nie wirusami.
-:microscope:
+🔬
 
 ## Poprzednie zajęcia
 
@@ -36,6 +36,7 @@ Małe podsumowanie poprzednich zajęć z programowania dla dzieci oraz zdjęcia 
 + {: .text-justify} nauka programowania ze Scotty Go
 + {: .text-justify} programowanie bez komputera
 
+{: .text-justify}
 Jakby co, tematy tych zajęć opisaliśmy w artykule [CoderDojo Gliwice - 2019-02](/coderdojo/2019/02/coderdojo-gliwice/).
 
 ### Zdjęcia z CoderDojo Gliwice #4
@@ -149,7 +150,10 @@ Na szczęście w Gliwicach działa CoderDojo, czyli najlepsze zajęcia programow
 
 Wymagania:
 + {: .text-justify} Zamiłowanie do matematyki.
-+ {: .text-justify} Pobierz i zainstaluj {% include common/foreign-link.html name='Ruby' url='https://www.ruby-lang.org/en/documentation/installation/' %}, język programowania, w którym powstało wiele startupów. Ruby jest darmowy i można w nim programować na różnych systemach operacyjnych. Składnia Ruby jest bardzo czytelna i ma niską barierę wejścia. Zapewniamy, że pokochacie język Ruby tak jak my.
++ {: .text-justify} Pobierz i zainstaluj {% include common/foreign-link.html name='Ruby' url='https://www.ruby-lang.org/en/documentation/installation/' %}, język programowania, w którym powstało wiele startupów.
+  Ruby jest darmowy i można w nim programować na różnych systemach operacyjnych.
+  Składnia Ruby jest bardzo czytelna i ma niską barierę wejścia.
+  Zapewniamy, że pokochacie język Ruby tak jak my.
 
 
 ----
@@ -175,11 +179,13 @@ Zajęcia rozpoczniemy od poznania interfejsu.
 Zapoznamy się z importowaniem assetów i standardowych paczek.
 Poznamy podstawowe komponenty.
 Jednym z nich będzie komponent _Rigidbody_ odpowiadający za fizykę w grze.
-Utworzymy prefabrykanty służące do ponownego używania tych samych elementów w grze.
+Utworzymy prefabrykaty służące do ponownego używania tych samych elementów w grze.
 Na końcu utworzymy naszą pierwszą klasę, która korzystając z fizyki gry pozwoli nam strzelać pre-fabrykantami lub wykrywać trafiony obiekt i wpływać na niego.
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='Unity3D' url='https://unity3d.com/get-unity/download' %} - silnik do tworzenia gier komputerowych. Zainstalowany silnik powinien być w wersji przynajmniej 2018. Przy pierwszym uruchomieniu należy wybrać wersję _personal_ aby używać tego narzędzia w wersji darmowej.
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='Unity3D' url='https://unity3d.com/get-unity/download' %} - silnik do tworzenia gier komputerowych.
+  Zainstalowany silnik powinien być w wersji przynajmniej 2018.
+  Przy pierwszym uruchomieniu należy wybrać wersję _personal_ aby używać tego narzędzia w wersji darmowej.
 
 
 ----
@@ -193,7 +199,7 @@ Ostatnio zniknął Python, wielki wąż.
 🐍
 Możliwe, że dopadł go jakiś wirus.
 Dlatego nie było mentora Darka.
-:neckbeard:
+🧔
 Poszedł go szukać.
 Mamy nadzieję, że go znalazł i przyprowadzi na zajęcia CoderDojo Gliwice.
 A później nauczy Was jak programować takiego Pythona.
@@ -205,16 +211,16 @@ Ale nie ma co się lenić.
 Matura z informatyki już niedługo, a tam spotkacie Pythona.
 
 Wymagania:
-+ {: .text-justify} Pobierz i zainstaluj {% include common/foreign-link.html name='Pythona' url='https://www.python.org/downloads/' %} na dowolnej platformie i zupełnie za darmo. W Pythonie jest napisanych wiele popularnych aplikacji tj. DropBox, {% include common/foreign-link.html name='Instagram' url='https://www.instagram.com/fractalsoft/' %} czy {% include common/foreign-link.html name='YouTube' url='https://www.youtube.com/c/fractalsoft' %}.
++ {: .text-justify} Pobierz i zainstaluj {% include common/foreign-link.html name='Pythona' url='https://www.python.org/downloads/' %} na dowolnej platformie i zupełnie za darmo.
+  W Pythonie jest napisanych wiele popularnych aplikacji tj.
+  DropBox,
+  {% include common/foreign-link.html name='Instagram' url='https://www.instagram.com/fractalsoft/' %}
+  czy
+  {% include common/foreign-link.html name='YouTube' url='https://www.youtube.com/c/fractalsoft' %}.
 
+----
 
-## Informacje organizacyjne
-
-### Czas zajęć :alarm_clock:
-_16.03.2019 (sobota) od 09:00 do 12:00_
-
-### Miejsce zajęć :office:
-{% include common/coderdojo--workshops-place.html %}
+{% include common/coderdojo--footer.html date='16.03.2019' %}
 
 ----
 {% include common/footer--polish-text.html %}

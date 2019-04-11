@@ -40,7 +40,7 @@ gallery:
 {: .text-justify}
 Wszyscy wiemy, że dzieci to nasza przyszłość.
 Dlatego angażujemy się w inicjatywy takie jak **CoderDojo**.
-Na zajęciach CD uczymy dzieci programowania, kreatywności i wykorzystania technologii.
+Na zajęciach CD [uczymy dzieci programowania](https://fractalsoft.org/pl/spolecznosc/coderdojo), kreatywności i wykorzystania technologii.
 Chcemy, żeby kolejne pokolenia wiedziały, jak zbudowany jest świat technologiczny.
 Aby nie były tylko biernymi odbiorcami tego, co jest w Internecie, ale by potrafiły coś tworzyć, wykorzystać technologię w dobrym celu.
 
@@ -75,7 +75,8 @@ Na warsztatach uczestnicy poznali tajniki składania filmów.
 Wszystko to można zrobić przy pomocy darmowego narzędzia do obróbki wideo -
 {% include common/foreign-link.html name='OpenShot Video Editor' url='https://www.openshot.org/' %}.
 Jest to oprogramowanie cross-platform, czyli takie, które można uruchomić na różnych systemach operacyjnych (od Linuksa, przez MacOS, aż po Windows).
-Warsztaty prowadziła nasza programistka Agnieszka. :movie_camera:
+Warsztaty prowadziła nasza [programistka](https://womanonrails.com/pl/) Agnieszka.
+🎥
 
 
 ### **Gry bez programowania** - Unity3D
@@ -92,7 +93,8 @@ Oczywiście, ale kto powiedział, że trzeba wszystko wymyślać od zera.
 Dlaczego nie skorzystać z już istniejących klocków?
 
 {: .text-justify}
-:video_game: Grzegorz prowadził warsztaty wprowadzające do silnika
+🎮
+Grzegorz prowadził warsztaty wprowadzające do silnika
 {% include common/foreign-link.html name='Unity' url='https://unity3d.com/' %}.
 Na warsztatach uczestnicy mogli nauczyć się jak korzystać z podstawowych paczek rozwijając Game Kit.
 
@@ -126,7 +128,8 @@ Podczas nich uczestnicy rozłożyli dźwięki na czynniki pierwsze.
 Dowiedzieli się o zasadach działania fal dźwiękowych, akordów oraz instrumentów muzycznych.
 Mogli na własnych uszach odczuć działania różnych syntezatorów.
 Wszystko to możliwe było podczas nauki programowania w języku **Ruby** (naszym ulubionym języku programowania).
-Zajęcia prowadził mentor Alek. :musical_note:
+Zajęcia prowadził mentor Alek.
+🎵
 
 
 ## Podsumowanie
@@ -147,7 +150,8 @@ Mieliśmy okazję uczestniczyć w warsztatach z
 czyli systemu do automatycznego zarządzania kontenerami Dockerowymi.
 Dziękujemy Hubertowi za tę możliwość.
 Jego zapał i sposób w jaki opowiadał o skomplikowanych rzeczach był fascynujący i zaraźliwy.
-I żeby nie było, to także były warsztaty dla dzieci. :carousel_horse:
+I żeby nie było, to także były warsztaty dla dzieci.
+🎠
 
 {: .text-justify}
 Dziękujemy

@@ -119,7 +119,7 @@ Po wcześniejszym umówieniu się zapraszamy pod poniższy adres lub do Cieszyna
 {: .text-justify}
 Poza pracą działamy również w [lokalnych grupach IT](https://fractalsoft.org/pl/spolecznosc) np. SRUG ([Silesian Ruby User Group](https://fractalsoft.org/pl/spolecznosc/srug)).
 Uczymy dzieci i młodzież programowania na zajęciach [CoderDojo](/categories/#coderdojo).
-A także aktywnie bierzemy udział jako mentorzy w nauce programowania dla kobiet.
+A także aktywnie bierzemy udział jako mentorzy w nauce [programowania dla kobiet](https://fractalsoft.org/pl/spolecznosc/rails-girls).
 Robimy to wszystko, ponieważ wierzymy, że możemy zmieniać świat.
 Sprawiamy, aby był lepszym miejscem.
 
@@ -135,7 +135,8 @@ Z okazji zbliżających się Świąt Bożego Narodzenia życzymy Wam udanego odp
 Niech te Święta będą pełne radości, miłości i uśmiechu.
 Niechaj te kilka magicznych dni pozwoli Wam nabrać sił, aby razem z nami zmieniać ten świat.
 
-Tego Wam i sobie życzymy! Wesołych Świąt w rytmie Ruby. :christmas_tree:
+Tego Wam i sobie życzymy! Wesołych Świąt w rytmie Ruby.
+🎄
 
 ----
 {% include common/footer--polish-text.html %}

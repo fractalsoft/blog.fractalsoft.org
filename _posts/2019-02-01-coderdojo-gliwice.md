@@ -43,6 +43,7 @@ Krótkie przypomnienie tematyki ostatnich zajęć CoderDojo Gliwice oraz zdjęci
 + {: .text-justify} programowanie w Pythonie - struktury danych tj. listy, słowniki
 + {: .text-justify} programowanie gry w C# - gra w kółko i krzyżyk
 
+{: .text-justify}
 Jakby co wszystko jest w artykule [CoderDojo Gliwice - 2019-01](/coderdojo/2019/01/coderdojo-gliwice/).
 
 ### Zdjęcia z CoderDojo Gliwice #3
@@ -97,24 +98,25 @@ Po świecie interaktywnej rozrywki oprowadzi Was **game developer Grzegorz**.
 Na poprzednich zajęciach utworzyliśmy grę turową - kółko i krzyżyk.
 Przy okazji poznaliście na czym polega tworzenie obiektów, pisanie metod oraz jak wykorzystywać tablice.
 Na następnych zajęciach CoderDojo zapoznamy się z tworzeniem gier czasu rzeczywistego oraz pisaniem własnych klas.
-:video_game:
+🎮
 
 {: .text-justify}
-Zajęcia rozpoczniemy od powtórki. 
+Zajęcia rozpoczniemy od powtórki.
 Przypomnimy sobie czym jest główna pętla gry.
-Następnie zmodyfikujemy ją tak aby odpowiadała grze czasu rzeczywistego, a nie turowej. 
-Utworzymy własne klasy odpowiadające za gracza, logikę gry oraz renderowanie. 
+Następnie zmodyfikujemy ją tak aby odpowiadała grze czasu rzeczywistego, a nie turowej.
+Utworzymy własne klasy odpowiadające za gracza, logikę gry oraz renderowanie.
 Grą, którą będziemy tworzyć na tych zajęciach będzie Snake.
-:bug:
+🐛
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='MonoDevelop' url='https://www.monodevelop.com/' %} - darmowe środowisko do programowania w C# i językach platformy .NET. Program dostępny jest na system Windows, Linux i Mac OS.
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='MonoDevelop' url='https://www.monodevelop.com/' %} - darmowe środowisko do programowania w C# i językach platformy .NET.
+  Program dostępny jest na system Windows, Linux i Mac OS.
 
 ----
 
 ### Szyfry od postaw - tajne przez poufne
 
-<img src='/assets/articles/2019-02-01/letters-frequencies.svg' alt='Wykres częstotliwości występowania liter' class='align-center'>
+<img src='/assets/articles/2019-02-01/letters-frequencies.svg' alt='Wykres częstotliwości występowania liter w języku polskim' class='align-center'>
 
 {: .text-justify}
 Ostatnim razem programiści Agnieszka i Alek wprowadzili Was do tematu kryptografii.
@@ -159,7 +161,7 @@ Poznaliście również alfabet Morse'a.
 Jego zastosowanie oraz sposoby nadawania.
 Było ćwiczenie praktyczne z odczytywania wiadomości na odległość przy użyciu alfabetu Morse'a.
 Niektórzy ninja napisali nawet programy zamieniające treść wiadomości na kropki i kreski.
-A Ci co nie zdążli dostali zadanie domowe.
+A Ci co nie zdążyli dostali zadanie domowe.
 Jakbyście chcieli to alfabetu Morse'a możecie się nauczyć korzystając z {% include common/foreign-link.html name='aplikacji od Google' url='https://morse.withgoogle.com/learn/' %}.
 
 {: .text-justify}
@@ -169,13 +171,15 @@ Pokażemy Wam **podstawy kryptoanalizy statystycznej**.
 Wiemy, że brzmi to strasznie, ale to zwykła matematyka.
 W dodatku użyjemy do tego celu zwykłych ułamków (ewentualnie procentów) i obrazka zamieszczonego na początku tekstu o szyfrach.
 Zobaczycie jak można łamać szyfry i dobrze się przy tym bawić.
-:key:
+🗝️
 
 Wymagania:
 + {: .text-justify} Podstawowa znajomość matematyki - ułamki
 + {: .text-justify} Dowolny kompilator / interpreter do języka programowania, który znacie i lubicie.
 + {: .text-justify} Zachęcamy do ściągnięcia i zainstalowania interpretera języka
-{% include common/foreign-link.html name='Ruby' url='https://www.ruby-lang.org/en/documentation/installation/' %}. Nie pożałujecie, ponieważ Ruby jest łatwym do nauki i przyjemnym w czytaniu obiektowym językiem programowania. Sami zawodowo programujemy w Ruby.
+{% include common/foreign-link.html name='Ruby' url='https://www.ruby-lang.org/en/documentation/installation/' %}.
+  Nie pożałujecie, ponieważ Ruby jest łatwym do nauki i przyjemnym w czytaniu obiektowym językiem programowania.
+  Sami zawodowo programujemy w Ruby.
 
 ----
 
@@ -184,36 +188,24 @@ Wymagania:
 {% include common/python--headline-image.html %}
 
 {: .text-justify}
-Zajęcia prowadzone przez mentora Darka :neckbeard: będą dotyczyły przede wszystkim programowania w Pythonie.
+Zajęcia prowadzone przez mentora Darka
+🧔
+będą dotyczyły przede wszystkim programowania w Pythonie.
 Podstawy tego języka ninja mają już za sobą.
 Teraz czas na naprawdę trudne tematy.
 Będą zadania maturalne z informatyki.
 Ich rozwiązania będą realizowane przy użyciu Pythona.
 Zapowiada się naprawdę ciężka praca!
 Nie ma zmiłuj się.
-:snake:
+🐍
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='Pythona' url='https://www.python.org/downloads/' %} - dynamiczny, obiektowy język programowania. Python można uruchomić na różnych platformach i jest w pełni darmowy.
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='Pythona' url='https://www.python.org/downloads/' %} - dynamiczny, obiektowy język programowania.
+  Python można uruchomić na różnych platformach i jest w pełni darmowy.
 
 ----
 
-{: .text-justify}
-Mamy nadzieję, że podobają Wam się tematy.
-Nie bójcie się wyrażać swoich opini w komentarzach.
-Jeżeli macie jakieś propozycje tematów to również napiszcie.
-Chcemy aby CoderDojo w Gliwicach było najlepszym dojo w Polsce.
-
-## Informacje organizacyjne
-
-{: .text-justify}
-Jeśli macie jakieś pytania organizacyjne to przeczytajcie proszę dział [FAQ - często zadawane pytania](/coderdojo/2018/11/coderdojo-gliwice/#faq-często-zadawane-pytania).
-
-### Czas zajęć :alarm_clock:
-_09.02.2019 (sobota) od 09:00 do 12:00_
-
-### Miejsce zajęć :office:
-{% include common/coderdojo--workshops-place.html %}
+{% include common/coderdojo--footer.html date='09.02.2019' %}
 
 ----
 {% include common/footer--polish-text.html %}

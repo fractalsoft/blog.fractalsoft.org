@@ -12,7 +12,8 @@ title: CoderDojo Gliwice - Konkurs - 2018-12
 ---
 
 {: .text-justify}
-Grudzień to czas prezentów i niespodzianek. :gift_heart:
+Grudzień to czas prezentów i niespodzianek.
+💝
 I dlatego na zajęciach CoderDojo w Gliwicach zorganizowaliśmy [świąteczny konkurs](/coderdojo/2018/12/coderdojo-gliwice/#konkurs).
 Uczestnikom jeszcze raz dziękujemy i gratulujemy kreatywności.
 Każdy uczestnik naszego małego konkursu otrzymał nagrodę.
@@ -47,7 +48,7 @@ Albo można przyjąć zupełnie odmienne podejście i walczyć ze wszystkimi doo
 Wcześniejsze decyzje wpływają na dialogi, postacie oraz historię gry.
 Jest to dosyć nowatorskie podejście do gier typu RPG.
 Gra ma 3 różne zakończenia i była jedną z najlepiej ocenianych gier 2015 roku za swoją oryginalność.
-:video_game:
+🎮
 
 {: .text-justify}
 Bohaterem gry jest dziecko o imieniu Frisk.
@@ -82,7 +83,7 @@ A na końcu uruchamiać się miała zapadnia.
 Program do Arduino pisany był w języku C.
 Musimy na kolejnych zajęciach CoderDojo dowiedzieć się od Tymka czy złapał Świętego Mikołaja.
 My prezenty dostaliśmy, więc albo się uwolnił z pułapki albo czujniki ruchu są na niego niewrażliwe.
-:bell:
+🔔
 
 <figure class='half'>
   <a href='/assets/gallery/2018-12-29/trap-for-santa-claus/01.jpg'>
@@ -121,7 +122,7 @@ Nasz bohater lata saniami z reniferami po ośnieżonym świecie i wrzuca przez k
 Jednak musi uważać na wysokie choinki oraz pamiętać, że czas nie jest z gumy.
 Wszystko odbywa się w ciągłym ruchu, a trafić do komina nie jest tak łatwo.
 Tomek swoją grę napisał używając silnika Unity.
-:gift:
+🎁
 
 <figure class='half'>
   <a href='/assets/gallery/2018-12-29/game-of-santa-claus/01.jpg'>
@@ -162,7 +163,7 @@ Ale czy ktoś próbował zaprogramować kolędę?
 A jeden ninja spróbował i się udało.
 Wojtek, bo o nim mowa napisał program odgrywający melodię cichej nocy przy pomocy Sonic Pi i języka Ruby.
 _Cicha noc_ jest jedną z najstarszych oraz najpopularniejszych kolęd.
-:notes:
+🎶
 
 <figure class='half'>
   <a href='/assets/gallery/2018-12-29/christmas-carol/01.jpg'>
@@ -192,7 +193,7 @@ Na ten pomysł wpadło dwóch ninja.
 Każdy z nich stworzył w HTML-u kalendarz świąteczny z listą spraw do załatwienia.
 Ponadto dodali licznik w języku JavaScript, który wylicza ile czasu zostało jeszcze do Świąt Bożego Narodzenia.
 Sprytny sposób, aby nie przegapić Świąt.
-:calendar:
+📅
 
 <figure class='half'>
   <a href='/assets/gallery/2018-12-29/christmas-calendars/01.jpg'>
@@ -225,7 +226,7 @@ Oczywiście najlepsze kartki to takie zrobione własnoręcznie.
 Na ten pomysł wpadli Juliusz i Przemek.
 Ci dwaj ninja stworzyli kartki internetowe z życzeniami.
 Dla urozmaicenia dodali efekt padającego śniegu, mimo iż za oknem śniegu nie było.
-:snowflake:
+❄️
 
 <figure class='half'>
   <a href='/assets/gallery/2018-12-29/christmas-cards/01.jpg'>
@@ -259,7 +260,7 @@ W grupie Grzegorza jeden początkujący ninja wygenerował choinkę z kolorowymi
 Za to w grupie Darka dwóch ninja opracowało program w Pythonie tworzący sparametryzowane drzewko świąteczne.
 Można zmieniać szerokość choinki oraz ilość użytych bombek.
 Szkoda, że tego sposobu zawieszania bombek nie można zastosować do prawdziwej, zielonej choinki.
-:christmas_tree:
+🎄
 
 <figure class='half'>
   <a href='/assets/gallery/2018-12-29/christmas-trees/01.jpg'>

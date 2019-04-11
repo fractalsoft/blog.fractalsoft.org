@@ -42,8 +42,8 @@ gallery:
     image_path: /assets/gallery/2018-12-07/thumbs/08-arduino-i-diody.jpg
     alt: 'Świecąca dioda podpięta do płytki'
     title: 'Programowanie płytek Arduino i świecenie diodą'
-  - url: /assets/gallery/2018-12-07/09-funkcje-trygorometryczne-w-pythonie.jpg
-    image_path: /assets/gallery/2018-12-07/thumbs/09-funkcje-trygorometryczne-w-pythonie.jpg
+  - url: /assets/gallery/2018-12-07/09-funkcje-trygonometryczne-w-pythonie.jpg
+    image_path: /assets/gallery/2018-12-07/thumbs/09-funkcje-trygonometryczne-w-pythonie.jpg
     alt: 'Kod źródłowy w Pythonie i wykresy'
     title: 'Rysowanie funkcji trygonometrycznych w Pythonie'
   - url: /assets/gallery/2018-12-07/10-programowanie-w-c-sharp.jpg
@@ -66,7 +66,7 @@ A przed nami kolejne zajęcia **CoderDojo Gliwice**.
 To będzie nasze ostatnie spotkanie przed przerwą świąteczną.
 Dlatego mamy dla Was miłą niespodziankę.
 Spodziewajcie się niespodziewanego.
-:christmas_tree:
+🎄
 
 {: .text-justify}
 Słyszeliśmy, że na poprzednich zajęciach bardzo Wam się podobało.
@@ -81,6 +81,7 @@ Możliwe, że szybko znajdziecie tam potrzebne odpowiedzi.
 
 ## Poprzednie zajęcia
 
+{: .text-justify}
 A oto czym zajmowaliśmy się ostatnim razem na CoderDojo w Gliwicach:
 + {: .text-justify} programowanie gier w RPG Makerze, czyli budowanie własnych światów
 + {: .text-justify} wprowadzenie do języka C#, czyli pierwsze programy konsolowe
@@ -100,7 +101,7 @@ A oto czym zajmowaliśmy się ostatnim razem na CoderDojo w Gliwicach:
 
 
 {: .text-justify}
-:snake:
+🐍
 Świat **programowania w Pythonie** stanie przed Wami otworem.
 **Darek jako mentor** pokaże Wam, że matematyka może być łatwa i przyjemna.
 Wykorzystacie Pythona do obliczania działań matematycznych i rysowania wykresów.
@@ -110,7 +111,9 @@ Uzyskana wiedza będzie potrzebna w przyszłości w tematyce _sztucznej intelige
 Nikt nie mówił, że będzie łatwo.
 
 {: .text-justify}
-Dodatkowo Darek :neckbeard: dla młodszych ninja będzie kontynuował temat poprzednich zajęć z [programowania w C na Arduino](/coderdojo/2018/11/coderdojo-gliwice/#programowanie-w-c-na-arduino).
+Dodatkowo Darek
+🧔
+dla młodszych ninja będzie kontynuował temat poprzednich zajęć z [programowania w C na Arduino](/coderdojo/2018/11/coderdojo-gliwice/#programowanie-w-c-na-arduino).
 Miganie diodami jest fajne, ale to dopiero początek.
 Znacznie ciekawiej jest wykorzystywać różnego rodzaju czujniki:
 + czujnik ruchu
@@ -137,7 +140,8 @@ Pora na druga część przygody z **programowaniem w C#**, języku programowania
 Wykorzystana zostanie wiedza z poprzedniej lekcji, więc pamiętajcie aby powtórzyć materiał.
 Właśnie temat powtórzeń będzie szczególnie ważny.
 Jak zapewne wiecie programowanie uczy myślenia co zrobić, aby się zbytnio nie przemęczać.
-Tym razem lekcja programowania skupi się na pętlach. :loop:
+Tym razem lekcja programowania skupi się na pętlach.
+➿
 
 {: .text-justify}
 Rozpocznie się od budowy najprostszych rodzajów pętli i ich poprawnej składni.
@@ -145,7 +149,8 @@ Aż po praktyczne zastosowania i wielokrotne zagnieżdżanie.
 Do tego dorzucona zostanie klasa Random, aby trochę urozmaicić zabawę z kodem.
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='MonoDevelop' url='https://www.monodevelop.com/' %} - oprogramowanie IDE do C sharpa, które jest zupełnie za darmo. Można je uruchomić na różnych systemach operacyjnych (Linux, Mac OS, Windows).
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='MonoDevelop' url='https://www.monodevelop.com/' %} - oprogramowanie IDE do C sharpa, które jest zupełnie za darmo.
+  Można je uruchomić na różnych systemach operacyjnych (Linux, Mac OS, Windows).
 
 
 ----
@@ -163,11 +168,15 @@ Nie będzie czytania z nut.
 Będzie za to programowanie akordów.
 Spróbujemy wykorzystać pętle.
 A może nawet uda się trochę poeksperymentować.
-Muzyczno-programistyczne zajęcia poprowadzi **programista Alek**. :musical_keyboard:
+Muzyczno-programistyczne zajęcia poprowadzi **programista Alek**.
+🎹
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='Sonic Pi' url='https://sonic-pi.net/' %} - darmowe narzędzie do programowania muzyki. Przy pomocy języka Ruby można komponować własne utwory lub przerabiać istniejące. Program można uruchomić na wielu systemach operacyjnych (Windows, Mac OS, Linux), a nawet na Raspberry Pi.
-+ Słuchawki - obowiązkowo! :loudspeaker:
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='Sonic Pi' url='https://sonic-pi.net/' %} - darmowe narzędzie do programowania muzyki.
+  Przy pomocy języka Ruby można komponować własne utwory lub przerabiać istniejące.
+  Program można uruchomić na wielu systemach operacyjnych (Windows, Mac OS, Linux), a nawet na Raspberry Pi.
++ Słuchawki - obowiązkowo!
+  📢
 
 
 ----
@@ -202,10 +211,10 @@ Wymagania:
 
 ## Informacje organizacyjne
 
-### Czas zajęć :alarm_clock:
+### Czas zajęć ⏰
 _15.12.2018 (sobota) od 09:00 do 12:00_
 
-### Miejsce zajęć :office:
+### Miejsce zajęć 🏢
 {% include common/coderdojo--workshops-place.html %}
 
 ## Konkurs

@@ -4,18 +4,16 @@ category: coderdojo
 description: "TODO_ListaTechnologiiOrazCzegoMoznaSieNauczyc - Programowanie dla dzieci - CoderDojo Gliwice #TODO_NumerKolejny"
 excerpt: TODO_OpisDo160Znaków
 header:
-  image: assets/articles/TODO_Data/header.jpg-TODO_OpcjonalneTematyczneZdjecie
+  actions:
+  og_image: /assets/articles/TODO_Data/og_image.png
+  overlay_filter: rgba(0, 0, 0, 0.5)
+  overlay_image: /assets/articles/TODO_Data/header.svg
 lang: pl
 layout: single
 tags: [programming, beginner, charity]
-title: CoderDojo Gliwice - TODO_Rok-TODO_Miesiąc
+title: Nauka programowania dla dzieci i młodzieży - CoderDojo Gliwice - TODO_Rok-TODO_Miesiąc
 toc: true
 toc_label: CoderDojo - TODO_DataZajęć
-gallery:
-  - url: /assets/gallery/TODO_Data/01-TODO_NazwaPliku1200x900.jpg
-    image_path: /assets/gallery/TODO_Data/thumbs/01-TODO_NazwaPliku201x134.jpg
-    alt: 'TODO_AlternatywnyTekst'
-    title: 'TODO_TytułWidocznyPodObrazkiem'
 ---
 
 {: .text-justify}
@@ -62,14 +60,9 @@ TODO_OpisNumer3
 Wymagania:
 + {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='TODO_ProgramDoZainstalowaniaNumer3' url='#' %}
 
+----
 
-## Informacje organizacyjne
-
-### Czas zajęć :alarm_clock:
-_TODO_DataZajęć (sobota) od 09:00 do 12:00_
-
-### Miejsce zajęć :office:
-{% include common/coderdojo--workshops-place.html %}
+{% include common/coderdojo--footer.html date='TODO_DataZajęć' %}
 
 ----
 {% include common/footer--polish-text.html %}

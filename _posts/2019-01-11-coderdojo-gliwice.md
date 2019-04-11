@@ -34,12 +34,14 @@ A teraz do rzeczy!
 
 {: .text-justify}
 Agnieszka i Alek wprowadzą Was w świat **szyfrów i kodowania informacji**.
-Chcecie poczuć się jak badacze Enigmy? :slot_machine:
+Chcecie poczuć się jak badacze Enigmy?
+🎰
 Zapraszamy do zabawy!
 Na początek poznamy podstawowe szyfry.
 Nauczymy się szyfrować i deszyfrować wiadomości za ich pomocą.
 Następnie zautomatyzujemy pracę pisząc odpowiednie programy komputerowe.
-Pomoże to nam przyśpieszyć proces szyfrowania i deszyfrowania. :closed_lock_with_key:
+Pomoże to nam przyśpieszyć proces szyfrowania i deszyfrowania.
+🔐
 
 {: .text-justify}
 Ale to nie koniec!
@@ -56,7 +58,8 @@ Na koniec serii zajęć planujemy grę dla prawdziwych szpiegów, ale o tym w ko
 Wymagania:
 + odrobina szpiegowskiego zacięcia
 + chęć współpracy z innymi
-+ otwarty umysł :wink:
++ otwarty umysł
+  😉
 
 ----
 
@@ -65,11 +68,13 @@ Wymagania:
 {% include common/python--headline-image.html %}
 
 {: .text-justify}
-:snake:
+🐍
 **Programowanie w Pythonie** przydaje się nie tylko do projektów świątecznych.
 Na ostatnich zajęciach ninja programowali choinki w Pythonie.
 Poznali dzięki temu pętle oraz nauczyli się jak budować funkcje.
-Mentor Darek :neckbeard: chce pójść kolejny krok dalej w poznawaniu Pythona.
+Mentor Darek
+🧔
+chce pójść kolejny krok dalej w poznawaniu Pythona.
 Tym razem poznacie różne struktury danych i operacje na nich.
 Dowiecie się, że lista to nie tylko lista zakupów, ale że możecie na niej przechowywać dane w Pythonie.
 A kto jeszcze nigdy nie używał słowników to będzie miał okazję zbudować własne.
@@ -79,7 +84,9 @@ Ponadto [programowanie Arduino](/coderdojo/2018/11/coderdojo-gliwice/#programowa
 Polecamy go szczególnie dla młodszych ninja, którzy chcą poeksperymentować z elektroniką.
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='Python' url='https://www.python.org/downloads/' %} - język programowania wysokiego poziomu, szczególnie popularny w środowiskach akademickich. Jest darmowy i ma wiele użytecznych bibliotek. A w dodatku uruchomić go można na różnych systemach.
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='Python' url='https://www.python.org/downloads/' %} - język programowania wysokiego poziomu, szczególnie popularny w środowiskach akademickich.
+  Jest darmowy i ma wiele użytecznych bibliotek.
+  A w dodatku uruchomić go można na różnych systemach.
 
 ----
 
@@ -89,7 +96,8 @@ Wymagania:
 
 {: .text-justify}
 Trzecia część zajęć z **programowania w C#**.
-Przez proces tworzenia swojej pierwszej gry przeprowadzi Was programista Grzegorz. :computer:
+Przez proces tworzenia swojej pierwszej gry przeprowadzi Was programista Grzegorz.
+💻
 Na wcześniejszych zajęciach nauczyliśmy się deklarować zmienne, używać instrukcji warunkowych oraz pętli.
 Tym razem zgłębimy temat interaktywnego medium jakim są gry komputerowe.
 Wykorzystamy nasze umiejętności z poprzednich zajęć, by dowiedzieć się, czym jest główna pętla gry i stworzyć naszą pierwszą grę komputerową.
@@ -98,19 +106,17 @@ Wykorzystamy nasze umiejętności z poprzednich zajęć, by dowiedzieć się, cz
 Zajęcia rozpoczniemy od powtórki.
 Następnie omówimy, czym są gry komputerowe oraz ich budowę.
 Dowiemy się też czym są metody.
-Na koniec zajęć stworzymy naszą pierwszą grę. :video_game:
+Na koniec zajęć stworzymy naszą pierwszą grę.
+🎮
 Będzie to gra w kółko krzyżyk.
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='MonoDevelop' url='https://www.monodevelop.com/' %} - darmowe oraz wielosystemowe IDE, czyli zintegrowane środowisko programistyczne. Pozwala na programowanie w językach takich jak C#, F#, Visual Basic i inne.
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='MonoDevelop' url='https://www.monodevelop.com/' %} - darmowe oraz wielosystemowe IDE, czyli zintegrowane środowisko programistyczne.
+  Pozwala na programowanie w językach takich jak C#, F#, Visual Basic i inne.
 
-## Informacje organizacyjne
+----
 
-### Czas zajęć :alarm_clock:
-_19.01.2019 (sobota) od 09:00 do 12:00_
-
-### Miejsce zajęć :office:
-{% include common/coderdojo--workshops-place.html %}
+{% include common/coderdojo--footer.html date='19.01.2019' %}
 
 ----
 {% include common/footer--polish-text.html %}

@@ -33,10 +33,11 @@ Prosimy o wybranie jednego z nich.
 {: .text-justify}
 _Jak stworzyć własną grę typu RPG?_
 Jak stworzyć świat pełen bohaterów i zaprojektować ich przygody?
-Jak zdobywać skarby, walczyć z potworami i przygotować ciekawą fabułę gry? :video_game:
+Jak zdobywać skarby, walczyć z potworami i przygotować ciekawą fabułę gry?
+🎮
 
 {: .text-justify}
-**Programistka Agnieszka** poprowadzi zajęcia wprowadzające do programu **RPG Maker**.
+**[Programistka Agnieszka](https://womanonrails.com/pl/)** poprowadzi zajęcia wprowadzające do programu **RPG Maker**.
 Będzie można poznać obsługę programu RPG Maker VX Ace.
 Każdy ninja stworzy swoją własną, unikalną grę.
 Na początku ważne będzie stworzenie mapy.
@@ -46,9 +47,9 @@ W wybranych lokacjach twórcy będą mogli również umieszczać potworki.
 Uczestnicy CoderDojo będą mogli testować swoją grę, czyli po prostu w nią zagrać oraz dać zagrać koleżance lub koledze obok.
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj <a href='https://www.rpgmakerweb.com/download/free-trials/trial-rpg-maker-vx-ace' rel='nofollow noopener noreferrer' target='_blank'>RPG Maker VX Ace</a> - oprogramowanie do tworzenia komputerowych gier fabularnych.
-Na potrzeby zajęć CoderDojo wystarczy wersja trial (darmowa).
-Nie trzeba więc płacić za pełną wersję.
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='RPG Maker VX Ace' url='https://www.rpgmakerweb.com/download/free-trials/trial-rpg-maker-vx-ace' %} - oprogramowanie do tworzenia komputerowych gier fabularnych.
+  Na potrzeby zajęć CoderDojo wystarczy wersja trial (darmowa).
+  Nie trzeba więc płacić za pełną wersję.
 + Słuchawki - jeśli chcesz mieć dźwięk w swojej grze.
 
 
@@ -68,10 +69,11 @@ Zapytacie _"Po co to wszystko?"_
 
 {: .text-justify}
 Ponieważ tworzenie gier zawsze zawiera elementy programowania.
-I bez umiejętności programowania ciężko będzie tworzyć profesjonalne gry. :game_die:
+I bez umiejętności programowania ciężko będzie tworzyć profesjonalne gry.
+🎲
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj <a href='https://www.monodevelop.com/' rel='nofollow noopener noreferrer' target='_blank'>MonoDevelop</a> - darmowe środowisko programistyczne umożliwiające programowanie w C# oraz innych językach platformy .NET (dotNet).
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='MonoDevelop' url='https://www.monodevelop.com/' %} - darmowe środowisko programistyczne umożliwiające programowanie w C# oraz innych językach platformy .NET (dotNet).
 Oprogramowanie to działa na różnych systemach operacyjnych (Linux, Windows, OS X).
 
 
@@ -93,13 +95,15 @@ A następnie nauczy się jak **programować muzykę w języku Ruby**.
 Po zaprogramowaniu całego utworu muzycznego grupa zastanowi się jak zoptymalizować program.
 Wtedy zacznie się prawdziwe programowanie.
 Powtarzające się fragmenty (np. refren) zostaną zamknięte w pętle, a wartości nutowe wrzucone do zmiennych tablicowych.
-Zajęcia muzyczno-programistyczne przeprowadzi **programista Alek**. :notes:
+Zajęcia muzyczno-programistyczne przeprowadzi **[programista Alek](https://torrocus.com/)**.
+🎶
 
 Wymagania:
-+ {: .text-justify} Ściągnij i zainstaluj <a href='https://sonic-pi.net/' rel='nofollow noopener noreferrer' target='_blank'>Sonic Pi</a> - oprogramowanie pozwalające generować dźwięki instrumentów oraz miksować muzykę programując w języku Ruby.
-Projekt jest open source.
-Można go uruchomić na różnych systemach operacyjnych (Raspberry Pi, Windows, Mac, Linux).
-+ Słuchawki - obowiązkowo! :loudspeaker:
++ {: .text-justify} Ściągnij i zainstaluj {% include common/foreign-link.html name='Sonic Pi' url='https://sonic-pi.net/' %} - oprogramowanie pozwalające generować dźwięki instrumentów oraz miksować muzykę programując w języku Ruby.
+  Projekt jest open source.
+  Można go uruchomić na różnych systemach operacyjnych (Raspberry Pi, Windows, Mac, Linux).
++ Słuchawki - obowiązkowo!
+📢
 
 
 ----
@@ -109,29 +113,32 @@ Można go uruchomić na różnych systemach operacyjnych (Raspberry Pi, Windows,
 {% include common/arduino--headline-image.html %}
 
 {: .text-justify}
-**Mentor Darek** :neckbeard: wprowadzi w świat łączący programowanie oraz elektronikę.
+**Mentor Darek**
+🧔
+wprowadzi w świat łączący programowanie oraz elektronikę.
 Grupa ninja na zajęciach CoderDojo będzie **programować płytki Arduino w języku C**.
 Na początku będzie zapoznanie się ze sprzętem i trochę teorii wprowadzającej.
 Później już będzie tylko praktyka.
 A jak wiadomo praktyka czyni mistrza.
 
 Wymagania:
-+ {: .text-justify} Ściągnij <a href='https://www.arduino.cc/en/Guide/HomePage#install' rel='nofollow noopener noreferrer' target='_blank'>Arduino Desktop IDE</a> - aplikację służącą do pisania programów oraz wgrywania ich na płytki Arduino.
-Środowisko jest dostępne do instalacji na różne platformy (Windows, Mac OS, Linux) oraz w wersji portable, czyli bez potrzeby instalacji w systemie (Windows, Linux).
++ {: .text-justify} Ściągnij {% include common/foreign-link.html name='Arduino Desktop IDE' url='https://www.arduino.cc/en/Guide/HomePage#install' %} - aplikację służącą do pisania programów oraz wgrywania ich na płytki Arduino.
+  Środowisko jest dostępne do instalacji na różne platformy (Windows, Mac OS, Linux) oraz w wersji portable, czyli bez potrzeby instalacji w systemie (Windows, Linux).
 
 
 ## Informacje organizacyjne
 
-### Czas zajęć :alarm_clock:
+### Czas zajęć ⏰
 _17.11.2018 (sobota) od 09:00 do 12:00_
 
-### Miejsce zajęć :office:
+### Miejsce zajęć 🏢
 {% include common/coderdojo--workshops-place.html %}
 
 ### Zasady CoderDojo Gliwice
 
 {: .text-justify}
-1. **Bądź fajny!** :grinning:
+1. **Bądź fajny!**
+   😀
 
 2. Ninja poniżej 13 roku życia mogą brać udział w zajęciach **tylko pod opieką dorosłego opiekuna**.
 
@@ -145,23 +152,27 @@ Więcej informacji na temat elektronicznego podpisywania zgód w artykule
 Co dziecko potrzebuje na zajęcia?
 : + {: .text-justify} **komputer / laptop** - Większość zajęć odbywa się w formule BYOD (_Bring Your Own Device_).
   Każdy pracuje na własnym sprzęcie.
-  Dzięki temu dziecko może rozwijać swoje zainteresowania również po zajęciach CoderDojo. :computer:
+  Dzięki temu dziecko może rozwijać swoje zainteresowania również po zajęciach CoderDojo.
+  💻
   + {: .text-justify} **słuchawki** - Opcjonalnie.
     Wymagane są na zajęciach związanych z dźwiękiem tj. komponowanie muzyki, montaż wideo i tworzenie gier.
     Ninja, który nie będzie posiadał słuchawek nie może uczestniczyć w takich zajęciach.
     Po prostu uczestnicy zagłuszaliby się wzajemnie.
-    Do tego mentorzy szanują swoje uszy. :headphones:
+    Do tego mentorzy szanują swoje uszy.
+    🎧
   + {: .text-justify} **oprogramowanie** - Opcjonalnie.
     Przed zajęciami będziemy zamieszczać informację o wymaganym oprogramowaniu wraz z linkiem gdzie można je znaleźć.
     Preferujemy oprogramowanie z otwartym kodem źródłowym (**open source**) lub na darmowych licencjach edukacyjnych.
-    Część zajęć wymaga tylko przeglądarki internetowej. :house:
+    Część zajęć wymaga tylko przeglądarki internetowej.
+    🏠
 
 Kto może być opiekunem dziecka?
 : + rodzice (matka lub ojciec), opiekun prawny
   + pełnoletnie rodzeństwo (siostra lub brat)
   + inni członkowie rodziny (babcia, dziadek, ciocia, wujek)
 
-  Pamiętaj, że to Ty jesteś odpowiedzialny za zachowanie dziecka. :baby:
+  Pamiętaj, że to Ty jesteś odpowiedzialny za zachowanie dziecka.
+  👶
 
 Czy jako opiekun mogę uczestniczyć wraz z dzieckiem w&nbsp;zajęciach?
 : {: .text-justify} Tak.
