@@ -27,7 +27,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-redirect-from
   - jekyll-sitemap
-  - jemoji
 
 # Theme settings
 breadcrumbs: false
@@ -74,7 +73,7 @@ defaults:
     values:
       author_profile: true
       comments: true
-      read_time: true
+      read_time: false
       related: true
       share: true
 
