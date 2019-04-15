@@ -13,7 +13,7 @@ title: Web Development in Ruby on Rails, technical blog Fractal Soft
 name: Web Development in Ruby on Rails and JavaScript
 
 # Jekyll settings
-exclude: ['.keep', '.ruby-gemset', '.ruby-version', '.sass-cache', '_drafts', '_templates', 'Gemfile', 'Gemfile.lock']
+exclude: ['.keep', '.ruby-gemset', '.ruby-version', '.sass-cache', '_drafts', '_templates', 'Gemfile', 'Gemfile.lock', 'Rakefile']
 highlighter: rouge
 include: ['_data', '_pages']
 og_image: /assets/images/fractalsoft/blog.svg
@@ -34,7 +34,7 @@ logo: /assets/images/fractalsoft/blog-44x44.png
 masthead_title: Technical blog by Fractal Soft
 minimal_mistakes_skin: contrast
 og_image: /assets/images/fractalsoft/blog-144x144.png
-paginate: 10
+paginate: 15
 paginate_path: /page:num/
 search: true
 words_per_minute: 150
