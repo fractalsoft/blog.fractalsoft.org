@@ -98,6 +98,9 @@ footer:
       icon: 'fab fa-fw fa-instagram'
       url: https://instagram.com/fractalsoft
 
+sass:
+  style: compressed # nested, expended, compact, compressed
+
 tag_archive:
   type: liquid
   path: /tags/
