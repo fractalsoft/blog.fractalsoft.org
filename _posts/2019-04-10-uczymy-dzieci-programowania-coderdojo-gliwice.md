@@ -41,7 +41,7 @@ Krótkie przypomnienie tematyki ostatnich zajęć z programowania CoderDojo Gliw
 {: .text-justify}
 Dokładniej opisaliśmy te tematy zajęć w artykule [CoderDojo Gliwice - 2019-03](/coderdojo/2019/03/coderdojo-gliwice/).
 
-![Kryształy siarki](/assets/articles/2019-04-10/siarka.jpg){: .align-center}
+{% include common/lazy-image.html alt='Kryształy siarki' classes='align-center' url='/assets/articles/2019-04-10/siarka.jpg' %}
 
 {: .text-justify}
 Ale siara.
@@ -184,7 +184,7 @@ Python jest darmowy i może żyć w różnym środowisku (systemie operacyjnym).
 
 ### Tworzenie modeli 3D w Blenderze
 
-![Blender kuchenny](/assets/articles/2019-04-10/blender-kuchenny.jpg){: .align-center}
+{% include common/lazy-image.html alt='Blender kuchenny' classes='align-center' url='/assets/articles/2019-04-10/blender-kuchenny.jpg' %}
 
 {: .text-justify}
 Na poprzednich zajęciach zapoznaliśmy się z podstawami silnika Unity3D, nauczyliśmy się podstaw działania fizyki wewnątrz silnika oraz tworzenia skryptów C# działających w Unity.
