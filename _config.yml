@@ -88,9 +88,6 @@ footer:
     - label: YouTube
       icon: 'fab fa-fw fa-youtube'
       url: https://www.youtube.com/c/fractalsoft
-    - label: Google+
-      icon: 'fab fa-fw fa-google-plus'
-      url: https://www.google.com/+fractalsoft
     - label: Facebook
       icon: 'fab fa-fw fa-facebook'
       url: https://www.facebook.com/fractalsoft
