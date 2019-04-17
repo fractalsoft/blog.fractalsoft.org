@@ -1,0 +1,10 @@
+<svg height='120' fill='#1c26c3' width='222' version='1.2' xmlns='http://www.w3.org/2000/svg'>
+  <style>text { font-family: Lato; font-size: 28px }</style>
+  <rect height='40' width='40' x='0' y='0' />
+  <rect height='40' width='40' x='0' y='81' />
+  <rect height='40' width='40' x='81' y='0' />
+  <rect height='40' width='40' x='41' y='41' />
+  <text x='128' y='30'>Fractal</text>
+  <text x='128' y='70'>Soft</text>
+  <text x='128' y='110'>blog</text>
+</svg>

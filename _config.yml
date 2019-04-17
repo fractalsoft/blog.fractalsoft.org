@@ -37,6 +37,7 @@ og_image: /assets/images/fractalsoft/blog-144x144.png
 paginate: 15
 paginate_path: /page:num/
 search: true
+teaser: /assets/images/fractalsoft/blog-222x120.svg
 words_per_minute: 150
 
 analytics:
