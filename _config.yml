@@ -49,6 +49,11 @@ category_archive:
   type: liquid
   path: /categories/
 
+collections:
+  coderdojo:
+    output: true
+    permalink: /pl/:collection/:path/
+
 comments:
   provider: 'disqus'
   disqus:
@@ -60,6 +65,14 @@ compress_html:
     envs: development
 
 defaults:
+  # _coderdojo
+  - scope:
+      path: ''
+      type: coderdojo
+    values:
+      comments: true
+      layout: single
+      related: true
   # _pages
   - scope:
       path: ''

@@ -1,6 +1,6 @@
 main:
   - title: CoderDojo
-    url: /coderdojo/
+    url: /pl/coderdojo/
   - title: Software Development
     excerpt: We create web applications
     url: https://fractalsoft.org
