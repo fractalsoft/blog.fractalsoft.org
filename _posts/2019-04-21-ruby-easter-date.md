@@ -7,6 +7,7 @@ header:
   actions:
     - label: Merry Christmas w rytmie Ruby
       url: /news/2018/12/merry-christmas/
+  og_image: /assets/articles/2019-04-21/og_image.jpg
   overlay_filter: rgba(0, 0, 0, 0.5)
   overlay_image: assets/articles/2019-04-21/header.jpg
   teaser: /assets/articles/2019-04-21/teaser.jpg
@@ -51,7 +52,7 @@ Prawie dwieście lat temu zbudował prosty algorytm, który pozwala określić d
 Jest to bardzo uproszczona wersja tego algorytmu.
 Założyliśmy, że interesują nas tylko najbliższe lata.
 Nie uwzględniamy wyjątków.
-Chodzi o to, aby pokazać implementację tego algorytmu w Ruby i aby był to prosty program.
+Chodzi o to, aby pokazać **implementację tego algorytmu w Ruby** i aby był to prosty program.
 
 ```ruby
 require 'date'
