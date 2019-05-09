@@ -1,0 +1,30 @@
+{
+  "background_color": "#ffffff",
+  "description": "",
+  "display": "standalone",
+  "manifest_version": 2,
+  "name": "Web Development in Ruby on Rails, technical blog Fractal Soft",
+  "offline_enabled": true,
+  "prefer_related_applications": false,
+  "scope": "/",
+  "short_name": "blog fractalsoft",
+  "start_url": "/?utm_source=homescreen",
+  "theme_color": "#1c26c3",
+  "icons": [
+    {
+      "src": "https://blog.fractalsoft.org/assets/images/fractalsoft/blog.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    },
+    {
+      "src": "https://blog.fractalsoft.org/assets/images/fractalsoft/blog-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://blog.fractalsoft.org/assets/images/fractalsoft/blog-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

@@ -13,7 +13,7 @@ title: Web Development in Ruby on Rails, technical blog Fractal Soft
 name: Web Development in Ruby on Rails and JavaScript
 
 # Jekyll settings
-exclude: ['.keep', '.ruby-gemset', '.ruby-version', '.sass-cache', '_drafts', '_templates', 'Gemfile', 'Gemfile.lock', 'Rakefile']
+exclude: ['.keep', '.ruby-gemset', '.ruby-version', '.sass-cache', '_data', '_drafts', '_templates', 'Gemfile', 'Gemfile.lock', 'Rakefile']
 highlighter: rouge
 include: ['_data', '_pages']
 og_image: /assets/images/fractalsoft/blog.svg
@@ -22,9 +22,10 @@ permalink: /:categories/:year/:month/:title/
 
 # Plugins settings
 plugins:
-  # - jekyll-feed
+  - jekyll-feed
   - jekyll-gist
   - jekyll-include-cache
+  - jekyll-pwa-workbox
   - jekyll-redirect-from
   - jekyll-sitemap
 
@@ -109,6 +110,12 @@ footer:
       icon: 'fab fa-fw fa-instagram'
       url: https://instagram.com/fractalsoft
 
+head_scripts:
+  - /assets/js/pwa-1.0.min.js
+
+pwa:
+  dest_js_directory: assets/js
+
 sass:
   style: compressed # nested, expended, compact, compressed
 
@@ -118,3 +125,5 @@ tag_archive:
 
 twitter:
   username: fractal_soft
+
+chrome-tab-theme-color: '#1c26c3'
