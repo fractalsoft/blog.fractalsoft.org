@@ -14,7 +14,7 @@ header:
 lang: pl
 layout: single
 tags: [programming, beginner, charity]
-title: CoderDojo Gliwice - 2019-02
+title: Nauka programowania dla dzieci i młodzieży - CoderDojo Gliwice - 2019-02
 toc: true
 toc_label: CoderDojo - 09.02.2019
 ---

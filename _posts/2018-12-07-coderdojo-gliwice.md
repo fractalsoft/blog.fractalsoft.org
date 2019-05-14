@@ -6,7 +6,7 @@ excerpt: Święta tuż-tuż, a my mamy dla Was niespodziewankę! Na grudniowych 
 lang: pl
 layout: single
 tags: [programming, beginner, charity]
-title: CoderDojo Gliwice - 2018-12
+title: Nauka programowania dla dzieci i młodzieży - CoderDojo Gliwice - 2018-12
 toc: true
 toc_label: CoderDojo - 15.12.2018
 gallery:

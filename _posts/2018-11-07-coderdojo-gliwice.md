@@ -6,7 +6,7 @@ excerpt: W czasie deszczu dzieci się nudzą, ale nie na CoderDojo w Gliwicach. 
 lang: pl
 layout: single
 tags: [programming, beginner, charity]
-title: CoderDojo Gliwice - 2018-11
+title: Nauka programowania dla dzieci i młodzieży - CoderDojo Gliwice - 2018-11
 toc: true
 toc_label: CoderDojo - 17.11.2018
 ---
