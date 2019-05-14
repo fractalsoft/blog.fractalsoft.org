@@ -1,7 +1,7 @@
 ---
 author: torrocus
 category: coderdojo
-description: "Nauka programowania w Ruby i Pythonie oraz modelowanie postaci w Blender i jej animowanie - Programowanie dla dzieci i młodzieży - CoderDojo Gliwice #7"
+description: "Nauka programowania w Ruby i Pythonie oraz modelowanie postaci w Blenderze i jej animowanie - Programowanie dla dzieci i młodzieży - CoderDojo Gliwice #7"
 excerpt: "Zaprogramujemy rozwiązywacz Sudoku w **Ruby**. Zamodelujemy postać i wprowadzimy ją w ruch w **Blenderze**. A w **Pythonie** zadbamy o klasy. Jesteście gotowi na wyzwania?"
 header:
   actions:
