@@ -1,6 +1,6 @@
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
-  prefix: 'blog', // use your app's name
+  prefix: 'blog.fractalsoft.org', // use your app's name
   suffix: 'v1.0',
   precache: 'precache',
   runtime: 'runtime-cache'
@@ -27,7 +27,7 @@ workbox.routing.registerRoute(
 
 // use `cacheFirst` strategy for images
 workbox.routing.registerRoute(
-  /assets\/(img|icons)/,
+  /assets\/(images|icons)/,
   new workbox.strategies.CacheFirst()
 );
 

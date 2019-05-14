@@ -8,6 +8,7 @@ header:
   og_image: /assets/articles/TODO_Data/og_image.png
   overlay_filter: rgba(0, 0, 0, 0.5)
   overlay_image: /assets/articles/TODO_Data/header.svg
+  teaser: /assets/articles/TODO_Data/teaser.jpg
 lang: pl
 layout: single
 tags: [programming, beginner, charity]
@@ -19,7 +20,7 @@ toc_label: CoderDojo - TODO_DataZajęć
 {: .text-justify}
 TODO_KrótkieWprowadzenie.
 
-## Poprzednie zajęcia
+## Poprzednie CoderDojo
 
 ### Zdjęcia z CoderDojo Gliwice #TODO_NumerPoprzedni
 {% include gallery caption='TODO_Opis zajęcia CoderDojo Gliwice TODO_DataPoprzednichZajęć' %}
