@@ -6,35 +6,8 @@ excerpt: Święta Bożego Narodzenia skłaniają do refleksji. Chcemy podzielić
 header:
   image: /assets/articles/2018-12-24/header.jpg
 lang: pl
-layout: single
 tags: [professional, story]
 title: Merry Christmas w rytmie Ruby
-gallery-cieszyn:
-  - url: /assets/gallery/2018-12-24/cieszyn/01-naprawa-laptopow-przy-studni-trzech-braci.jpg
-    image_path: /assets/gallery/2018-12-24/cieszyn/thumbs/01-naprawa-laptopow-przy-studni-trzech-braci.jpg
-    alt: 'Wejście do serwisu przy Studni Trzech Braci'
-    title: 'Zapraszamy do nas. Zobacz choinkę, zapytaj o laptopa.'
-  - url: /assets/gallery/2018-12-24/cieszyn/02-serwis-komputerowy-cieszyn-otwarte-drzwi.jpg
-    image_path: /assets/gallery/2018-12-24/cieszyn/thumbs/02-serwis-komputerowy-cieszyn-otwarte-drzwi.jpg
-    alt: 'Otwarte drzwi w serwisie komputerowym Fractal Soft i w tle choinka'
-    title: 'Dla Ciebie nasze drzwi stoją otworem.'
-  - url: /assets/gallery/2018-12-24/cieszyn/03-choinka-cieszyn.jpg
-    image_path: /assets/gallery/2018-12-24/cieszyn/thumbs/03-choinka-cieszyn.jpg
-    alt: 'Świąteczna choinka we Fractal Soft w Cieszynie'
-    title: 'Małe jest piękne. My naprawiamy małą i dużą elektronikę.'
-gallery-gliwice:
-  - url: /assets/gallery/2018-12-24/gliwice/01-choinka-gliwice.jpg
-    image_path: /assets/gallery/2018-12-24/gliwice/thumbs/01-choinka-gliwice.jpg
-    alt: 'Choinka ustrojona w biało-czerwone ozdoby'
-    title: 'Gliwicka choinka zaraz po przystrojeniu.'
-  - url: /assets/gallery/2018-12-24/gliwice/02-choinka-borsuk-kaczka.jpg
-    image_path: /assets/gallery/2018-12-24/gliwice/thumbs/02-choinka-borsuk-kaczka.jpg
-    alt: 'Choinka oświetlona lampkami. Pod choinką borsuk i gumowa kaczka do debugowania.'
-    title: 'Wieczór za oknem, świąteczny nastrój się nam udziela.'
-  - url: /assets/gallery/2018-12-24/gliwice/03-swiateczne-ozdoby-fractalsoft.jpg
-    image_path: /assets/gallery/2018-12-24/gliwice/thumbs/03-swiateczne-ozdoby-fractalsoft.jpg
-    alt: 'Ozdoby w kolorystyce biało-czerwonej'
-    title: 'Nasze ozdoby świąteczne zawierają logo naszej firmy'
 ---
 
 {: .text-justify}
@@ -55,8 +28,27 @@ Zarówno mieszkańcy Cieszyna jak i turyści zapytani o 3 miejsca, które warto 
 - Rotundę św. Mikołaja,
 - oraz Studnię Trzech Braci.
 
+<figure class='third'>
+  <a href='/assets/gallery/2018-12-24/cieszyn/01-naprawa-laptopow-przy-studni-trzech-braci.jpg'
+     title='Zapraszamy do seriwsu komputerowego. Zobacz choinkę, zapytaj o laptopa.'>
+    <img src='/assets/gallery/2018-12-24/cieszyn/thumbs/01-naprawa-laptopow-przy-studni-trzech-braci.jpg'
+         alt='Wejście do serwisu laptopów przy Studni Trzech Braci'>
+  </a>
+  <a href='/assets/gallery/2018-12-24/cieszyn/02-serwis-komputerowy-cieszyn-otwarte-drzwi.jpg'
+     title='Dla Ciebie nasze drzwi stoją otworem.'>
+    <img src='/assets/gallery/2018-12-24/cieszyn/thumbs/02-serwis-komputerowy-cieszyn-otwarte-drzwi.jpg'
+         alt='Otwarte drzwi w serwisie komputerowym Fractal Soft i w tle choinka'>
+  </a>
+  <a href='/assets/gallery/2018-12-24/cieszyn/03-choinka-cieszyn.jpg'
+     title='Małe jest piękne. My naprawiamy małą i dużą elektronikę.'>
+    <img src='/assets/gallery/2018-12-24/cieszyn/thumbs/03-choinka-cieszyn.jpg'
+         alt='Świąteczna choinka we Fractal Soft w Cieszynie'>
+  </a>
 
-{% include gallery id='gallery-cieszyn' caption='Serwis komputerowy w Cieszynie' %}
+  <figcaption>
+    <strong>Serwis komputerowy</strong> Fractal Soft w Cieszynie
+  </figcaption>
+</figure>
 
 {: .text-justify}
 To właśnie tu, przy Studni Trzech Braci mieści się siedziba naszej firmy i _serwis komputerów w Cieszynie_.
@@ -98,7 +90,27 @@ Piszemy dobrej jakości kod, tworzymy testy, stosujemy metryki jakości.
 To wszystko jest możliwe, ponieważ my ufamy naszym klientom, a klienci ufają nam.
 Zaufanie przede wszystkim.
 
-{% include gallery id='gallery-gliwice' caption='Choinka w biurze w Gliwicach' %}
+<figure class='third'>
+  <a href='/assets/gallery/2018-12-24/gliwice/01-choinka-gliwice.jpg'
+     title='Gliwicka choinka zaraz po przystrojeniu.'>
+    <img src='/assets/gallery/2018-12-24/gliwice/thumbs/01-choinka-gliwice.jpg'
+         alt='Choinka ustrojona w biało-czerwone ozdoby'>
+  </a>
+  <a href='/assets/gallery/2018-12-24/gliwice/02-choinka-borsuk-kaczka.jpg'
+     title='Wieczór za oknem, świąteczny nastrój się nam udziela.'>
+    <img src='/assets/gallery/2018-12-24/gliwice/thumbs/02-choinka-borsuk-kaczka.jpg'
+         alt='Choinka oświetlona lampkami. Pod choinką borsuk i gumowa kaczka do debugowania.'>
+  </a>
+  <a href='/assets/gallery/2018-12-24/gliwice/03-swiateczne-ozdoby-fractalsoft.jpg'
+     title='Nasze ozdoby świąteczne zawierają logo naszej firmy'>
+    <img src='/assets/gallery/2018-12-24/gliwice/thumbs/03-swiateczne-ozdoby-fractalsoft.jpg'
+         alt='Ozdoby w kolorystyce biało-czerwonej'>
+  </a>
+
+  <figcaption>
+    Choinka w biurze <strong>Fractal Soft</strong> w Gliwicach
+  </figcaption>
+</figure>
 
 {: .text-justify}
 Z chęcią podejmujemy się nowych wyzwań.
@@ -118,7 +130,7 @@ Po wcześniejszym umówieniu się zapraszamy pod poniższy adres lub do Cieszyna
 
 {: .text-justify}
 Poza pracą działamy również w [lokalnych grupach IT](https://fractalsoft.org/pl/spolecznosc) np. SRUG ([Silesian Ruby User Group](https://fractalsoft.org/pl/spolecznosc/srug)).
-Uczymy dzieci i młodzież programowania na zajęciach [CoderDojo](/categories/#coderdojo).
+Uczymy dzieci i młodzież programowania na zajęciach [CoderDojo](/pl/coderdojo).
 A także aktywnie bierzemy udział jako mentorzy w nauce [programowania dla kobiet](https://fractalsoft.org/pl/spolecznosc/rails-girls).
 Robimy to wszystko, ponieważ wierzymy, że możemy zmieniać świat.
 Sprawiamy, aby był lepszym miejscem.

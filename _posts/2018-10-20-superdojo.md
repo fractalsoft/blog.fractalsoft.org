@@ -4,37 +4,11 @@ category: coderdojo
 description: Prowadzimy warsztaty na SuperDojo, czyli angażowanie dzieci i młodzież w programowanie i technologie internetowe.
 excerpt: Raz w roku wszystkie CoderDojo z Polski spotykają się na SuperDojo. Nas również nie mogło tam zabraknąć. Krótki post o naszych warsztatach dla dzieci.
 lang: pl
-layout: single
 tags: [programming, beginner, charity]
 title: SuperDojo 2018
 toc: true
 toc_label: SuperDojo 2018
 toc_icon: users
-gallery:
-  - url: /assets/gallery/2018-10-20/01-coderdojo-gliwice.jpg
-    image_path: /assets/gallery/2018-10-20/thumbs/01-coderdojo-gliwice.jpg
-    alt: 'Grupowe zdjęcie najwytrwalszych dzieci i mentorów CodejDojo z Gliwic'
-    title: 'CoderDojo Gliwice - ninja i mentorzy'
-  - url: /assets/gallery/2018-10-20/02-superdojo-zebranie-mentorow.jpg
-    image_path: /assets/gallery/2018-10-20/thumbs/02-superdojo-zebranie-mentorow.jpg
-    alt: 'Grupa mentorów CoderDojo czeka na instrukcje'
-    title: 'Mentorzy gotowi do dalszej pracy'
-  - url: /assets/gallery/2018-10-20/03-superdojo-unity-wprowadzenie.jpg
-    image_path: /assets/gallery/2018-10-20/thumbs/03-superdojo-unity-wprowadzenie.jpg
-    alt: 'Grupa ninja uważnie słucha mentora Grzegorza'
-    title: 'Krótkie wprowadzenie do Unity'
-  - url: /assets/gallery/2018-10-20/04-superdojo-unity-warsztaty.jpg
-    image_path: /assets/gallery/2018-10-20/thumbs/04-superdojo-unity-warsztaty.jpg
-    alt: 'Dzieci uczestniczą w warsztatach z Unity'
-    title: 'Warsztaty z Unity, czyli tworzenie gier bez programowania'
-  - url: /assets/gallery/2018-10-20/05-superdojo-unity-po-warsztatach.jpg
-    image_path: /assets/gallery/2018-10-20/thumbs/05-superdojo-unity-po-warsztatach.jpg
-    alt: 'Dziewczynka pracuje na komputerze pod okiem mentora'
-    title: 'Po warsztatach - mentor Grzegorz dalej pomaga uczestniczce SuperDojo'
-  - url: /assets/gallery/2018-10-20/06-coderdojo-polska-mentorzy.jpg
-    image_path: /assets/gallery/2018-10-20/thumbs/06-coderdojo-polska-mentorzy.jpg
-    alt: 'Grupowe zdjęcie mentorów CoderDojo z całej Polski'
-    title: 'CoderDojo Polska - uśmiechnięci mentorzy'
 ---
 
 {: .text-justify}
@@ -161,7 +135,44 @@ Pod względem organizacyjnym było to przecież olbrzymie przedsięwzięcie.
 Mamy nadzieję, że za rok znowu uda nam się wesprzeć to wydarzenie naszą wiedzą mentorską.
 
 ### Zdjęcia z SuperDojo 2018
-{% include gallery caption='Zdjęcia udostępniła **Fundacja CoderDojo Polska**, fot. Tomasz Mateusiak' %}
+<figure class='third'>
+  <a href='/assets/gallery/2018-10-20/01-coderdojo-gliwice.jpg'
+     title='CoderDojo Gliwice - ninja i mentorzy'>
+    <img src='/assets/gallery/2018-10-20/thumbs/01-coderdojo-gliwice.jpg'
+         alt='Grupowe zdjęcie najwytrwalszych dzieci i mentorów CodejDojo z Gliwic'>
+  </a>
+  <a href='/assets/gallery/2018-10-20/02-superdojo-zebranie-mentorow.jpg'
+     title='Mentorzy gotowi do dalszej pracy'>
+    <img src='/assets/gallery/2018-10-20/thumbs/02-superdojo-zebranie-mentorow.jpg'
+         alt='Grupa mentorów CoderDojo czeka na instrukcje'>
+  </a>
+  <a href='/assets/gallery/2018-10-20/03-superdojo-unity-wprowadzenie.jpg'
+     title='Krótkie wprowadzenie do Unity - silnika tworzenia gier'>
+    <img src='/assets/gallery/2018-10-20/thumbs/03-superdojo-unity-wprowadzenie.jpg'
+         alt='Grupa ninja uważnie słucha mentora Grzegorza'>
+  </a>
+  <a href='/assets/gallery/2018-10-20/04-superdojo-unity-warsztaty.jpg'
+     title='Warsztaty z Unity, czyli tworzenie gier bez programowania'>
+    <img src='/assets/gallery/2018-10-20/thumbs/04-superdojo-unity-warsztaty.jpg'
+         alt='Dzieci uczestniczą w warsztatach z Unity'>
+  </a>
+  <a href='/assets/gallery/2018-10-20/05-superdojo-unity-po-warsztatach.jpg'
+     title='Po warsztatach - mentor Grzegorz dalej pomaga uczestniczce SuperDojo'>
+    <img src='/assets/gallery/2018-10-20/thumbs/05-superdojo-unity-po-warsztatach.jpg'
+         alt='Dziewczynka pracuje na komputerze pod okiem mentora'>
+  </a>
+  <a href='/assets/gallery/2018-10-20/06-coderdojo-polska-mentorzy.jpg'
+     title='CoderDojo Polska - uśmiechnięci mentorzy'>
+    <img src='/assets/gallery/2018-10-20/thumbs/06-coderdojo-polska-mentorzy.jpg'
+         alt='Grupowe zdjęcie mentorów CoderDojo z całej Polski'>
+  </a>
+
+  <figcaption>
+    Zdjęcia udostępniła <strong>Fundacja CoderDojo Polska</strong>, fot. Tomasz Mateusiak
+  </figcaption>
+</figure>
+
+
 
 ----
 {% include common/footer--polish-text.html %}

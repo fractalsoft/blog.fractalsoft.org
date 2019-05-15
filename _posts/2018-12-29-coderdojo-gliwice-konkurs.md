@@ -6,7 +6,6 @@ excerpt: Na przedświątecznych zajęciach CoderDojo tyle się działo, że post
 header:
   image: assets/articles/2018-12-29/header.jpg
 lang: pl
-layout: single
 tags: [programming, beginner, charity]
 title: CoderDojo Gliwice - Konkurs - 2018-12
 ---
@@ -356,7 +355,9 @@ Fajnie było, co nie?
   <a href='/assets/gallery/2018-12-29/rest/15.jpg'>
     <img src='/assets/gallery/2018-12-29/rest/thumbs/15.jpg'>
   </a>
-  <figcaption>Zdjęcia z grudniowych zajęć</figcaption>
+  <figcaption>
+    Zdjęcia z grudniowych zajęć
+  </figcaption>
 </figure>
 
 ----

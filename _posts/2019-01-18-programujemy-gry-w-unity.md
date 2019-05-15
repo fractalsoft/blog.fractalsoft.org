@@ -6,7 +6,6 @@ excerpt: Programowanie gier to obok programowania aplikacji internetowych jedne 
 header:
   image: assets/articles/2019-01-18/header.png
 lang: pl
-layout: single
 tags: [gamedev]
 title: Programujemy gry w Unity - M1 Fun
 ---

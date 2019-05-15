@@ -12,7 +12,6 @@ header:
   overlay_image: assets/articles/2019-04-21/header.jpg
   teaser: /assets/articles/2019-04-21/teaser.jpg
 lang: pl
-layout: single
 tags: [story]
 title: Ruby Easter date
 ---

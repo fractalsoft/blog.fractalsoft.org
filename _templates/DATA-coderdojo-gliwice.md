@@ -23,7 +23,17 @@ TODO_KrótkieWprowadzenie.
 ## Poprzednie CoderDojo
 
 ### Zdjęcia z CoderDojo Gliwice #TODO_NumerPoprzedni
-{% include gallery caption='TODO_Opis zajęcia CoderDojo Gliwice TODO_DataPoprzednichZajęć' %}
+<figure class='third'>
+  <a href='/assets/gallery/TODO_DataPoprzednichZajęć/01-todo-opisowa-nazwa.jpg'
+     title='TODO_CzytelnyOpis'>
+    <img src='/assets/gallery/TODO_DataPoprzednichZajęć/thumbs/01-todo-opisowa-nazwa.jpg'
+         alt='TODO_AlternatywnyTekst'>
+  </a>
+
+  <figcaption>
+  </figcaption>
+</figure>
+
 
 
 ## Tematy na CoderDojo Gliwice

@@ -22,6 +22,7 @@ permalink: /:categories/:year/:month/:title/
 
 # Plugins settings
 plugins:
+  - jekyll-compress-html
   - jekyll-feed
   - jekyll-gist
   - jekyll-include-cache
@@ -63,8 +64,11 @@ comments:
 
 compress_html:
   clippings: all
+  comments: all
+  endings: all
   ignore:
     envs: development
+  profile: false
 
 defaults:
   # _coderdojo
@@ -88,6 +92,7 @@ defaults:
     values:
       author_profile: true
       comments: true
+      layout: single
       read_time: false
       related: true
       share: true

@@ -4,7 +4,6 @@ category: community
 description: Lokalna społeczność rubiego na Śląsku, głównie w Gliwicach, zaprasza na SRUG-a 3.2018. Prezentacje na SRUG-u to nie tylko Ruby. Alek będzie opowiadał o SVG.
 excerpt: Programiści Ruby tworzą nie tylko dobre aplikacje, ale również wspaniałe lokalne społeczności. Rubiowców ze Śląska zapraszamy na SRUG-a. Więcej w artykule.
 lang: pl
-layout: single
 tags: [programming, event, professional]
 title: Ruby Gliwice - SRUG 3.2018
 ---

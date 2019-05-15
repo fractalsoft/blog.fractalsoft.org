@@ -4,60 +4,10 @@ category: coderdojo
 description: "Programowanie dla dzieci - CoderDojo Gliwice #2 - Nauka HTML, C#, Python lub Ruby"
 excerpt: Święta tuż-tuż, a my mamy dla Was niespodziewankę! Na grudniowych zajęciach CoderDojo w Gliwicach będzie konkurs z nagrodami. Zapoznajcie się z tematami.
 lang: pl
-layout: single
 tags: [programming, beginner, charity]
 title: Nauka programowania dla dzieci i młodzieży - CoderDojo Gliwice - 2018-12
 toc: true
 toc_label: CoderDojo - 15.12.2018
-gallery:
-  - url: /assets/gallery/2018-12-07/01-rpg-maker-w-akcji.jpg
-    image_path: /assets/gallery/2018-12-07/thumbs/01-rpg-maker-w-akcji.jpg
-    alt: 'Tworzenie gry w RPG Maker'
-    title: 'Ninja testuje swoją własną grę'
-  - url: /assets/gallery/2018-12-07/02-nauka-o-falach-dzwiekowych.jpg
-    image_path: /assets/gallery/2018-12-07/thumbs/02-nauka-o-falach-dzwiekowych.jpg
-    alt: 'Schemat działania fali dźwiękowej'
-    title: 'Mentor Alek tłumaczy działanie fal dźwiękowych'
-  - url: /assets/gallery/2018-12-07/03-wprowadzenie-do-arduino.jpg
-    image_path: /assets/gallery/2018-12-07/thumbs/03-wprowadzenie-do-arduino.jpg
-    alt: 'Rodzic pomagający ninja podłączyć płytkę Arduino'
-    title: 'Arduino zrozumie każdy ninja'
-  - url: /assets/gallery/2018-12-07/04-podstawy-pythona.jpg
-    image_path: /assets/gallery/2018-12-07/thumbs/04-podstawy-pythona.jpg
-    alt: 'Ninja programują w Pythonie na jednym komputerze'
-    title: 'Pair programming w Pythonie, bo dzielenie się jest fajne'
-  - url: /assets/gallery/2018-12-07/05-analiza-danych-3d.jpg
-    image_path: /assets/gallery/2018-12-07/thumbs/05-analiza-danych-3d.jpg
-    alt: 'Analiza danych 3D w MeshLab'
-    title: 'Ulepszanie skanera 3D na konkurs Coolest Project'
-  - url: /assets/gallery/2018-12-07/06-grupa-mentora-darka.jpg
-    image_path: /assets/gallery/2018-12-07/thumbs/06-grupa-mentora-darka.jpg
-    alt: 'Mentor i 4 ninja'
-    title: 'Grupa ninja wraz z mentorem Darkiem już myślą o kolejnym projekcie'
-  - url: /assets/gallery/2018-12-07/07-przerabianie-nut-na-program.jpg
-    image_path: /assets/gallery/2018-12-07/thumbs/07-przerabianie-nut-na-program.jpg
-    alt: 'Mentor i ninja wytężają umysły'
-    title: 'Czytanie Mazurka Dąbrowskiego z nut i zamienianie go na program w Ruby - poziom hard'
-  - url: /assets/gallery/2018-12-07/08-arduino-i-diody.jpg
-    image_path: /assets/gallery/2018-12-07/thumbs/08-arduino-i-diody.jpg
-    alt: 'Świecąca dioda podpięta do płytki'
-    title: 'Programowanie płytek Arduino i świecenie diodą'
-  - url: /assets/gallery/2018-12-07/09-funkcje-trygonometryczne-w-pythonie.jpg
-    image_path: /assets/gallery/2018-12-07/thumbs/09-funkcje-trygonometryczne-w-pythonie.jpg
-    alt: 'Kod źródłowy w Pythonie i wykresy'
-    title: 'Rysowanie funkcji trygonometrycznych w Pythonie'
-  - url: /assets/gallery/2018-12-07/10-programowanie-w-c-sharp.jpg
-    image_path: /assets/gallery/2018-12-07/thumbs/10-programowanie-w-c-sharp.jpg
-    alt: 'Kod źródłowy programu w C#'
-    title: 'Ninja pisze program konsolowy w języku C#'
-  - url: /assets/gallery/2018-12-07/11-rozbudowa-plytki-arduino.jpg
-    image_path: /assets/gallery/2018-12-07/thumbs/11-rozbudowa-plytki-arduino.jpg
-    alt: 'Pudełko z elementami elektronicznymi'
-    title: 'Ninja będzie rozbudowywał swoją płytkę Arduino o nowe elementy'
-  - url: /assets/gallery/2018-12-07/12-programowanie-w-pythonie.jpg
-    image_path: /assets/gallery/2018-12-07/thumbs/12-programowanie-w-pythonie.jpg
-    alt: 'IDE z kodem w Pythonie'
-    title: 'Kod w Pythonie rysujący wykresy'
 ---
 
 {: .text-justify}
@@ -91,7 +41,72 @@ A oto czym zajmowaliśmy się ostatnim razem na CoderDojo w Gliwicach:
 
 
 ### Zdjęcia z CoderDojo Gliwice #1
-{% include gallery caption='Zajęcia CoderDojo Gliwice z dnia 17-11-2018, fot. Agnieszka Matysek' %}
+<figure class='third'>
+  <a href='/assets/gallery/2018-12-07/01-rpg-maker-w-akcji.jpg'
+     title='Ninja testuje swoją własną grę'>
+    <img src='/assets/gallery/2018-12-07/thumbs/01-rpg-maker-w-akcji.jpg'
+         alt='Tworzenie gry w RPG Maker'>
+  </a>
+  <a href='/assets/gallery/2018-12-07/02-nauka-o-falach-dzwiekowych.jpg'
+     title='Mentor Alek tłumaczy działanie fal dźwiękowych'>
+    <img src='/assets/gallery/2018-12-07/thumbs/02-nauka-o-falach-dzwiekowych.jpg'
+         alt='Schemat działania fali dźwiękowej'>
+  </a>
+  <a href='/assets/gallery/2018-12-07/03-wprowadzenie-do-arduino.jpg'
+     title='Arduino zrozumie każdy ninja'>
+    <img src='/assets/gallery/2018-12-07/thumbs/03-wprowadzenie-do-arduino.jpg'
+         alt='Rodzic pomagający ninja podłączyć płytkę Arduino'>
+  </a>
+  <a href='/assets/gallery/2018-12-07/04-podstawy-pythona.jpg'
+     title='Pair programming w Pythonie, bo dzielenie się jest fajne'>
+    <img src='/assets/gallery/2018-12-07/thumbs/04-podstawy-pythona.jpg'
+         alt='Ninja programują w Pythonie na jednym komputerze'>
+  </a>
+  <a href='/assets/gallery/2018-12-07/05-analiza-danych-3d.jpg'
+     title='Ulepszanie skanera 3D na konkurs Coolest Project'>
+    <img src='/assets/gallery/2018-12-07/thumbs/05-analiza-danych-3d.jpg'
+         alt='Analiza danych 3D w MeshLab'>
+  </a>
+  <a href='/assets/gallery/2018-12-07/06-grupa-mentora-darka.jpg'
+     title='Grupa ninja wraz z mentorem Darkiem już myślą o kolejnym projekcie'>
+    <img src='/assets/gallery/2018-12-07/thumbs/06-grupa-mentora-darka.jpg'
+         alt='Mentor CoderDojo i 4 ninja'>
+  </a>
+  <a href='/assets/gallery/2018-12-07/07-przerabianie-nut-na-program.jpg'
+     title='Czytanie Mazurka Dąbrowskiego z nut i zamienianie go na program w Ruby - poziom hard'>
+    <img src='/assets/gallery/2018-12-07/thumbs/07-przerabianie-nut-na-program.jpg'
+         alt='Mentor i ninja wytężają umysły'>
+  </a>
+  <a href='/assets/gallery/2018-12-07/08-arduino-i-diody.jpg'
+     title='Programowanie płytek Arduino i świecenie diodą'>
+    <img src='/assets/gallery/2018-12-07/thumbs/08-arduino-i-diody.jpg'
+         alt='Świecąca dioda podpięta do płytki Arduino'>
+  </a>
+  <a href='/assets/gallery/2018-12-07/09-funkcje-trygonometryczne-w-pythonie.jpg'
+     title='Rysowanie funkcji trygonometrycznych w Pythonie'>
+    <img src='/assets/gallery/2018-12-07/thumbs/09-funkcje-trygonometryczne-w-pythonie.jpg'
+         alt='Kod źródłowy w Pythonie i wykresy'>
+  </a>
+  <a href='/assets/gallery/2018-12-07/10-programowanie-w-c-sharp.jpg'
+     title='Ninja pisze program konsolowy w języku C#'>
+    <img src='/assets/gallery/2018-12-07/thumbs/10-programowanie-w-c-sharp.jpg'
+         alt='Kod źródłowy programu w C#'>
+  </a>
+  <a href='/assets/gallery/2018-12-07/11-rozbudowa-plytki-arduino.jpg'
+     title='Ninja będzie rozbudowywał swoją płytkę Arduino o nowe elementy'>
+    <img src='/assets/gallery/2018-12-07/thumbs/11-rozbudowa-plytki-arduino.jpg'
+         alt='Pudełko z elementami elektronicznymi'>
+  </a>
+  <a href='/assets/gallery/2018-12-07/12-programowanie-w-pythonie.jpg'
+     title='Kod w Pythonie rysujący wykresy'>
+    <img src='/assets/gallery/2018-12-07/thumbs/12-programowanie-w-pythonie.jpg'
+         alt='IDE (środowisko programistyczne) z kodem w Pythonie'>
+  </a>
+
+  <figcaption>
+    Zajęcia z programowania dla dzieci - <strong>CoderDojo Gliwice</strong> z dnia 17-11-2018
+  </figcaption>
+</figure>
 
 ## Tematy na CoderDojo Gliwice
 

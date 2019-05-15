@@ -12,7 +12,6 @@ header:
   overlay_image: /assets/articles/2019-05-14/header.svg
   teaser: /assets/articles/2019-05-14/teaser.jpg
 lang: pl
-layout: single
 tags: [programming, beginner, charity]
 title: Nauka programowania dla dzieci i młodzieży - CoderDojo Gliwice - 2019-05
 toc: true
@@ -172,6 +171,10 @@ Przy okazji jest to sposób na wyeliminowanie trudności, że Internet wolno dzi
   <a href='/assets/gallery/2019-05-14/33.jpg'>
     <img src='/assets/gallery/2019-05-14/thumbs/33.jpg' alt=''>
   </a>
+
+  <figcaption>
+    Zajęcia z programowania dla dzieci - <strong>CoderDojo Gliwice</strong> z dnia 13-04-2019
+  </figcaption>
 </figure>
 
 ## Tematy na CoderDojo Gliwice
@@ -338,12 +341,16 @@ Dużą frajdę sprawiało nakładanie na zamodelowane przedmioty tekstur w posta
 
 <figure class='half'>
   <a href='/assets/gallery/2019-05-14/model-3d-krzesla.jpg'>
-    <img src='/assets/gallery/2019-05-14/thumbs/model-3d-krzesla.jpg' alt='Trójwymiarowy model krzesła'>
+    <img src='/assets/gallery/2019-05-14/thumbs/model-3d-krzesla.jpg'
+         alt='Trójwymiarowy model krzesła'>
   </a>
   <a href='/assets/gallery/2019-05-14/model-3d-butelki.jpg'>
-    <img src='/assets/gallery/2019-05-14/thumbs/model-3d-butelki.jpg' alt='Trójwymiarowy model butelki z płynem'>
+    <img src='/assets/gallery/2019-05-14/thumbs/model-3d-butelki.jpg'
+         alt='Trójwymiarowy model butelki z płynem'>
   </a>
-  <figcaption>Ninja Damian podzielił się z nami swoimi wynikami.</figcaption>
+  <figcaption>
+    Ninja Damian podzielił się z nami swoimi wynikami.
+  </figcaption>
 </figure>
 
 {: .text-justify}
@@ -371,10 +378,13 @@ Tak naprawdę po prostu zainstaluj sobie to świetne narzędzie do modelowania i
 ### Enkapsulacja klas Pythona
 
 <figure>
-  <img alt='Jaja węża' class='align-center lazy'
-    data-src='/assets/articles/2019-05-14/jaja-weza.jpg'
+  <img alt='Jaja węża'
+       class='align-center lazy'
+       data-src='/assets/articles/2019-05-14/jaja-weza.jpg'
   >
-  <figcaption>Co było pierwsze Python czy jajko?</figcaption>
+  <figcaption>
+    Co było pierwsze <strong>Python</strong> czy jajko?
+  </figcaption>
 </figure>
 
 {: .text-justify}
