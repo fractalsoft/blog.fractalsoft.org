@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # https://sjp.pwn.pl/poradnia/haslo/;7072
 alphabet = %w(a ą b c ć d e ę f g h i j k l ł m n ń o ó p q r s ś t u v w x y z ź ż)
 number_of_letters = alphabet.count
@@ -23,8 +25,8 @@ puts <<EOF
 EOF
 
 9.downto(0) do |i|
-  puts "<line x1='0' y1='#{(9-i)*30+60}' x2='#{image_width}' y2='#{(9-i)*30+60}' stroke='grey' stroke-width='1' />"
-  puts "<text x='30' y='#{(9-i)*30+55}' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>#{i}%</text>"
+  puts "<line x1='0' y1='#{(9 - i) * 30 + 60}' x2='#{image_width}' y2='#{(9 - i) * 30 + 60}' stroke='grey' stroke-width='1' />"
+  puts "<text x='30' y='#{(9 - i) * 30 + 55}' width='20' style='font-size:16px;text-anchor:middle;font-family:arial'>#{i}%</text>"
 end
 
 puts '<g transform="translate(60 -20)">'
@@ -34,9 +36,9 @@ alphabet.each_with_index do |letter, index|
   x = column_width * index
   height = l.sub('%','').to_f * 100 * 0.3
 
-  puts "<rect x='#{x}' y='#{350-height}' width='#{column_width}' height='#{height}' fill='#{bar_color}' stroke='black' stroke-width='1' />"
+  puts "<rect x='#{x}' y='#{350 - height}' width='#{column_width}' height='#{height}' fill='#{bar_color}' stroke='black' stroke-width='1' />"
   puts "<text x='#{x+10}' y='370' width='#{column_width}' style='font-size:16px;text-anchor:middle;font-family:arial'>#{letter}</text>"
-  puts "<text x='#{x}' y='#{350-height-45}' width='#{column_width}' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 #{x} #{350-height-45}) translate(-4 -4)'>#{l}</text>"
+  puts "<text x='#{x}' y='#{350 - height - 45}' width='#{column_width}' height='10' style='font-size:16px;font-family:arial' transform='rotate(90 #{x} #{350 - height - 45}) translate(-4 -4)'>#{l}</text>"
 end
 
 puts '</g>'

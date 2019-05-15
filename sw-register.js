@@ -33,7 +33,6 @@ workbox.routing.registerRoute(
 
 // third party files
 workbox.routing.registerRoute(
-  /^https?:\/\/cdn.staticfile.org/,
+  /^https?:\/\/cdn.jsdelivr.net/,
   new workbox.strategies.StaleWhileRevalidate()
 );
-

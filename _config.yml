@@ -111,7 +111,7 @@ footer:
       url: https://instagram.com/fractalsoft
 
 head_scripts:
-  - /assets/js/pwa-1.0.min.js
+  # - /assets/js/pwa-1.0.min.js
 
 pwa:
   dest_js_directory: assets/js

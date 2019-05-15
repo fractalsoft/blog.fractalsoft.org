@@ -9,7 +9,7 @@ layout: collection
 permalink: /pl/coderdojo/
 redirect_from:
   - /coderdojo/
-title: CoderDojo
+title: "Nauka programowania dla dzieci i młodzieży - CoderDojo"
 ---
 
 ## CoderDojo Gliwice
