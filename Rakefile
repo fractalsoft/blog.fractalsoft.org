@@ -66,4 +66,14 @@ desc 'Notify various services about new content'
 task notify: %i[pingomatic sitemapgoogle sitemapbing pingpubsubhubbub] do
 end
 
+# rake html
+task :html do
+  require 'html-proofer'
+  sh 'htmlproofer --assume-extension ./_site'
+  # options = { assume_extension: true }
+  # HTMLProofer.check_directory('./_site', options).run
+rescue
+  puts '...'
+end
+
 task default: [:notify]
