@@ -67,6 +67,7 @@ task notify: %i[pingomatic sitemapgoogle sitemapbing pingpubsubhubbub] do
 end
 
 # rake html
+desc 'Test rendered HTML files'
 task :html do
   require 'html-proofer'
   sh 'htmlproofer --assume-extension ./_site'
