@@ -22,7 +22,7 @@ permalink: /:categories/:year/:month/:title/
 
 # Plugins settings
 plugins:
-  # - jekyll-compress-html
+  - jekyll-compress-html
   - jekyll-feed
   - jekyll-gist
   - jekyll-include-cache
