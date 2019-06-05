@@ -2,7 +2,7 @@
 author: torrocus
 category: coderdojo
 description: "Klasy do sudoku w Ruby, sieci neuronowe w Pythonie, shadery w Unity - zajęcia z programowania dla dzieci - CoderDojo Gliwice #8"
-excerpt: "**Sieci neuronowe** w Pythonie? Rozwiązywanie i generowanie sudoku przy użyciu **programowania objektowego** w Ruby? **Shadery** w Unity? To tematyka zajęć dla dzieci."
+excerpt: "**Sieci neuronowe** w Pythonie? Rozwiązywanie i generowanie sudoku przy użyciu **programowania obiektowego** w Ruby? **Shadery** w Unity? To tematyka zajęć dla dzieci."
 header:
   actions:
     - label: Programowanie gier w Unity
