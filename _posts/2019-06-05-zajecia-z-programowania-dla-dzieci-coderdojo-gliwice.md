@@ -99,6 +99,8 @@ Opis algorytmu pozwolimy sobie zostawić na osobny artykuł dot. generowania i r
 Opiszemy w nim krok po kroku wszystkie metody, które napisaliśmy w języku Ruby.
 Chcemy, abyście mogli wracać do tego tematu z własnymi pomysłami.
 
+{% include gallery/coderdojo-7.html %}
+
 
 ## Tematy na CoderDojo Gliwice
 

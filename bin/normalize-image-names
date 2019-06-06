@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+counter=0
+for source in IMG_*.JPG; do
+  let counter=counter+1
+  destination=$(printf "%02d.jpg" "$counter")
+  mv -- "$source" "$destination"
+done
