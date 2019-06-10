@@ -8,7 +8,7 @@ remote_theme: mmistakes/minimal-mistakes
 
 # Meta head
 description: Fractal Soft blogs about Ruby on Rails, Ember.js, Backbone.js, React.js and maybe Elixir. Technical blog will be full of web development and the developer community.
-locale: en
+locale: pl
 title: Web Development in Ruby on Rails, technical blog Fractal Soft
 name: Web Development in Ruby on Rails and JavaScript
 
