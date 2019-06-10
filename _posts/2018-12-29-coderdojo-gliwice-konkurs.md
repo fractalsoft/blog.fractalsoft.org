@@ -5,7 +5,7 @@ description: "Programowanie dla dzieci - CoderDojo Gliwice 2018-12 - Relacja z k
 excerpt: Na przedświątecznych zajęciach CoderDojo tyle się działo, że postanowiliśmy o tym napisać. Szczególnie wart uwagi był konkurs z nagrodami. Więcej w artykule.
 header:
   image: assets/articles/2018-12-29/header.jpg
-lang: pl
+locale: pl
 permalink: /coderdojo/2018/12/coderdojo-gliwice-konkurs/
 rel: coderdojo-gliwice-contest-2018
 tags: [programming, beginner, charity]

@@ -3,7 +3,7 @@ author: womanonrails
 category: coderdojo
 description: CoderDojo Gliwice #1
 excerpt: "W czasie deszczu dzieci się nudzą, ale nie na **CoderDojo w Gliwicach**. Listopadowe zajęcia zapowiadają się wyśmienicie. Zapraszamy do zapoznania się z tematami."
-lang: pl
+locale: pl
 permalink: /coderdojo/2018/11/coderdojo-gliwice/
 rel: coderdojo-gliwice-1
 tags: [programming, beginner, charity]
@@ -63,7 +63,7 @@ Wymagania:
 {: .text-justify}
 **Programista Grzegorz** przeprowadzi pierwszą lekcję **programowania w języku C#**.
 Będą to podstawy programowania.
-Rozpocznie się od wypisywania tekstu na konsoli, czyli tzw. [Hello World](/programming/2018/10/hello-world/) oraz deklarowania zmiennych.
+Rozpocznie się od wypisywania tekstu na konsoli, czyli tzw. [Hello World](/pl/programowanie/hello-world/) oraz deklarowania zmiennych.
 Kolejne kroki to odczytywanie danych z konsoli, podstawowe działania matematyczne oraz instrukcje warunkowe.
 
 Zapytacie _"Po co to wszystko?"_

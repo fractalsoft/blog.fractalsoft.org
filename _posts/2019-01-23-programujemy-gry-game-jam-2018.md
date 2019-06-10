@@ -5,7 +5,7 @@ description: "Zaprogramowaliśmy grę w Unity na Global Game Jam 2018. Gra powst
 excerpt: Global Game Jam to inicjatywa w której uczestniczymy od lat. W roku 2018 zbudowaliśmy wspólnie z grafikami grę Can't Sea w Unity w niecałe 48 godzin.
 header:
   og_image: /assets/articles/2019-01-23/cant-sea--og_image.png
-lang: pl
+locale: pl
 permalink: /news/2019/01/programujemy-gry-game-jam-2018/
 rel: gamedev-unity-ggj-cieszyn-2018
 tags: [gamedev]

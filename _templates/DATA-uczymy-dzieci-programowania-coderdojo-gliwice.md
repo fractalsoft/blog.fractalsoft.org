@@ -9,8 +9,8 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.5)
   overlay_image: /assets/articles/TODO_Data/header.svg
   teaser: /assets/articles/TODO_Data/teaser.jpg
-lang: pl
 layout: single
+locale: pl
 tags: [programming, beginner, charity]
 title: Nauka programowania dla dzieci i młodzieży - CoderDojo Gliwice - TODO_Rok-TODO_Miesiąc
 toc: true

@@ -5,8 +5,8 @@ header:
   overlay_color: '#4084c5'
   overlay_filter: rgba(0, 0, 0, 0.4)
   overlay_image: /assets/articles/2018-12-29/header.jpg
-lang: pl
 layout: collection
+locale: pl
 permalink: /pl/coderdojo/
 redirect_from:
   - /coderdojo/

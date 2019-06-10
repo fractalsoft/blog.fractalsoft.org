@@ -3,7 +3,7 @@ author: torrocus
 category: coderdojo
 description: "Prowadzimy warsztaty na SuperDojo, czyli angażowanie dzieci i młodzież w programowanie i technologie internetowe."
 excerpt: "Raz w roku wszystkie CoderDojo z Polski spotykają się na SuperDojo. Nas również nie mogło tam zabraknąć. Krótki post o naszych warsztatach dla dzieci."
-lang: pl
+locale: pl
 permalink: /coderdojo/2018/10/superdojo/
 rel: superdojo-2018
 tags: [programming, beginner, charity]

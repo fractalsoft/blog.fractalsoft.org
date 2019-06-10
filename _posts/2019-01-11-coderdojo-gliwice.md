@@ -3,7 +3,7 @@ author: womanonrails
 category: coderdojo
 description: "Programowanie dla dzieci - CoderDojo Gliwice #3 - Kryptografia oraz nauka programowania w Pythonie oraz w C#"
 excerpt: Po świątecznym wypoczynku startujemy z nowymi siłami. Będzie dużo zabawy. Zapoznajcie się z tematami zajęć.
-lang: pl
+locale: pl
 permalink: /coderdojo/2019/01/coderdojo-gliwice/
 rel: coderdojo-gliwice-3
 tags: [programming, beginner, charity]

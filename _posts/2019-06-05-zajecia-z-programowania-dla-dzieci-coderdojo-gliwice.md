@@ -11,8 +11,8 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.5)
   overlay_image: /assets/articles/2019-06-05/header.svg
   teaser: /assets/articles/2019-06-05/teaser.jpg
-lang: pl
 layout: single
+locale: pl
 permalink: /coderdojo/2019/06/zajecia-z-programowania-dla-dzieci-coderdojo-gliwice/
 rel: coderdojo-gliwice-8
 tags: [programming, beginner, charity]
