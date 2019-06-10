@@ -10,9 +10,9 @@ header:
   og_image: /assets/articles/2019-04-10/og_image.png
   overlay_filter: rgba(0, 0, 0, 0.5)
   overlay_image: /assets/articles/2019-04-10/header.svg
+locale-ref: coderdojo-gliwice-6
 locale: pl
 permalink: /coderdojo/2019/04/uczymy-dzieci-programowania-coderdojo-gliwice/
-rel: coderdojo-gliwice-6
 tags: [programming, beginner, charity]
 title: Nauka programowania dla dzieci i młodzieży - CoderDojo Gliwice - 2019-04
 toc: true

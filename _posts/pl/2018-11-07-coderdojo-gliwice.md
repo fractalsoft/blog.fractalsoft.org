@@ -3,9 +3,9 @@ author: womanonrails
 category: coderdojo
 description: CoderDojo Gliwice #1
 excerpt: "W czasie deszczu dzieci się nudzą, ale nie na **CoderDojo w Gliwicach**. Listopadowe zajęcia zapowiadają się wyśmienicie. Zapraszamy do zapoznania się z tematami."
+locale-ref: coderdojo-gliwice-1
 locale: pl
 permalink: /coderdojo/2018/11/coderdojo-gliwice/
-rel: coderdojo-gliwice-1
 tags: [programming, beginner, charity]
 title: Nauka programowania dla dzieci i młodzieży - CoderDojo Gliwice - 2018-11
 toc: true

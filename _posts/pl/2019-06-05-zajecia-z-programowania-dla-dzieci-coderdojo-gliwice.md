@@ -12,9 +12,9 @@ header:
   overlay_image: /assets/articles/2019-06-05/header.svg
   teaser: /assets/articles/2019-06-05/teaser.jpg
 layout: single
+locale-ref: coderdojo-gliwice-8
 locale: pl
 permalink: /coderdojo/2019/06/zajecia-z-programowania-dla-dzieci-coderdojo-gliwice/
-rel: coderdojo-gliwice-8
 tags: [programming, beginner, charity]
 title: Zajęcia z programowania dla dzieci - CoderDojo Gliwice - 2019-06
 toc: true

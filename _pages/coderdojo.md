@@ -6,11 +6,10 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.4)
   overlay_image: /assets/articles/2018-12-29/header.jpg
 layout: collection
+locale-ref: coderdojo-gliwice
 locale: pl
 permalink: /pl/coderdojo/
-redirect_from:
-  - /coderdojo/
-rel: coderdojo-gliwice
+redirect_from: /coderdojo/
 title: "Nauka programowania dla dzieci i młodzieży - CoderDojo"
 ---
 

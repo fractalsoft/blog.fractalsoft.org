@@ -3,10 +3,10 @@ author: torrocus
 category: programming
 description: Witamy się ze światem, czyli nasz pierwszy post na blogu firmowym.
 excerpt: Każdy programista kiedyś zaczynał i pisał najprostszy program wypisujący słowa **"Hello world"**. Specjalnie dla Was, krótki eksperyment pamięciowy.
+locale-ref: hello-world
 locale: pl
 permalink: /pl/programowanie/hello-world/
 redirect_from: /programming/2018/10/hello-world/
-rel: hello-world
 tags: [programming, beginner]
 title: Hello world w programowaniu
 ---

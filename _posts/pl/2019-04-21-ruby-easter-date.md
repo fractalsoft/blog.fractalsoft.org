@@ -11,6 +11,7 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.5)
   overlay_image: assets/articles/2019-04-21/header.jpg
   teaser: /assets/articles/2019-04-21/teaser.jpg
+locale-ref: ruby-easter-date
 locale: pl
 permalink: /news/2019/04/ruby-easter-date/
 tags: [story]
