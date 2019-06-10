@@ -4,6 +4,8 @@ category: coderdojo
 description: "Programowanie dla dzieci - CoderDojo Gliwice #2 - Nauka HTML, C#, Python lub Ruby"
 excerpt: Święta tuż-tuż, a my mamy dla Was niespodziewankę! Na grudniowych zajęciach CoderDojo w Gliwicach będzie konkurs z nagrodami. Zapoznajcie się z tematami.
 lang: pl
+permalink: /coderdojo/2018/12/coderdojo-gliwice/
+rel: coderdojo-gliwice-2
 tags: [programming, beginner, charity]
 title: Nauka programowania dla dzieci i młodzieży - CoderDojo Gliwice - 2018-12
 toc: true

@@ -6,6 +6,8 @@ excerpt: Global Game Jam to inicjatywa w której uczestniczymy od lat. W roku 20
 header:
   og_image: /assets/articles/2019-01-23/cant-sea--og_image.png
 lang: pl
+permalink: /news/2019/01/programujemy-gry-game-jam-2018/
+rel: gamedev-unity-ggj-cieszyn-2018
 tags: [gamedev]
 title: Programujemy gry w Unity - Can't Sea
 ---

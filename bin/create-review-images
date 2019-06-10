@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+mkdir -p review
+cp IMG_*.JPG review/
+mogrify -resize 1024x768 -strip review/*.JPG

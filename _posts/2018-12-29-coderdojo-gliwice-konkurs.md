@@ -6,6 +6,8 @@ excerpt: Na przedświątecznych zajęciach CoderDojo tyle się działo, że post
 header:
   image: assets/articles/2018-12-29/header.jpg
 lang: pl
+permalink: /coderdojo/2018/12/coderdojo-gliwice-konkurs/
+rel: coderdojo-gliwice-contest-2018
 tags: [programming, beginner, charity]
 title: CoderDojo Gliwice - Konkurs - 2018-12
 ---

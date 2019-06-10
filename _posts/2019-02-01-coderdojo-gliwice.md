@@ -12,6 +12,8 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.5)
   overlay_image: assets/articles/2019-02-01/header.jpg
 lang: pl
+permalink: /coderdojo/2019/02/coderdojo-gliwice/
+rel: coderdojo-gliwice-4
 tags: [programming, beginner, charity]
 title: Nauka programowania dla dzieci i młodzieży - CoderDojo Gliwice - 2019-02
 toc: true

@@ -8,7 +8,7 @@ remote_theme: mmistakes/minimal-mistakes
 
 # Meta head
 description: Fractal Soft blogs about Ruby on Rails, Ember.js, Backbone.js, React.js and maybe Elixir. Technical blog will be full of web development and the developer community.
-locale: pl
+locale: &locale pl
 title: Web Development in Ruby on Rails, technical blog Fractal Soft
 name: Web Development in Ruby on Rails and JavaScript
 
@@ -26,6 +26,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-include-cache
+  # - jekyll-polyglot
   - jekyll-pwa-workbox
   - jekyll-redirect-from
   - jekyll-sitemap
@@ -132,3 +133,8 @@ twitter:
   username: fractal_soft
 
 chrome-tab-theme-color: '#1c26c3'
+
+# Jekyll Internationalization
+default_lang: *locale
+exclude_from_localization: ['assets', 'bin']
+languages: ['en', 'pl']

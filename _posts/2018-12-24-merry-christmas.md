@@ -6,6 +6,8 @@ excerpt: Święta Bożego Narodzenia skłaniają do refleksji. Chcemy podzielić
 header:
   image: /assets/articles/2018-12-24/header.jpg
 lang: pl
+permalink: /news/2018/12/merry-christmas/
+rel: merry-christmas-2018
 tags: [professional, story]
 title: Merry Christmas w rytmie Ruby
 ---

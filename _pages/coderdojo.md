@@ -5,10 +5,12 @@ header:
   overlay_color: '#4084c5'
   overlay_filter: rgba(0, 0, 0, 0.4)
   overlay_image: /assets/articles/2018-12-29/header.jpg
+lang: pl
 layout: collection
 permalink: /pl/coderdojo/
 redirect_from:
   - /coderdojo/
+rel: coderdojo-gliwice
 title: "Nauka programowania dla dzieci i młodzieży - CoderDojo"
 ---
 
@@ -28,7 +30,9 @@ Znajdziecie w nich tematy wraz z opisami, daty i miejsca zajęć.
 {% for post in site.categories.coderdojo %}
 {% if post.url %}
   <div class='list__item'>
-    <h2><a href='{{ post.url }}'>{{ post.title }}</a></h2>
+    <a href='{{ post.url }}'>
+      <h2>{{ post.title }}</h2>
+    </a>
     {{ post.excerpt | markdownify | replace: '<p>', "<p class='text-justify'>" }}
   </div>
 {% endif %}

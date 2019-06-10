@@ -1,8 +1,11 @@
 ---
 author: torrocus
 description: FAQ CoderDojo, czyli Często Zadawane Pytania o CoderDojo Gliwice
+lang: pl
+permalink: /pl/coderdojo/faq/
 redirect_from:
   - /coderdojo/faq/
+rel: coderdojo-faq
 title: CoderDojo FAQ
 ---
 
