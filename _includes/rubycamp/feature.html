@@ -1,0 +1,22 @@
+<div class='feature__item'>
+  <div class='archive__item'>
+
+    <div class='archive__item-teaser'>
+      <img src='{{ include.image }}' alt='{{ include.alt }}' />
+    </div>
+    <div class='archive__item-body'>
+      <h2 class='archive__item-title'>
+        {{ include.headline | markdownify | remove: '<p>' | remove: '</p>' }}
+      </h2>
+
+      <div class='archive__item-excerpt text-justify'>
+        {{ include.body | markdownify }}
+      </div>
+      {% unless include.url == '' or include.url == '#' %}
+      <p>
+        <a href='{{ include.url }}' class='btn btn--light-outline btn--small'>Lubisz to? Zgłoś się</a>
+      </p>
+      {% endunless %}
+    </div>
+  </div>
+</div>

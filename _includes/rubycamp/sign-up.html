@@ -1,0 +1,136 @@
+<style type='text/css'>
+#sign-up form {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-areas:
+    'left_column right_column'
+    'main main';
+}
+
+@media (max-width: 576px) {
+  #sign-up form {
+    grid-gap: 0;
+    grid-template-areas:
+      'left_column'
+      'right_column'
+      'main';
+  }
+}
+
+#sign-up .left {
+  grid-area: left_column;
+}
+
+#sign-up .right {
+  grid-area: right_column;
+}
+
+#sign-up .main {
+  grid-area: main;
+}
+
+#sign-up .item {
+  display: block;
+}
+
+#sign-up input[type=checkbox],
+#sign-up input[type=radio],
+#sign-up label {
+  display: inline;
+}
+</style>
+
+<div id='sign-up'>
+  <h2 class='text-center'>Rejestracja na RubyCamp</h2>
+  <form action='{{ rubycamp_form_action }}' class='notice--warning' method='post'>
+    <div class='left'>
+      <fieldset>
+        <legend>Imię i nazwisko ucznia 🎓</legend>
+        <input type='text' name='student_full_name' required='required' placeholder='Przedstaw nam ucznia'>
+      </fieldset>
+
+     <fieldset>
+        <legend>Podaj rok urodzenia</legend>
+        <input type='number' name='year' min='1995' max='2019' required='required' placeholder='Na podstawie roku policzymy wiek dziecka'>
+      </fieldset>
+
+      <fieldset>
+        <legend>Termin półkolonii 📅</legend>
+        <select name='term' required='required'>
+          <option value='' disabled selected hidden>Proszę wybrać termin</option>
+          <option value='25-28.06.2019'>Termin I - 25.06.2019 - 28.06.2019</option>
+          <option value='02-05.07.2019'>Termin II - 02.07.2019 - 05.07.2019</option>
+          <option value='09-12.07.2019'>Termin III - 09.07.2019 - 12.07.2019</option>
+        </select>
+      </fieldset>
+
+      <fieldset>
+        <legend>Czy dziecko posiada własny komputer przenośny / laptop? 💻</legend>
+        <div class='item'>
+          <label><input type='radio' name='computer' value='yes' required='required'> Tak</label>
+          <span> | </span>
+          <label><input type='radio' name='computer' value='no'> Nie</label>
+        </div>
+      </fieldset>
+    </div>
+
+    <div class='right'>
+      <fieldset>
+        <legend>Imię i nazwisko rodzica lub opiekuna 👪</legend>
+        <input type='text' name='parent_full_name' required='required' placeholder='Przedstaw nam rodzica'>
+      </fieldset>
+
+      <fieldset>
+        <legend>Numer telefonu ☎️</legend>
+        <input type='tel' name='phone' required='required' placeholder='Telefon kontaktowy'>
+      </fieldset>
+
+      <fieldset>
+        <legend>Adres e-mail ✉️</legend>
+        <input type='email' name='email' required='required' placeholder='Podaj swój adres email'>
+      </fieldset>
+
+      <fieldset>
+        <legend>Czy interesują Cię płatne zajęcia?</legend>
+        <div class='item'>
+          <label><input type='radio' name='paid_classes' value='yes' required='required'> Tak</label>
+          <span> | </span>
+          <label><input type='radio' name='paid_classes' value='no'> Nie</label>
+        </div>
+      </fieldset>
+    </div>
+
+    <div class='main'>
+      <fieldset>
+        <legend>Uwagi / Pytania ❓</legend>
+        <textarea name='comments' placeholder='Wpisz tutaj inne istotne informacje, np. zainteresowania, umiejętności...' rows='5'></textarea>
+      </fieldset>
+
+      <fieldset>
+        <legend>Udziel nam zgody: 🤝</legend>
+
+        <div class='item'>
+          <input type='checkbox' id='participation' name='participation' value='yes' required='required'>
+          <label for='participation'>
+            Zgadzam się na przetwarzanie moich danych na potrzeby RubyCamp
+          </label>
+        </div>
+
+        <div class='item'>
+          <input type='checkbox' id='newsletter' name='newsletter' value='yes'>
+          <label for='newsletter'>
+            Chcę otrzymywać newsletter
+          </label>
+        </div>
+      </fieldset>
+
+      <input type='hidden' name='_next' value='{{ site.url }}{% link _pages/pl/rubycamp/thanks.md %}'/>
+
+      <div class='text-center'>
+        <button type='submit' class='btn btn--warning btn--large'>
+          Wyślij zgłoszenie
+        </button>
+      </div>
+    </div>
+  </form>
+</div>

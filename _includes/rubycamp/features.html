@@ -1,0 +1,48 @@
+<style type='text/css'>
+.features h2 {
+  border-bottom-width: 0;
+}
+</style>
+
+<article class='splash' itemscope itemtype='https://schema.org/CreativeWork'>
+  <!-- <meta itemprop='description' content=''> -->
+  <section class='page__content features' itemprop='text'>
+    <h2 class='text-center'>
+      Na RubyCamp każdy znajdzie coś dla siebie!
+    </h2>
+    <div class='feature__wrapper'>
+    {%
+      include rubycamp/feature.html
+              alt='Rysowanie schematu blokowego'
+              body="Znajomość algorytmiki jest **podstawową umiejętnością w programowaniu**.
+                    Algorymy pozwalają zrozumieć działanie komputera.
+                    Myśląc algorytmicznie rozkładamy problem na proste kroki."
+              headline='Podstawy algorytmów'
+              image='/assets/rubycamp/images/features/schemat-blokowy-algorytmu.jpg'
+              url='#sign-up'
+    %}
+
+    {%
+      include rubycamp/feature.html
+              alt='Rubin jako logo języka Ruby'
+              body="Język programowania Ruby jest prosty, czytelny i elastyczny.
+                    Programowanie w Ruby daje nie tylko satysfakcję,
+                    ale pozwala lepiej **zrozumieć paradygmanty programowania obiektowego**."
+              headline="Programowanie w **Ruby**"
+              image='/assets/rubycamp/images/features/jezyk-programowania-ruby.svg'
+              url='#sign-up'
+    %}
+
+    {%
+      include rubycamp/feature.html
+              alt='Podstawowe działania matematyczne'
+              body="Zamiłowanie do matematyki często jest też zapowiedzią pasji do programowania.
+                    Rozwiązując problemy matematyczne przy użyciu Ruby
+                    można **nauczyć się zarówno matematyki jak i programowania**."
+              headline='Problemy matematyczne'
+              image='/assets/rubycamp/images/features/obliczenia-matematyczne.jpg'
+              url='#sign-up'
+    %}
+    </div>
+  </section>
+</article>

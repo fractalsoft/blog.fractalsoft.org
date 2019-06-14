@@ -1,0 +1,68 @@
+<style type='text/css'>
+.place {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-areas:
+    'headline headline'
+    'image main'
+    'map map';
+}
+
+@media (max-width: 576px) {
+  .place {
+    grid-gap: 0;
+    grid-template-areas:
+      'headline'
+      'image'
+      'main'
+      'map';
+  }
+}
+
+.place .headline {
+  grid-area: headline;
+}
+
+.place .image {
+  grid-area: image;
+}
+
+.place .main {
+  grid-area: main;
+}
+
+.place .map {
+  grid-area: map;
+}
+</style>
+
+<div class='place'>
+  <div class='headline'>
+    <h2 class='text-center'>Miejsce półkolonii RubyCamp</h2>
+  </div>
+  <div class='image'>
+    <img src='/assets/rubycamp/images/gcop-room.jpg' alt='Sala szkoleniowa'>
+  </div>
+  <div class='main'>
+    <p class='text-justify'>
+      Półkolonie odbywać się będą w centrum Gliwic, na ulicy Zwycięstwa, niedaleko Rynku.
+      Na zdjęciu obok nasza sala zajęć,
+      a z okien widać charakterystyczne budynki stojące przy ul. Zwycięstwa.
+      Poniżej dokładna mapka z zaznaczoną pineską.
+      📌
+
+      <address itemscope itemtype="http://schema.org/Organization">
+      <span itemprop='name'>Gliwickie Centrum Organizacji Pozarządowych</span>
+      <div itemprop='address' itemscope itemtype='http://schema.org/PostalAddress'>
+        <span itemprop='streetAddress'>ul. Zwycięstwa 1/1</span><br>
+        <span itemprop='postalCode'>44-100</span>
+        <span itemprop='addressLocality'>Gliwice</span>
+      </div>
+      </address>
+    </p>
+  </div>
+
+  <div class='map'>
+    <iframe width='100%' height='350' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' src="https://www.openstreetmap.org/export/embed.html?bbox=18.66276,50.29514,18.67038,50.29343&amp;layer=mapnik&amp;marker=50.29433,18.66664" style='border: black 1px solid' title='Mapa z zaznaczonym budynkiem GCOP Centrum Wolontariatu'></iframe>
+  </div>
+</div>

@@ -1,0 +1,97 @@
+/*
+/assets/rubycamp/images/intro/nauka-programowania-w-parach.jpg
+/assets/rubycamp/images/intro/nastolatka-buduje-aplikacje.jpg
+/assets/rubycamp/images/intro/chlopiec-pracuje-na-laptopie.jpg
+/assets/rubycamp/images/intro/dziewczynka-uczy-sie-programowac.jpg
+/assets/rubycamp/images/intro/nauka-programowania-w-parach.jpg
+*/
+
+.slider {
+  background-attachment: scroll;
+  background-image: url('/assets/rubycamp/images/intro/nauka-programowania-w-parach.jpg');
+  background-position: center center;
+  background-repeat: none;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+  text-shadow: 2px 2px 8px #000;
+}
+
+.slider-running {
+  animation-delay: 4s;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-name: header-slideshow;
+  transform: translateZ(0);
+}
+
+.slider-running .preloader {
+  animation-name: header-slideshow;
+  animation-duration: 4s;
+  height: 1px;
+  width: 1px;
+}
+
+@keyframes header-slideshow {
+  0% {
+    background-image: url('/assets/rubycamp/images/intro/nauka-programowania-w-parach.jpg');
+  }
+  25% {
+    background-image: url('/assets/rubycamp/images/intro/nastolatka-buduje-aplikacje.jpg');
+  }
+  50% {
+    background-image: url('/assets/rubycamp/images/intro/chlopiec-pracuje-na-laptopie.jpg');
+  }
+  75% {
+    background-image: url('/assets/rubycamp/images/intro/dziewczynka-uczy-sie-programowac.jpg');
+  }
+  100% {
+    background-image: url('/assets/rubycamp/images/intro/nauka-programowania-w-parach.jpg');
+  }
+}
+
+header {
+  background-attachment: scroll;
+  background-position: center center;
+  background-repeat: none;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+}
+
+header .intro-text {
+  font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding-bottom: 50px;
+  padding-top: 100px;
+  margin-bottom: 25px;
+}
+
+header .intro-text .intro-lead-in {
+  font-size: 22px;
+  font-style: italic;
+  line-height: 22px;
+}
+
+header .intro-text .intro-heading {
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 50px;
+}
+
+@media (min-width: 768px) {
+  header .intro-text {
+    padding-bottom: 200px;
+    padding-top: 300px;
+  }
+
+  header .intro-text .intro-lead-in {
+    font-size: 40px;
+    line-height: 40px;
+  }
+
+  header .intro-text .intro-heading {
+    font-size: 75px;
+    line-height: 75px;
+    margin-bottom: 50px;
+  }
+}

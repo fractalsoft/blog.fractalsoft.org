@@ -137,3 +137,5 @@ chrome-tab-theme-color: '#1c26c3'
 # Jekyll Internationalization
 exclude_from_localization: ['assets', 'bin']
 locales: ['en', 'pl']
+
+rubycamp_form_action: 'https://formspree.io/alek+rubycamp@coderdojo.org.pl'

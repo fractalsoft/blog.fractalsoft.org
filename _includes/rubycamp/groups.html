@@ -1,0 +1,133 @@
+<style type='text/css'>
+.groups {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-areas: 'image main';
+}
+
+.groups .left {
+  grid-area: image;
+}
+
+.groups .right {
+  grid-area: main;
+}
+
+.groups h2 {
+  margin-top: 0;
+}
+
+.groups .list {
+  list-style: none;
+  margin: 0;
+}
+
+.groups .list li {
+  align-items: center;
+  border-bottom: #222 1px solid;
+  display: flex;
+}
+
+.groups .list li:last-child {
+  border-bottom: none;
+}
+
+.groups .single-group {
+  display: inline-block;
+  max-width: 576px;
+}
+
+.groups .sign-up {
+  display: inline-block;
+  height: 100%;
+  margin-left: 16px;
+  text-align: center;
+  width: 120px;
+}
+
+.groups .title {
+  margin: 16px 0 16px 0;
+}
+
+.groups .description {
+  margin: 0 0 10px 0;
+}
+
+@media (max-width: 576px) {
+  .groups {
+    grid-gap: 0;
+    grid-template-areas:
+      'image'
+      'main';
+  }
+
+  .groups .list {
+    padding-left: 10px;
+  }
+
+  .groups .right {
+    width: 100%;
+  }
+
+  .groups h2 {
+    margin-top: 40px;
+  }
+
+  .groups .list li {
+    display: block;
+  }
+
+  .groups .sign-up {
+    margin-left: 0;
+    width: 100%;
+  }
+}
+</style>
+
+<div class='groups' id='informacje-o-polkoloniach'>
+  <div class='left'>
+    <img src='/assets/rubycamp/images/radosne-dzieci.jpg' alt='Radosne dzieci przy komputerze'>
+  </div>
+  <div class='right'>
+    <h2 class='text-center'>Terminy półkolonii RubyCamp</h2>
+    <ul class='list'>
+      <li>
+        <div class='single-group'>
+          <p class='title'><strong>Termin I</strong> - 25.06.2019 - 28.06.2019</p>
+          <p class='description text-justify'>
+            Zaraz po zakończeniu roku szkolnego nastolatkowie mają najwięcej wolnego czasu.
+            Proponujemy spożytkować ten czas na półkoloniach z programowania.
+          </p>
+        </div>
+        <div class='sign-up'>
+          <a href='#sign-up' class='btn btn--success'>Zapisz się</a>
+        </div>
+      </li>
+      <li>
+        <div class='single-group'>
+          <p class='title'><strong>Termin II</strong> - 02.07.2019 - 05.07.2019</p>
+          <p class='description text-justify'>
+            Wakacyjne wyjazdy zazwyczaj zaczynają się trochę później.
+            Dlatego warto już dziś zarezerwować miejsce na programistycznych półkoloniach.
+          </p>
+        </div>
+        <div class='sign-up'>
+          <a href='#sign-up' class='btn btn--success'>Zapisz się</a>
+        </div>
+      </li>
+
+      <li>
+        <div class='single-group'>
+          <p class='title'><strong>Termin III</strong> - 09.07.2019 - 12.07.2019</p>
+          <p class='description text-justify'>
+            Ostatnia szansa w najbliższym czasie na naukę programowania w Ruby.
+            Nie przegap okazji darmowych zajęć.
+          </p>
+        </div>
+        <div class='sign-up'>
+          <a href='#sign-up' class='btn btn--success'>Zapisz się</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
