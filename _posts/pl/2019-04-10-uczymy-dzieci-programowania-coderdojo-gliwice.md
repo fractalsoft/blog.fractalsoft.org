@@ -5,6 +5,8 @@ description: "Nie ma leniuchowania - ucz się programowania! Nauka Ruby i Python
 excerpt: "XML w **Pythonie**, modelowanie 3D w **Blenderze**, a może generator sudoku w **Ruby**? **Uczymy dzieci i młodzież programowania**, ale przede wszystkim uczymy myślenia."
 header:
   actions:
+    - label: Letnie zajęcia w Gliwicach
+      url: /pl/szkolenia/rubycamp/
     - label: Programowanie gier w Unity
       url: /news/2019/01/programujemy-gry-game-jam-2018/
   og_image: /assets/articles/2019-04-10/og_image.png

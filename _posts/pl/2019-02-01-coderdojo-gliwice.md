@@ -5,6 +5,8 @@ description: "Tworzenie gier w C#, łamanie szyfrów (kryptografia), programowan
 excerpt: "**Programowanie w Pythonie**. Szyfrowanie i deszyfrowanie wiadomości. **Programowanie gier** w języku C#. Oto kolejne zajęcia z programowania dla dzieci i młodzieży."
 header:
   actions:
+    - label: Programistyczne półkolonie w Gliwicach
+      url: /pl/szkolenia/rubycamp/
     - label: Programowanie gier w Unity
       url: /news/2019/01/programujemy-gry-game-jam-2018/
   caption: "Źródło: <a href='https://www.flickr.com/photos/groume/6326938044' rel='nofollow noopener noreferrer' target='_blank'>Flickr</a>"

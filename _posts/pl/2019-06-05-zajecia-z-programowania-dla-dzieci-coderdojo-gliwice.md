@@ -33,7 +33,7 @@ Dowód?
 Otóż tak jak Wy mamy swoich rodziców.
 I dla nich jesteśmy dziećmi, chociaż dorosłymi.
 Przypomina to trochę **dziedziczenie klas w programowaniu obiektowym**.
-Zainteresowanych zapraszamy na **wakacyjny kurs Ruby od postaw**.
+Zainteresowanych zapraszamy na [**wakacyjny kurs Ruby od postaw**](/pl/szkolenia/rubycamp/).
 Będziemy jeszcze informować o szczegółach.
 Dlatego śledźcie naszego bloga, aby być na bieżąco i nie przegapić zapisów.
 📅

@@ -5,6 +5,8 @@ description: "Programowanie w Ruby, Pythonie i C#, kryptoanaliza i tworzenie gie
 excerpt: "Nauka kryptoanalizy w **języku Ruby** albo **programowanie gier w Unity**? Nasze zajęcia **uczą dzieci programowania** oraz myślenia. Tym właśnie jest CoderDojo Gliwice."
 header:
   actions:
+    - label: Programistyczne półkolonie w Gliwicach
+      url: /pl/szkolenia/rubycamp/
     - label: Programowanie gier w Unity
       url: /news/2019/01/programujemy-gry-game-jam-2018/
   og_image: /assets/articles/2019-03-01/og_image.png
