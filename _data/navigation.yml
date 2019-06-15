@@ -1,4 +1,6 @@
 main:
+  - title: RubyCamp 2019
+    url: /pl/szkolenia/rubycamp/
   - title: CoderDojo
     url: /pl/coderdojo/
   - title: Software Development
