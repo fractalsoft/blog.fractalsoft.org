@@ -38,7 +38,7 @@ Jesteśmy z siebie dumni!
 
 ### **Od zera do YouTubera** - składanie filmów w praktyce
 
-![Okno About w OpenShot](/assets/images/openshot/window-of-about.png){: .align-center}
+![Okno About w OpenShot]({{site.url}}/assets/images/openshot/window-of-about.png){: .align-center}
 
 Na warsztatach uczestnicy poznali tajniki składania filmów.
 + Jak łączyć dźwięk z obrazem?
@@ -57,7 +57,7 @@ Warsztaty prowadziła nasza [programistka](https://womanonrails.com/pl/) Agniesz
 
 ### **Gry bez programowania** - Unity3D
 
-![Splashscreen z Unity](/assets/images/unity/logo-black.png){: .align-center}
+![Splashscreen z Unity]({{site.url}}/assets/images/unity/logo-black.png){: .align-center}
 
 {: .text-justify}
 Tworzenie gier bez programowania?
@@ -83,7 +83,7 @@ W zależności od upodobań można było to robić pracując w 2D lub 3D.
 
 ### **Zostań sławnym DJ-em** - od muzyki do programowania
 
-![Splashscreen z Sonic Pi](/assets/images/sonic-pi/splashscreen.png){: .align-center}
+![Splashscreen z Sonic Pi]({{site.url}}/assets/images/sonic-pi/splashscreen.png){: .align-center}
 
 {: .text-justify}
 Wspaniałe narzędzie jakim jest

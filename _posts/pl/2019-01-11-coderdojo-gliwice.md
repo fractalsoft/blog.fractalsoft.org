@@ -22,16 +22,16 @@ Nie czekajcie i dołączcie do **CoderDojo Gliwice**!
 ## Poprzednie zajęcia
 
 {: .text-justify}
-Na ostatnich zajęciach zorganizowaliśmy dla Was [świąteczny konkurs CoderDojo](/coderdojo/2018/12/coderdojo-gliwice/#konkurs).
+Na ostatnich zajęciach zorganizowaliśmy dla Was [świąteczny konkurs CoderDojo]({{site.url}}/coderdojo/2018/12/coderdojo-gliwice/#konkurs).
 Bardzo dziękujemy Wam za udział oraz fantastyczne pomysły.
-Ciekawskich zapraszamy do przeczytania [relacji z konkursu](/coderdojo/2018/12/coderdojo-gliwice-konkurs/).
+Ciekawskich zapraszamy do przeczytania [relacji z konkursu]({{site.url}}/coderdojo/2018/12/coderdojo-gliwice-konkurs/).
 A teraz do rzeczy!
 
 ## Tematy na CoderDojo Gliwice
 
 ### Szyfry od podstaw - zakoduj się z nami
 
-![Fragment mechanizmu zamka szyfrowego](/assets/articles/2019-01-11/code.jpg){: .align-center}
+![Fragment mechanizmu zamka szyfrowego]({{site.url}}/assets/articles/2019-01-11/code.jpg){: .align-center}
 
 {: .text-justify}
 Agnieszka i Alek wprowadzą Was w świat **szyfrów i kodowania informacji**.
@@ -81,7 +81,7 @@ Dowiecie się, że lista to nie tylko lista zakupów, ale że możecie na niej p
 A kto jeszcze nigdy nie używał słowników to będzie miał okazję zbudować własne.
 
 {: .text-justify}
-Ponadto [programowanie Arduino](/coderdojo/2018/11/coderdojo-gliwice/#programowanie-w-c-na-arduino) wciąż jest w modzie i temat ten jest cały czas kontynuowany.
+Ponadto [programowanie Arduino]({{site.url}}/coderdojo/2018/11/coderdojo-gliwice/#programowanie-w-c-na-arduino) wciąż jest w modzie i temat ten jest cały czas kontynuowany.
 Polecamy go szczególnie dla młodszych ninja, którzy chcą poeksperymentować z elektroniką.
 
 Wymagania:

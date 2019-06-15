@@ -33,7 +33,7 @@ Dowód?
 Otóż tak jak Wy mamy swoich rodziców.
 I dla nich jesteśmy dziećmi, chociaż dorosłymi.
 Przypomina to trochę **dziedziczenie klas w programowaniu obiektowym**.
-Zainteresowanych zapraszamy na [**wakacyjny kurs Ruby od postaw**](/pl/szkolenia/rubycamp/).
+Zainteresowanych zapraszamy na [**wakacyjny kurs Ruby od postaw**]({{site.url}}/pl/szkolenia/rubycamp/).
 Będziemy jeszcze informować o szczegółach.
 Dlatego śledźcie naszego bloga, aby być na bieżąco i nie przegapić zapisów.
 📅
@@ -57,7 +57,7 @@ Pozostawimy to bez komentarza, ale muzykę robi fajną.
 Poniżej macie panel sterowania.
 
 <audio autoplay controls loop>
-  <source src='/assets/gallery/2019-06-05/muzyka-w-fl-studio/teflux.mp4' type='audio/mpeg'>
+  <source src='{{site.url}}/assets/gallery/2019-06-05/muzyka-w-fl-studio/teflux.mp4' type='audio/mpeg'>
 </audio>
 
 {: .text-justify}
@@ -86,11 +86,11 @@ Poniżej macie dwie krótkie animacje powstałe podczas tych zajęć.
 Jedna zamodelowana przez mentora Grzegorza, a druga przez Damiana - ninję.
 
 <video width='640' height='480' controls controlsList='nodownload'>
-  <source src='/assets/gallery/2019-06-05/animacje-w-blenderze/postac-macha-lewa-reka.webm' type='video/webm'>
+  <source src='{{site.url}}/assets/gallery/2019-06-05/animacje-w-blenderze/postac-macha-lewa-reka.webm' type='video/webm'>
 </video>
 
 <video width='640' height='480' controls controlsList='nodownload'>
-  <source src='/assets/gallery/2019-06-05/animacje-w-blenderze/postac-macha-prawa-reka.webm' type='video/webm'>
+  <source src='{{site.url}}/assets/gallery/2019-06-05/animacje-w-blenderze/postac-macha-prawa-reka.webm' type='video/webm'>
 </video>
 
 {: .text-justify}
@@ -175,7 +175,6 @@ Wystarczy, że było się na jednych zajęciach.
 Teraz będziemy refaktoryzować i optymalizować nasze rozwiązania.
 + {: .text-justify} Interpreter języka {% include common/foreign-link.html name='Ruby' url='https://www.ruby-lang.org/en/documentation/installation/' %}, ponieważ kod źródłowy w całym cyklu zajęć z sudoku został napisany w tym języku programowania.
 💎
-
 
 
 ----

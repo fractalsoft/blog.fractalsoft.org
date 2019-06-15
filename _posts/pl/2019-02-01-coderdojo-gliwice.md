@@ -47,7 +47,7 @@ Krótkie przypomnienie tematyki ostatnich zajęć CoderDojo Gliwice oraz zdjęci
 + {: .text-justify} programowanie gry w C# - gra w kółko i krzyżyk
 
 {: .text-justify}
-Jakby co wszystko jest w artykule [CoderDojo Gliwice - 2019-01](/coderdojo/2019/01/coderdojo-gliwice/).
+Jakby co wszystko jest w artykule [CoderDojo Gliwice - 2019-01]({{site.url}}/coderdojo/2019/01/coderdojo-gliwice/).
 
 ### Zdjęcia z CoderDojo Gliwice #3
 <figure class='third'>

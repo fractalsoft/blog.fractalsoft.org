@@ -17,7 +17,7 @@ Zajęcia **CoderDojo Gliwice** zbliżają się wielkimi krokami.
 Przygotowaliśmy dla Was mnóstwo wiedzy i już nie możemy się doczekać, kiedy się spotkamy.
 
 {: .text-justify}
-Zainspirowani [SuperDojo](/coderdojo/2018/10/superdojo/) wprowadzamy nową formułę zajęć.
+Zainspirowani [SuperDojo]({{site.url}}/coderdojo/2018/10/superdojo/) wprowadzamy nową formułę zajęć.
 Chcemy, aby każdy znalazł coś dla siebie i mógł wykorzystać zajęcia {% include common/coderdojo--colorful-text.html %} jak najlepiej.
 Dlatego postanowiliśmy informować o naszych planach.
 Możemy zapewnić, że będzie dużo programowania, tworzenia gier, budowania robotów oraz wiele kreatywnych zajęć, ale zero nudy!
@@ -29,7 +29,7 @@ Prosimy o wybranie jednego z nich.
 
 ### Moja przygoda z RPG Maker
 
-![Logo RPG Maker VX Ace](/assets/images/rpgmaker/rpg-maker-vx-ace.png){: .align-center}
+![Logo RPG Maker VX Ace]({{site.url}}/assets/images/rpgmaker/rpg-maker-vx-ace.png){: .align-center}
 
 {: .text-justify}
 _Jak stworzyć własną grę typu RPG?_
@@ -63,7 +63,7 @@ Wymagania:
 {: .text-justify}
 **Programista Grzegorz** przeprowadzi pierwszą lekcję **programowania w języku C#**.
 Będą to podstawy programowania.
-Rozpocznie się od wypisywania tekstu na konsoli, czyli tzw. [Hello World](/pl/programowanie/hello-world/) oraz deklarowania zmiennych.
+Rozpocznie się od wypisywania tekstu na konsoli, czyli tzw. [Hello World]({{site.url}}/pl/programowanie/hello-world/) oraz deklarowania zmiennych.
 Kolejne kroki to odczytywanie danych z konsoli, podstawowe działania matematyczne oraz instrukcje warunkowe.
 
 Zapytacie _"Po co to wszystko?"_
@@ -82,7 +82,7 @@ Oprogramowanie to działa na różnych systemach operacyjnych (Linux, Windows, O
 
 ### Muzyczny programista
 
-![Zapis nutowy Mazurka Dąbrowskiego](/assets/articles/2018-11-07/mazurek-dabrowskiego.png){: .align-center}
+![Zapis nutowy Mazurka Dąbrowskiego]({{site.url}}/assets/articles/2018-11-07/mazurek-dabrowskiego.png){: .align-center}
 
 
 {: .text-justify}

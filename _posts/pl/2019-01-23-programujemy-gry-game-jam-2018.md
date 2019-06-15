@@ -22,7 +22,7 @@ Odskocznia od codzienności.
 Wisienka na torcie.
 
 {: .text-justify}
-Jedną z takich wisienek była [gra M1 Fun](/news/2019/01/programujemy-gry-w-unity/), czyli Przygody Misia Pierwszego.
+Jedną z takich wisienek była [gra M1 Fun]({{site.url}}/news/2019/01/programujemy-gry-w-unity/), czyli Przygody Misia Pierwszego.
 Gra wykorzystująca rozszerzoną rzeczywistość, przeznaczona na urządzenia mobilne, w której budowie uczestniczył nasz [programista Grzegorz](https://fractalsoft.org/pl/team/lisu).
 
 {: .text-justify}
@@ -96,7 +96,7 @@ Pełni pasji, pomysłów, talentu graficznego i chęci sprawdzenia się.
 Czego chcieć więcej.
 To był ich pierwszy Global Game Jam.
 
-![Zespół Can't Sea](/assets/gallery/2019-01-23/cant-sea/cant-sea--team.jpg){: .align-center}
+![Zespół Can't Sea]({{site.url}}/assets/gallery/2019-01-23/cant-sea/cant-sea--team.jpg){: .align-center}
 
 
 ### Burza mózgów
@@ -111,7 +111,7 @@ Tak oto powstał pomysł na grę _Can't sea_.
 
 ### Gra "Can't Sea"
 
-![Logo gry Can't Sea](/assets/gallery/2019-01-23/cant-sea/cant-sea--logo.jpg){: .align-center}
+![Logo gry Can't Sea]({{site.url}}/assets/gallery/2019-01-23/cant-sea/cant-sea--logo.jpg){: .align-center}
 
 {: .text-justify}
 Can't Sea to prosta gra jednoosobowa.
@@ -136,7 +136,7 @@ naszej gry, która powstała na Global Game Jam 2018 w Cieszynie.
 
 
 <video width='640' height='480' controls controlsList='nodownload'>
-  <source src='/assets/gallery/2019-01-23/cant-sea/cant-sea--gameplay.webm' type='video/webm'>
+  <source src='{{site.url}}/assets/gallery/2019-01-23/cant-sea/cant-sea--gameplay.webm' type='video/webm'>
 </video>
 
 
@@ -217,7 +217,7 @@ O szczegóły pytajcie bezpośrednio autorów prac.
 
 #### Gra "CensorSHIP ship"
 
-![Gra CensorShip Ship](/assets/gallery/2019-01-23/censorship-ship/header.jpg)
+![Gra CensorShip Ship]({{site.url}}/assets/gallery/2019-01-23/censorship-ship/header.jpg)
 
 {: .text-justify}
 Czy kosmici oglądają telewizję?
@@ -261,7 +261,7 @@ i spróbujcie swoich sił.
 
 #### Gra "Former Deformer"
 
-![Gra Former Deformer](/assets/gallery/2019-01-23/former-deformer/header.jpg){: .align-center}
+![Gra Former Deformer]({{site.url}}/assets/gallery/2019-01-23/former-deformer/header.jpg){: .align-center}
 
 {: .text-justify}
 "Former Deformer" to kooperacyjna gra dla dwóch osób.
@@ -297,7 +297,7 @@ znajdziecie więcej screenów z gry.
 
 #### Gra "Pew Pew Pew"
 
-![Gra Pew Pew Pew](/assets/gallery/2019-01-23/pew-pew-pew/header.jpg)
+![Gra Pew Pew Pew]({{site.url}}/assets/gallery/2019-01-23/pew-pew-pew/header.jpg)
 
 {: .text-justify}
 Jest to dwuosobowa gra, gdzie gracze wcielają się w silnik i filtr wylotowy samochodu.
@@ -322,7 +322,7 @@ gry można znaleźć zarówno źródła jak i skompilowaną wersję.
 
 #### Gra "Phantasmagoric Space Travel"
 
-![Gra Phantasmagoric Space Travel Project](/assets/gallery/2019-01-23/phantasmagoric-space-travel/header.jpg)
+![Gra Phantasmagoric Space Travel Project]({{site.url}}/assets/gallery/2019-01-23/phantasmagoric-space-travel/header.jpg)
 
 {: .text-justify}
 Pełna nazwa gry to "Phantasmagoric Space Travel Project ~Unintelligible Transmissions of Physical Forces~", czyli Fantasmagoryczna podróż kosmiczna - Niezrozumiałe transmisje sił fizycznych.
@@ -354,7 +354,7 @@ można poszukać dodatkowych informacji.
 {: .text-justify}
 "What?" to zabawna gra polegająca na tym, że należy rozszyfrować wiadomość początkową znając tylko wiadomość końcową.
 Nazwa gry nawiązuje do sytuacji, w której osoba słuchająca nie dosłyszała czegoś i odruchowo zapytała ze zdziwieniem "Co?".
-Zasady tej gry są trochę podobne do [zabawy w kryptografię](/coderdojo/2019/01/coderdojo-gliwice/#szyfry-od-podstaw---zakoduj-się-z-nami), ale bez liter alfabetu, a używając tylko figur geometrycznych i czarno-białych kolorów.
+Zasady tej gry są trochę podobne do [zabawy w kryptografię]({{site.url}}/coderdojo/2019/01/coderdojo-gliwice/#szyfry-od-podstaw---zakoduj-się-z-nami), ale bez liter alfabetu, a używając tylko figur geometrycznych i czarno-białych kolorów.
 Każda z animowanych postaci wprowadza unikalne zmiany w treści wiadomości.
 Użycie figur zamiast liter sprawia, że w grę można zagrać niezależnie wieku gracza i znajomości języka.
 Niestety nie znaleźliśmy strony źródłowej, ale nagraliśmy krótki filmik podczas gry.
@@ -375,7 +375,7 @@ Niestety nie znaleźliśmy strony źródłowej, ale nagraliśmy krótki filmik p
 </figure>
 
 <video width='640' height='480' controls controlsList='nodownload'>
-  <source src='/assets/gallery/2019-01-23/what/what--gameplay.webm' type='video/webm'>
+  <source src='{{site.url}}/assets/gallery/2019-01-23/what/what--gameplay.webm' type='video/webm'>
 </video>
 
 

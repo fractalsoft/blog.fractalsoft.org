@@ -19,7 +19,7 @@ Jedną z takich gier jest gra _M1 Fun_, czyli _Przygody Misia Pierwszego_.
 Głównym bohaterem jest mały miś, który przeżywa swoje zabawne przygody wraz z graczem.
 🐻
 
-![Ekran początkowy gry](/assets/gallery/2019-01-18/game-initial-screen.jpg){: .align-center}
+![Ekran początkowy gry]({{site.url}}/assets/gallery/2019-01-18/game-initial-screen.jpg){: .align-center}
 
 {: .text-justify}
 Gra powstała dla sieci centrów handlowych M1.

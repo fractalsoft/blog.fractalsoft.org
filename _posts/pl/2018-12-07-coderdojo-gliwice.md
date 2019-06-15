@@ -26,8 +26,8 @@ Cieszy to nas i motywuje ogromnie.
 Pamiętajcie, że zajęcia {% include common/coderdojo--colorful-text.html %} mają Was uczyć i bawić i że technologia jest tylko narzędziem.
 
 {: .text-justify}
-Przypominamy o [zasadach CoderDojo Gliwice](/coderdojo/2018/11/coderdojo-gliwice/#zasady-coderdojo-gliwice).
-Jeśli macie pytania to przeczytajcie nasz [FAQ](/coderdojo/2018/11/coderdojo-gliwice/#faq-cz%C4%99sto-zadawane-pytania).
+Przypominamy o [zasadach CoderDojo Gliwice]({{site.url}}/coderdojo/2018/11/coderdojo-gliwice/#zasady-coderdojo-gliwice).
+Jeśli macie pytania to przeczytajcie nasz [FAQ]({{site.url}}/coderdojo/2018/11/coderdojo-gliwice/#faq-cz%C4%99sto-zadawane-pytania).
 Możliwe, że szybko znajdziecie tam potrzebne odpowiedzi.
 
 
@@ -130,7 +130,7 @@ Nikt nie mówił, że będzie łatwo.
 {: .text-justify}
 Dodatkowo Darek
 🧔
-dla młodszych ninja będzie kontynuował temat poprzednich zajęć z [programowania w C na Arduino](/coderdojo/2018/11/coderdojo-gliwice/#programowanie-w-c-na-arduino).
+dla młodszych ninja będzie kontynuował temat poprzednich zajęć z [programowania w C na Arduino]({{site.url}}/coderdojo/2018/11/coderdojo-gliwice/#programowanie-w-c-na-arduino).
 Miganie diodami jest fajne, ale to dopiero początek.
 Znacznie ciekawiej jest wykorzystywać różnego rodzaju czujniki:
 + czujnik ruchu
@@ -174,7 +174,7 @@ Wymagania:
 
 ### Kolędowanie - programowanie
 
-![Laptop, słuchawki, nuty i ciasteczka](/assets/articles/2018-12-07/laptop-sluchawki-ciastka-nuty.jpg){: .align-center}
+![Laptop, słuchawki, nuty i ciasteczka]({{site.url}}/assets/articles/2018-12-07/laptop-sluchawki-ciastka-nuty.jpg){: .align-center}
 
 {: .text-justify}
 Tworzenie muzyki na CoderDojo nie wymaga talentu muzycznego.
@@ -200,7 +200,7 @@ Wymagania:
 
 ### Okiełznać Internet
 
-![Logo HTML & CSS](/assets/images/html/css3-html5-logos_and_wordmarks.svg){: .align-center}
+![Logo HTML & CSS]({{site.url}}/assets/images/html/css3-html5-logos_and_wordmarks.svg){: .align-center}
 
 {: .text-justify}
 Nie wyobrażamy sobie już życia bez Internetu.
@@ -270,7 +270,7 @@ Do zobaczenia!
 
 Cześć i czołem! Kluski z rosołem.
 
-![Rosół z makaronem w literki](/assets/articles/2018-12-07/literki-w-rosole.jpg){: .align-center}
+![Rosół z makaronem w literki]({{site.url}}/assets/articles/2018-12-07/literki-w-rosole.jpg){: .align-center}
 
 ----
 {% include common/footer--polish-text.html %}

@@ -42,7 +42,7 @@ Krótkie przypomnienie tematyki ostatnich zajęć z programowania CoderDojo Gliw
 + {: .text-justify} matura z informatyki w Pythonie
 
 {: .text-justify}
-Dokładniej opisaliśmy te tematy zajęć w artykule [CoderDojo Gliwice - 2019-03](/coderdojo/2019/03/coderdojo-gliwice/).
+Dokładniej opisaliśmy te tematy zajęć w artykule [CoderDojo Gliwice - 2019-03]({{site.url}}/coderdojo/2019/03/coderdojo-gliwice/).
 
 {% include common/lazy-image.html alt='Kryształy siarki' classes='align-center' url='/assets/articles/2019-04-10/siarka.jpg' %}
 
@@ -56,7 +56,7 @@ Zamiast zdjęć, będzie kod / kot.
 🐈
 
 {: .text-justify}
-Na poprzednich zajęciach z kryptoanalizy grupa ninja zajmowała się [programowaniem deszyfratora](/coderdojo/2019/03/coderdojo-gliwice/#zaprogramuj-deszyfrator).
+Na poprzednich zajęciach z kryptoanalizy grupa ninja zajmowała się [programowaniem deszyfratora]({{site.url}}/coderdojo/2019/03/coderdojo-gliwice/#zaprogramuj-deszyfrator).
 🕵️
 Oto prosty skrypt, który wtedy powstał w języku Ruby.
 
@@ -216,7 +216,7 @@ Warto być na bieżąco.
 
 ### Zabawa w Sudoku
 
-![Plansza sudoku](/assets/articles/2019-04-10/sudoku.svg){: .align-center}
+![Plansza sudoku]({{site.url}}/assets/articles/2019-04-10/sudoku.svg){: .align-center}
 
 {: .text-justify}
 Co to jest sudoku?

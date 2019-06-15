@@ -49,7 +49,7 @@ Krótkie podsumowanie poprzednich zajęć CoderDojo, czyli programowanie dla ma�
 😜
 
 {: .text-justify}
-Po więcej szczegółów dot. tematów poprzednich zajęć CoderDojo sięgnijcie do posta [CoderDojo Gliwice - 2019-04](/coderdojo/2019/04/uczymy-dzieci-programowania-coderdojo-gliwice/).
+Po więcej szczegółów dot. tematów poprzednich zajęć CoderDojo sięgnijcie do posta [CoderDojo Gliwice - 2019-04]({{site.url}}/coderdojo/2019/04/uczymy-dzieci-programowania-coderdojo-gliwice/).
 
 {: .text-justify}
 Dodatkowo przeprowadziliśmy anonimową ankietę.
@@ -185,7 +185,7 @@ Przy okazji jest to sposób na wyeliminowanie trudności, że Internet wolno dzi
 
 ### Jak komputer gra w Sudoku?
 
-![Rozwiązana plansza sudoku](/assets/articles/2019-05-14/sudoku.svg){: .align-center}
+![Rozwiązana plansza sudoku]({{site.url}}/assets/articles/2019-05-14/sudoku.svg){: .align-center}
 
 {: .text-justify}
 Na poprzednich zajęciach udało się zbudować generator plansz do sudoku.

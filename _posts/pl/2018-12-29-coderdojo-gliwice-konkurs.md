@@ -15,7 +15,7 @@ title: CoderDojo Gliwice - Konkurs - 2018-12
 {: .text-justify}
 Grudzień to czas prezentów i niespodzianek.
 💝
-I dlatego na zajęciach CoderDojo w Gliwicach zorganizowaliśmy [świąteczny konkurs](/coderdojo/2018/12/coderdojo-gliwice/#konkurs).
+I dlatego na zajęciach CoderDojo w Gliwicach zorganizowaliśmy [świąteczny konkurs]({{site.url}}/coderdojo/2018/12/coderdojo-gliwice/#konkurs).
 Uczestnikom jeszcze raz dziękujemy i gratulujemy kreatywności.
 Każdy uczestnik naszego małego konkursu otrzymał nagrodę.
 Nagrodami były różnego rodzaju gadżety (kubki termiczne, bidony, gry logiczne, czyściki do telefonów, długopisy, smycze), a nagrodą główną był klucz licencyjny do gry <a href='https://undertale.com/' rel='nofollow noopener' target='_blank'>Undertale</a>.
@@ -57,7 +57,7 @@ To właśnie on wpadł przez dziurę do podziemi.
 Teraz podróżując przez świat pełen potworów, poszukuje drogi do wyjścia.
 Niepokonanych przeciwników można w późniejszym etapie spotkać i rozmawiać z nimi o społeczności w jakiej żyją.
 
-![Undertale screen](/assets/articles/2018-12-29/game-undertale-screen.png){: .align-center}
+![Undertale screen]({{site.url}}/assets/articles/2018-12-29/game-undertale-screen.png){: .align-center}
 
 
 ## Projekty
@@ -148,7 +148,7 @@ Tomek swoją grę napisał używając silnika Unity.
 </figure>
 
 <video width='640' height='480' controls controlsList='nodownload'>
-  <source src='/assets/gallery/2018-12-29/game-of-santa-claus/prezenty-przez-komin.webm' type='video/webm'>
+  <source src='{{site.url}}/assets/gallery/2018-12-29/game-of-santa-claus/prezenty-przez-komin.webm' type='video/webm'>
 </video>
 <small>Powyżej krótki filmik z gry.</small>
 
@@ -252,7 +252,7 @@ Dla urozmaicenia dodali efekt padającego śniegu, mimo iż za oknem śniegu nie
 {: .text-justify}
 Nie wyobrażamy sobie Świąt bez choinki.
 Choćby miało to być malutkie drzewko z papierowymi ozdobami.
-Takie jak stoi u nas w [biurze w Gliwicach](/news/2018/12/merry-christmas/).
+Takie jak stoi u nas w [biurze w Gliwicach]({{site.url}}/news/2018/12/merry-christmas/).
 Jednak rzeczywista choinka zajmuje przestrzeń.
 A gdyby tak zdygitalizować choinkę?
 Tą drogą poszło kilku ninja i to w różnych grupach.

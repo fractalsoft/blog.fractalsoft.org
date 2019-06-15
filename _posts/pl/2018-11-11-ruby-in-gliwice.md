@@ -17,7 +17,7 @@ Celem SRUG-owych spotkań jest wymiana wiedzy oraz doświadczeń pomiędzy progr
 Programiści przygotowują prezentacje dla innych programistów.
 Uczymy się od siebie nawzajem.
 
-![Logo SRUG - Silesian Ruby Users Group](/assets/images/srug/srug-logo.png){: .align-center}
+![Logo SRUG - Silesian Ruby Users Group]({{site.url}}/assets/images/srug/srug-logo.png){: .align-center}
 
 {: .text-justify}
 We wtorek, 13-tego listopada o 18:00 w Gliwicach odbędzie się trzecie w tym roku (2018) spotkanie Śląskiej Grupy Użytkowników Rubiego.
@@ -40,7 +40,7 @@ Jeśli chcecie posłuchać musicie przyjść osobiście.
 
 ## SVG for Developers, not Designers
 
-![Logo SVG](/assets/images/svg/svg-logo.svg){: .align-center}
+![Logo SVG]({{site.url}}/assets/images/svg/svg-logo.svg){: .align-center}
 
 {: .text-justify}
 Formaty graficzne zazwyczaj kojarzą nam się z designerami oraz grafikami.

@@ -40,7 +40,7 @@ Małe podsumowanie poprzednich zajęć z programowania dla dzieci oraz zdjęcia 
 + {: .text-justify} programowanie bez komputera
 
 {: .text-justify}
-Jakby co, tematy tych zajęć opisaliśmy w artykule [CoderDojo Gliwice - 2019-02](/coderdojo/2019/02/coderdojo-gliwice/).
+Jakby co, tematy tych zajęć opisaliśmy w artykule [CoderDojo Gliwice - 2019-02]({{site.url}}/coderdojo/2019/02/coderdojo-gliwice/).
 
 ### Zdjęcia z CoderDojo Gliwice #4
 <figure class='third'>
@@ -95,7 +95,7 @@ Jakby co, tematy tych zajęć opisaliśmy w artykule [CoderDojo Gliwice - 2019-0
 
 ### Zaprogramuj deszyfrator
 
-![Don Pedro](/assets/articles/2019-03-01/don-pedro.jpg){: .align-center}
+![Don Pedro]({{site.url}}/assets/articles/2019-03-01/don-pedro.jpg){: .align-center}
 
 {: .text-justify}
 Znacie _Don Pedro_, najlepszego szpiega z Krainy Deszczowców?
@@ -163,7 +163,7 @@ Wymagania:
 
 ### Wstęp do Unity3D
 
-![Splashscreen z Unity](/assets/images/unity/logo-black.png){: .align-center}
+![Splashscreen z Unity]({{site.url}}/assets/images/unity/logo-black.png){: .align-center}
 
 {: .text-justify}
 We wcześniejszej serii zajęć zapoznaliśmy się z podstawami programowania obiektowego, od tworzenia pętli i instrukcji warunkowych, aż do tworzenia własnych metod oraz klas.
@@ -195,7 +195,7 @@ Wymagania:
 
 ### Gdzie jest Python?
 
-![Wąż pyton](/assets/articles/2019-03-01/python-snake.jpg){: .align-center}
+![Wąż pyton]({{site.url}}/assets/articles/2019-03-01/python-snake.jpg){: .align-center}
 
 {: .text-justify}
 Ostatnio zniknął Python, wielki wąż.
