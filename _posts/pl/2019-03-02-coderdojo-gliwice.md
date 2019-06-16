@@ -42,54 +42,8 @@ Małe podsumowanie poprzednich zajęć z programowania dla dzieci oraz zdjęcia 
 {: .text-justify}
 Jakby co, tematy tych zajęć opisaliśmy w artykule [CoderDojo Gliwice - 2019-02]({{site.url}}/coderdojo/2019/02/coderdojo-gliwice/).
 
-### Zdjęcia z CoderDojo Gliwice #4
-<figure class='third'>
-  <a href='/assets/gallery/2019-03-02/01.jpg'>
-    <img src='/assets/gallery/2019-03-02/thumbs/01.jpg' alt=''>
-  </a>
-  <a href='/assets/gallery/2019-03-02/02.jpg'>
-    <img src='/assets/gallery/2019-03-02/thumbs/02.jpg' alt=''>
-  </a>
-  <a href='/assets/gallery/2019-03-02/03.jpg'>
-    <img src='/assets/gallery/2019-03-02/thumbs/03.jpg' alt=''>
-  </a>
-  <a href='/assets/gallery/2019-03-02/04.jpg'>
-    <img src='/assets/gallery/2019-03-02/thumbs/04.jpg' alt=''>
-  </a>
-  <a href='/assets/gallery/2019-03-02/05.jpg'>
-    <img src='/assets/gallery/2019-03-02/thumbs/05.jpg' alt=''>
-  </a>
-  <a href='/assets/gallery/2019-03-02/06.jpg'>
-    <img src='/assets/gallery/2019-03-02/thumbs/06.jpg' alt=''>
-  </a>
-  <a href='/assets/gallery/2019-03-02/07.jpg'>
-    <img src='/assets/gallery/2019-03-02/thumbs/07.jpg' alt=''>
-  </a>
-  <a href='/assets/gallery/2019-03-02/08.jpg'>
-    <img src='/assets/gallery/2019-03-02/thumbs/08.jpg' alt=''>
-  </a>
-  <a href='/assets/gallery/2019-03-02/09.jpg'>
-    <img src='/assets/gallery/2019-03-02/thumbs/09.jpg' alt=''>
-  </a>
-  <a href='/assets/gallery/2019-03-02/10.jpg'>
-    <img src='/assets/gallery/2019-03-02/thumbs/10.jpg' alt=''>
-  </a>
-  <a href='/assets/gallery/2019-03-02/11.jpg'>
-    <img src='/assets/gallery/2019-03-02/thumbs/11.jpg' alt=''>
-  </a>
-  <a href='/assets/gallery/2019-03-02/12.jpg'>
-    <img src='/assets/gallery/2019-03-02/thumbs/12.jpg' alt=''>
-  </a>
-  <a href='/assets/gallery/2019-03-02/13.jpg'>
-    <img src='/assets/gallery/2019-03-02/thumbs/13.jpg' alt=''>
-  </a>
-  <a href='/assets/gallery/2019-03-02/14.jpg'>
-    <img src='/assets/gallery/2019-03-02/thumbs/14.jpg' alt=''>
-  </a>
-  <a href='/assets/gallery/2019-03-02/15.jpg'>
-    <img src='/assets/gallery/2019-03-02/thumbs/15.jpg' alt=''>
-  </a>
-</figure>
+{% include gallery/coderdojo-4.html %}
+
 
 ## Tematy na CoderDojo Gliwice
 
