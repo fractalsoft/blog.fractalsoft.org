@@ -16,4 +16,8 @@ h1, p {
 
 # Dziękujemy za rejestrację ❤️
 
+Będziemy kontaktować się na podany adres e-mail.
+
+Jeśli zainteresowanie na wybrany termin będzie zbyt duże zaproponujemy inny termin.
+
 Wróć na stronę [RubyCamp]({% link _pages/pl/rubycamp.md %}).
