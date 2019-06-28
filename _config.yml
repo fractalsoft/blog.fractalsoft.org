@@ -138,4 +138,4 @@ chrome-tab-theme-color: '#1c26c3'
 exclude_from_localization: ['assets', 'bin']
 locales: ['en', 'pl']
 
-rubycamp_form_action: 'https://formspree.io/alek+rubycamp@coderdojo.org.pl'
+rubycamp_form_action: 'https://formspree.io/alek+rubycamp2@coderdojo.org.pl'
