@@ -2,7 +2,7 @@
 author: torrocus
 classes:
   - rubycamp
-description: "Letnie półkolonie z programowania w Ruby dla dzieci i młodzieży z Gliwic i okolic. Ucz się Ruby pod okiem zawodowego programisty."
+description: "RubyCamp Gliwice - letnie zajęcia z programowania w Ruby dla dzieci i młodzieży z Gliwic i okolic. Ucz się Ruby pod okiem zawodowego programisty."
 head_scripts:
 header:
   og_image: /assets/rubycamp/images/og_image.png
