@@ -5,7 +5,7 @@ description: "Nauka programowania w Ruby i Pythonie oraz modelowanie postaci w B
 excerpt: "Zaprogramujemy rozwiązywacz Sudoku w **Ruby**. Zamodelujemy postać i wprowadzimy ją w ruch w **Blenderze**. A w **Pythonie** zadbamy o klasy. Jesteście gotowi na wyzwania?"
 header:
   actions:
-    - label: Programistyczne półkolonie
+    - label: Letnie zajęcia z programowania dla dzieci
       url: /pl/szkolenia/rubycamp/
     - label: Programowanie gier w Unity
       url: /news/2019/01/programujemy-gry-game-jam-2018/

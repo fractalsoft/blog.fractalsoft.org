@@ -5,7 +5,7 @@ description: "Wyliczanie daty Wielkanocy wcale nie jest trywialnym procesem. Nap
 excerpt: "**Programowanie** przydaje się w bardzo nieoczekiwanych momentach. Skąd wiadomo kiedy będzie Wielkanoc jeśli nie mamy kalendarza? Są odpowiednie _algorytmy_!"
 header:
   actions:
-    - label: Programistyczne półkolonie w Gliwicach
+    - label: Wakacyjne programowanie w Gliwicach
       url: /pl/szkolenia/rubycamp/
     - label: Merry Christmas w rytmie Ruby
       url: /news/2018/12/merry-christmas/

@@ -10,7 +10,7 @@ layout: default
 locale-ref: rubycamp-gliwice
 locale: pl
 permalink: /pl/szkolenia/rubycamp/
-title: "RubyCamp dla dzieci i młodzieży, czyli wakacyjne programowanie w Ruby"
+title: "RubyCamp dla dzieci i młodzieży - wakacyjne programowanie w Ruby"
 ---
 
 {% include rubycamp/intro.html %}
