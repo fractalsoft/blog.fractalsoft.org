@@ -1,6 +1,6 @@
 womanonrails:
   name: Agnieszka Matysek
-  avatar: /assets/authors/womanonrails.jpg
+  avatar: &avatar /assets/authors/womanonrails.jpg
   bio:
   links:
     - label: Programista śledczy
@@ -19,20 +19,23 @@ womanonrails:
     - label: Instagram
       icon: 'fab fa-fw fa-instagram'
       url: https://instagram.com/womanonrails
+  picture: *avatar
+  twitter: womanonrails
 
 lisu:
   name: Grzegorz Lisowski
-  avatar: https://www.gravatar.com/avatar/0c63820e8b1390a92c4dbbcaa10fe8c4?s=110
+  avatar: &avatar https://www.gravatar.com/avatar/0c63820e8b1390a92c4dbbcaa10fe8c4?s=110
   bio:
   links:
     - label: Programista aplikacji i gier
       icon: 'fas fa-fw fa-link'
       rel: ''
       url: https://fractalsoft.org/pl/zespol/lisu
+  picture: *avatar
 
 torrocus:
   name: Alek Małaszkiewicz
-  avatar: /assets/authors/torrocus.jpg
+  avatar: &avatar /assets/authors/torrocus.jpg
   bio:
   links:
     - label: Programista aplikacji webowych
@@ -55,6 +58,8 @@ torrocus:
     - label: Instagram
       icon: 'fab fa-fw fa-instagram'
       url: https://instagram.com/torrocus
+  picture: *avatar
+  twitter: torrocus
 
 team:
   name: Fractal Soft Team

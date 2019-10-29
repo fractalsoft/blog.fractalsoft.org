@@ -3,9 +3,11 @@ author: torrocus
 category: community
 description: Spotkania Ruby w Gliwicach w roku 2019 zaczynają się z opóźnieniem. Prelekcje na SRUG-u za to będą na wysokim poziomie. Agnieszka opowie o nowościach w Ruby.
 excerpt: Spotkanie lokalnej grupy Ruby, czyli SRUG w Gliwicach. Nie możecie tego przegapić!
+lang: pl
 locale-ref: srug-1-2019
 locale: pl
-permalink: /community/2019/08/srug-spotkanie-programistow-ruby-w-gliwicach/
+permalink: /pl/spolecznosc/srug-2019-01-spotkanie-programistow-ruby-w-gliwicach/
+redirect_from: /community/2019/08/srug-spotkanie-programistow-ruby-w-gliwicach/
 tags: [programming, event, professional]
 title: Ruby Gliwice - SRUG 1.2019
 ---
@@ -23,7 +25,8 @@ We wtorek, dnia 27 sierpnia 2019 roku w Gliwicach odbędzie się pierwsze w tym 
 Wiemy, że za nami już połowa roku.
 Wiemy, że są wakacje i okres urlopowy.
 Ale właśnie to zmotywowało społeczność Rubiego do działania.
-Więcej informacji o tym spotkaniu znajdziecie na oficjalnej stronie <a href='https://srug.pl/' rel='nofollow noopener' target='_blank'>SRUG-a</a>.
+Więcej informacji o tym spotkaniu znajdziecie na oficjalnej stronie
+{% include common/known-link.html name='SRUG-a' url='https://srug.pl/' %}.
 
 ## Tematy na SRUG-u w Gliwicach
 

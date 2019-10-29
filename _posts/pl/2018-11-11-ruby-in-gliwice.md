@@ -22,7 +22,9 @@ Uczymy się od siebie nawzajem.
 {: .text-justify}
 We wtorek, 13-tego listopada o 18:00 w Gliwicach odbędzie się trzecie w tym roku (2018) spotkanie Śląskiej Grupy Użytkowników Rubiego.
 Serdecznie zapraszamy, ponieważ spotykamy się, o ile to możliwe, tylko raz na kwartał.
-Więcej informacji o terminach oraz miejscach spotkań znajdziecie na oficjalnej stronie <a href='https://srug.pl/' rel='nofollow noopener' target='_blank'>SRUG-a</a>.
+Więcej informacji o terminach oraz miejscach spotkań znajdziecie na oficjalnej stronie
+{% include common/known-link.html name='SRUG-a' url='https://srug.pl/' %}.
+
 
 ## Tematy na SRUG-u w Gliwicach
 
