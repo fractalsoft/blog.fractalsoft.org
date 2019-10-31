@@ -11,6 +11,7 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.5)
   overlay_image: /assets/articles/2019-06-05/header.svg
   teaser: /assets/articles/2019-06-05/teaser.jpg
+lang: pl
 layout: single
 locale-ref: coderdojo-gliwice-8
 locale: pl

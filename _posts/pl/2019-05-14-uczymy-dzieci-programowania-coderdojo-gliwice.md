@@ -13,6 +13,7 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.5)
   overlay_image: /assets/articles/2019-05-14/header.svg
   teaser: /assets/articles/2019-05-14/teaser.jpg
+lang: pl
 locale-ref: coderdojo-gliwice-7
 locale: pl
 permalink: /coderdojo/2019/05/uczymy-dzieci-programowania-coderdojo-gliwice/

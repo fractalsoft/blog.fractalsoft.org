@@ -5,6 +5,7 @@ description: Przygody Misia Pierwszego to gra, którą mieliśmy okazję współ
 excerpt: Programowanie gier to obok programowania aplikacji internetowych jedne z naszych ulubionych zajęć. Ostatnio mieliśmy okazję współtworzyć wyjątkową grę.
 header:
   image: assets/articles/2019-01-18/header.png
+lang: pl
 locale-ref: gamedev-unity-m1-fun-2019
 locale: pl
 permalink: /news/2019/01/programujemy-gry-w-unity/

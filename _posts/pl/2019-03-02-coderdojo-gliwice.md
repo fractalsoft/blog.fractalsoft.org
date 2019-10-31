@@ -12,6 +12,7 @@ header:
   og_image: /assets/articles/2019-03-01/og_image.png
   overlay_filter: rgba(0, 0, 0, 0.5)
   overlay_image: /assets/articles/2019-03-01/header.svg
+lang: pl
 locale-ref: coderdojo-gliwice-5
 locale: pl
 permalink: /coderdojo/2019/03/coderdojo-gliwice/

@@ -5,6 +5,7 @@ description: "Świąteczne życzenia i krótka historia o nas. Cieszyn i Gliwice
 excerpt: Święta Bożego Narodzenia skłaniają do refleksji. Chcemy podzielić się z Wami naszą krótką historią i życzeniami. Chcemy, abyście nas lepiej poznali.
 header:
   image: /assets/articles/2018-12-24/header.jpg
+lang: pl
 locale-ref: merry-christmas-2018
 locale: pl
 permalink: /news/2018/12/merry-christmas/
