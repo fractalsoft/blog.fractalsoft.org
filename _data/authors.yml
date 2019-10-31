@@ -7,9 +7,6 @@ womanonrails:
       icon: 'fas fa-fw fa-link'
       rel: ''
       url: https://fractalsoft.org/pl/zespol/womanonrails
-    - label: Twitter
-      icon: 'fab fa-fw fa-twitter'
-      url: https://twitter.com/womanonrails
     - label: LinkedIn
       icon: 'fab fa-fw fa-linkedin'
       url: https://linkedin.com/in/womanonrails
@@ -46,9 +43,6 @@ torrocus:
       icon: 'fas fa-fw fa-link'
       rel: ''
       url: https://torrocus.com
-    - label: Twitter
-      icon: 'fab fa-fw fa-twitter'
-      url: https://twitter.com/torrocus
     - label: LinkedIn
       icon: 'fab fa-fw fa-linkedin'
       url: https://linkedin.com/in/torrocus

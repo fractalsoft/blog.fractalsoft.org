@@ -3,6 +3,9 @@ author: torrocus
 category: community
 description: Społeczność Ruby na Śląsku rozkręca się w tym roku 2019. Drugie już spotkanie w Gliwicach tym razem z różnorodnych tematów około rubiowych.
 excerpt: Drugi SRUG w Gliwicach, czyli spotkanie lokalnej grupy Ruby. Tym razem będą tematy nie tylko z języka Ruby.
+header:
+  og_image: /assets/images/srug/og_image.png
+  teaser: /assets/images/srug/teaser.jpg
 lang: pl
 locale-ref: srug-2-2019
 locale: pl
@@ -21,7 +24,7 @@ Póki co zbliża się spotkanie społeczności miłośników Ruby.
 
 
 {: .text-justify}
-Już 29 października 2019, we wtorek odbędzie się kolejne spotkanie społeczności rubiego na Śląsku.
+Już 29 października 2019 roku, we wtorek, odbędzie się kolejne spotkanie społeczności rubiego na Śląsku.
 Szczegóły spotkania dostępne na oficjalnej stronie
 {% include common/known-link.html name='SRUG-a' url='https://srug.pl/' %}.
 

@@ -3,6 +3,9 @@ author: torrocus
 category: community
 description: Spotkania Ruby w Gliwicach w roku 2019 zaczynają się z opóźnieniem. Prelekcje na SRUG-u za to będą na wysokim poziomie. Agnieszka opowie o nowościach w Ruby.
 excerpt: Spotkanie lokalnej grupy Ruby, czyli SRUG w Gliwicach. Nie możecie tego przegapić!
+header:
+  og_image: /assets/images/srug/og_image.png
+  teaser: /assets/images/srug/teaser.jpg
 lang: pl
 locale-ref: srug-1-2019
 locale: pl
