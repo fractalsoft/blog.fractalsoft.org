@@ -23,7 +23,7 @@ permalink: /:categories/:year/:month/:title/
 # Plugins settings
 plugins:
   - jekyll-compress-html
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-gist
   - jekyll-include-cache
   # - jekyll-polyglot
@@ -72,20 +72,15 @@ compress_html:
   profile: false
 
 defaults:
-  # _coderdojo
-  - scope:
-      path: ''
-      type: coderdojo
-    values:
-      comments: true
-      layout: single
-      related: true
   # _pages
   - scope:
       path: ''
       type: pages
     values:
-      author_profile: true
+      author_profile: false
+      comments: true
+      layout: single
+      related: true
   # _posts
   - scope:
       path: ''

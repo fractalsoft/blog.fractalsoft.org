@@ -8,8 +8,7 @@ header:
 layout: collection
 locale-ref: coderdojo-gliwice
 locale: pl
-permalink: /pl/coderdojo/
-redirect_from: /coderdojo/
+target_permalink: /pl/coderdojo/
 title: "Nauka programowania dla dzieci i młodzieży - CoderDojo"
 ---
 

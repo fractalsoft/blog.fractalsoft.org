@@ -1,0 +1,11 @@
+{% if page.layout != 'index' %}
+  {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+  {% if posts.size == 0 %}
+    {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+  {% endif %}
+  {% if posts.size > 1 %}
+    {% for post in posts %}
+  <link href="{{ site.base-url }}{{ post.url }}" hreflang="{{post.lang}}" rel='alternate' />
+    {% endfor %}
+  {% endif %}
+{% endif %}

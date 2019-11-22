@@ -1,0 +1,20 @@
+{% if page.layout == 'single' %}
+  {% assign posts=site.posts | where: 'lang-ref', page.lang-ref | sort: 'lang' %}
+  {% if posts.size == 0 %}
+    {% assign posts=site.pages | where: 'lang-ref', page.lang-ref | sort: 'lang' %}
+  {% endif %}
+  {% if posts.size > 1 %}
+  <em>{{ site.data.language_support[page.lang].different_language }}:</em>
+  <ul class='languages visible-links'>
+  {% for post in posts %}
+    {% if post == page %}{% continue %}{% endif %}
+    <li class='masthead__menu-item'>
+      <a href='{{ site.base-url }}{{ post.url }}' class='{{ post.locale }}'>
+        {{ site.data.language_support[page.lang].icon }}
+        {{ site.data.language_support[page.lang].label }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+  {% endif %}
+{% endif %}
