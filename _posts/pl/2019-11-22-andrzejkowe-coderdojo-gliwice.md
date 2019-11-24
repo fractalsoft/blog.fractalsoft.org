@@ -18,7 +18,7 @@ permalink: /pl/coderdojo/2019/11/andrzejkowe-coderdojo-gliwice/
 tags: [programming, beginner, charity]
 title: Programistyczne Andrzejki - CoderDojo Gliwice - 2019-11
 toc: true
-toc_label: CoderDojo - 31.11.2019
+toc_label: CoderDojo - 30.11.2019
 ---
 
 {: .text-justify}
@@ -111,7 +111,7 @@ Prosimy Was o kliknięcie w ikonkę kciuka pod artykułem.
 
 ----
 
-{% include common/coderdojo--footer.html date='31.11.2019' %}
+{% include common/coderdojo--footer.html date='30.11.2019' %}
 
 ----
 {% include common/footer--polish-text.html %}
