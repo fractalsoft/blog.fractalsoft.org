@@ -23,7 +23,7 @@ permalink: /:categories/:year/:month/:title/
 # Plugins settings
 plugins:
   - jekyll-compress-html
-  # - jekyll-feed
+  - jekyll-feed
   - jekyll-gist
   - jekyll-include-cache
   # - jekyll-polyglot
@@ -92,6 +92,9 @@ defaults:
       read_time: false
       related: true
       share: true
+
+feed:
+  excerpt_only: true
 
 footer:
   links:
