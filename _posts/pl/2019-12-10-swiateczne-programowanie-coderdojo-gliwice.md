@@ -15,6 +15,8 @@ header:
 lang: pl
 locale-ref: coderdojo-gliwice-9
 locale: pl
+permalink: /pl/coderdojo/2019/12/swiateczne-programowanie-coderdojo-gliwice/
+redirect_from: /coderdojo/2019/12/swiateczne-programowanie-coderdojo-gliwice/
 tags: [programming, beginner, charity]
 title: Świąteczne programowanie - CoderDojo Gliwice - 2019-12
 toc: true
