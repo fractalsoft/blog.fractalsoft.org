@@ -78,7 +78,7 @@ Wszyscy mieli bardzo kreatywne pomysły.
 Oczywiście zaczynaliśmy od najprostszych, aż po bardzo efektowne.
 
 
-### Najprostrza choinka
+### Najprostsza choinka
 
 {: .text-justify}
 To jest najkrótszy kod programistycznej choinki.
