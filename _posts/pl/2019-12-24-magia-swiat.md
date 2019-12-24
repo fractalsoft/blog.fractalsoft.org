@@ -53,12 +53,12 @@ Lubimy korzystać z różnych aplikacji, również social media.
 Jednak zdajemy sobie sprawę, że często aplikacje, które miały nam zaoszczędzić zabierają go nam najwięcej.
 Podobnie sprawa się ma ze sprzętem.
 Dajemy się ponieść modzie.
-Nakręcamy spiralę konsumcjonizmu.
+Nakręcamy spiralę konsumpcjonizmu.
 Łatwiej nam kupić nową elektronikę niż ją naprawić.
 Dlatego apelujemy: nie wyrzucaj sprzętu elektronicznego tylko dlatego, że nie działa.
 Przynieś go do nas do [serwisu komputerowego](https://fractalsoft.org/pl/cieszyn) przy Studni Trzech Braci.
 Naprawimy go, a potem zrobisz z nim co chcesz.
-Będziesz go dalej używać albo dasz go komuś kto go potrzebuje (rodzinie, przejaciołom).
+Będziesz go dalej używać albo dasz go komuś kto go potrzebuje (rodzinie, przyjaciołom).
 
 {: .text-justify}
 Nauczmy się oddelegowywać różne rzeczy, aby zyskać czas.
@@ -77,7 +77,7 @@ Dalajlama napisał:
 
 {: .text-justify}
 Cieszyn zawsze był, jest i będzie dla nas miastem, w którym wszystko toczy się wolniej.
-Ale nie wolniej pod względem biznesowym, ale wolnie pod względem życia.
+Ale nie wolniej pod względem biznesowym, ale wolniej pod względem życia.
 Chcemy cieszyć się tymi Świętami.
 Poniżej macie zdjęcia choinki, którą można zobaczyć w naszym **serwisie laptopów przy Studni Trzech Braci**.
 Figurka Mikołaja z modeliny  widoczna na drugim zdjęciu ma już grubo ponad dwadzieścia lat i przywołuje wiele wspomnień.
