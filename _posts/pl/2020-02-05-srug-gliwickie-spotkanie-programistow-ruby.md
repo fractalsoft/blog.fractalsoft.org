@@ -44,10 +44,8 @@ Poniżej programistyczne tematy, przydatne dla każdego, kto choć trochę lizn�
 + {: .text-justify} _Occupational Burnout Syndrome - How to still feel passion, even
   after years of programming?_ - prezentacja dot. trudnego tematu jakim jest **wypalenie zawodowe**.
   Problem dotykający prędzej czy później każdego, nie tylko w branży IT.
-  Przedstawione zostaną symptomy wypalenia zawodowego,
-  jak zdiagnozować samego siebie
-  oraz jak sobie z nim poradzić.
-  Tą prezentację przedstawi Agnieszka, która na swoim technicznym blogu dokonała dokładnej analizy tematu **syndromu burnout** (z ang. wypalić się).
+  Przedstawione zostaną symptomy wypalenia zawodowego oraz jak sobie z nim poradzić.
+  Tą prezentację przedstawi Agnieszka, która na swoim technicznym blogu dokonała dokładnej analizy tematu **syndromu burnout** (ang. wypalić się).
 
 {: .text-justify}
 Jeśli tematy Wam się podobają (w co nie wątpimy), to przybywajcie na jedyne takie spotkanie programistów Ruby w Gliwicach, a nawet na całym Śląsku.
