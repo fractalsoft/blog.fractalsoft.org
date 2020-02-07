@@ -7,7 +7,7 @@ header:
   actions:
     - label: Dodatkowa nauka programowania - zapisy wkrótce
       url: '#'
-  og_image: /assets/articles/2020-02-07/og_image.jpg
+  og_image: /assets/articles/2020-02-07/og_image.png
   overlay_color: "#4084c5"
   overlay_filter: rgba(0, 0.0, 0, 0.3)
   overlay_image: /assets/articles/2020-02-07/header.svg
