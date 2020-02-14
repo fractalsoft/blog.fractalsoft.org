@@ -35,6 +35,11 @@ var x = 150,
     friction = 0.98,
     keys = [];
 
+var heart = new Image(),
+    heartScale = 32;
+
+heart.src = '/assets/games/heart.svg';
+
 function update() {
     requestAnimationFrame(update);
 
@@ -79,8 +84,7 @@ function update() {
 
     ctx.clearRect(0, 0, windowWidth, windowHeight);
     ctx.beginPath();
-    ctx.arc(x, y, 5, 0, Math.PI * 2);
-    ctx.fill();
+    ctx.drawImage(heart, x, y, heartScale, heartScale * heart.height / heart.width);
 }
 
 update();
