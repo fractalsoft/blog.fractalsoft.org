@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <title>Love ❤️</title>
+
+<style type='text/css'>
+canvas {
+  border: 1px solid #000;
+}
+</style>
+</head>
+<body class='love'>
+<canvas id='canvas'></canvas>
+
+<script type='text/javascript'>
+let windowHeight = window.screen.availHeight - 200;
+let windowWidth = window.screen.availWidth - 100;
+
+let maxHeigth = windowHeight - 5;
+let maxWidth = windowWidth - 5;
+
+var canvas = document.getElementById("canvas"),
+ctx = canvas.getContext("2d");
+
+canvas.width = windowWidth;
+canvas.height = windowHeight;
+
+var x = 150,
+    y = 150,
+    velY = 0,
+    velX = 0,
+    speed = 2,
+    friction = 0.98,
+    keys = [];
+
+function update() {
+    requestAnimationFrame(update);
+
+    if (keys[38]) {
+        if (velY > -speed) {
+            velY--;
+        }
+    }
+
+    if (keys[40]) {
+        if (velY < speed) {
+            velY++;
+        }
+    }
+    if (keys[39]) {
+        if (velX < speed) {
+            velX++;
+        }
+    }
+    if (keys[37]) {
+        if (velX > -speed) {
+            velX--;
+        }
+    }
+
+    velY *= friction;
+    y += velY;
+    velX *= friction;
+    x += velX;
+
+    if (x >= maxWidth) {
+        x = maxWidth;
+    } else if (x <= 5) {
+        x = 5;
+    }
+
+    if (y > maxWidth) {
+        y = maxWidth;
+    } else if (y <= 5) {
+        y = 5;
+    }
+
+    ctx.clearRect(0, 0, windowWidth, windowHeight);
+    ctx.beginPath();
+    ctx.arc(x, y, 5, 0, Math.PI * 2);
+    ctx.fill();
+}
+
+update();
+
+document.body.addEventListener("keydown", function (e) {
+    keys[e.keyCode] = true;
+});
+document.body.addEventListener("keyup", function (e) {
+    keys[e.keyCode] = false;
+});
+</script>
+
+</body>
+</html>
