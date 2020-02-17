@@ -5,7 +5,7 @@ description: "Spotkanie (11.02.2020) programistów Ruby w Gliwicach. Trzy prezen
 excerpt: Pierwszy, w 2020 roku 🎉, SRUG w Gliwicach, czyli **najlepsze spotkanie programistów Ruby** 💻💎 na Śląsku. ⛏️
 header:
   og_image: /assets/articles/2020-02-05/og_image.png
-  teaser: /assets/images/srug/teaser.jpg
+  teaser: /assets/articles/2020-02-05/teaser.jpg
 lang: pl
 locale-ref: srug-1-2020
 locale: pl
