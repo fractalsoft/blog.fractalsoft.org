@@ -133,6 +133,28 @@ Poniżej prosta asercja (ang. assertion) w SQL-u:
 SELECT is( ultimate_answer(), 42, 'Meaning of Life' );
 ```
 
+<figure class='third'>
+  <a href='/assets/gallery/2020-02-11-srug/01-programisci-ruby-sluchaja-prezentacji.jpg'
+     title=''>
+    <img src='/assets/gallery/2020-02-11-srug/thumbs/01-programisci-ruby-sluchaja-prezentacji.jpg'
+         alt='Programiści Ruby słuchają o przydatnych technikach w PostgreSQL-u'>
+  </a>
+  <a href='/assets/gallery/2020-02-11-srug/02-sandbox-w-railsach.jpg'
+     title=''>
+    <img src='/assets/gallery/2020-02-11-srug/thumbs/02-sandbox-w-railsach.jpg'
+         alt='Omówienie jak uruchomić tryb Sandbox w Ruby on Rails'>
+  </a>
+  <a href='/assets/gallery/2020-02-11-srug/03-pgtap-do-testowania-postgresa.jpg'
+     title=''>
+    <img src='/assets/gallery/2020-02-11-srug/thumbs/03-pgtap-do-testowania-postgresa.jpg'
+         alt='Slajd z API do pgTAP, narzędzie do testowania bazy danych'>
+  </a>
+
+  <figcaption>
+    Przydatne techniki w pracy Postgresa i Ruby on Rails
+  </figcaption>
+</figure>
+
 
 #### Jeden cel, różne ścieżki - grafik i programista
 
@@ -148,6 +170,28 @@ I nie chodzi tu wcale o to, aby wszyscy stosowali metodyki Agile, ale o zdroworo
 Uważamy, że w określaniu wymagań aplikacji powinny uczestniczyć nie tylko osoby powiązane z biznesem, ale również osoby mocno techniczne, które będą w stanie pomóc biznesowi i zadać odpowiednie pytania.
 Wspomniano również o narzędziu Zeplin.io, które ma służyć do współpracy pomiędzy designerami a developerami.
 Poza tym jest wiele aplikacji pozwalających prototypować i tworzyć UI mockupy (Balsamiq, MockFlow, InVision czy open source'owy Pencil Project).
+
+<figure class='third'>
+  <a href='/assets/gallery/2020-02-11-srug/04-networking-na-srugu.jpg'
+     title=''>
+    <img src='/assets/gallery/2020-02-11-srug/thumbs/04-networking-na-srugu.jpg'
+         alt='W przerwie pomiędzy prezentacjami odbywa się networking'>
+  </a>
+  <a href='/assets/gallery/2020-02-11-srug/05-designer-vs-developer.jpg'
+     title=''>
+    <img src='/assets/gallery/2020-02-11-srug/thumbs/05-designer-vs-developer.jpg'
+         alt='Początek prezentacji Designer i Developer'>
+  </a>
+  <a href='/assets/gallery/2020-02-11-srug/06-narzedzie-zeplin.jpg'
+     title=''>
+    <img src='/assets/gallery/2020-02-11-srug/thumbs/06-narzedzie-zeplin.jpg'
+         alt='Slajd z narzędziem Zeplin'>
+  </a>
+
+  <figcaption>
+    Komunikacja między grafikami a programistami
+  </figcaption>
+</figure>
 
 
 #### Jak czuć pasję po kilku latach programowania?
@@ -171,3 +215,46 @@ Temat ten wywołał dyskusję, w którą włączali się doświadczeni programi�
 Prezentację można obejrzeć na stronie
 {% include common/friend-link.html name='womanonrails.com/presentations' url='https://womanonrails.com/presentations/' %},
 a link do artykułu w tym temacie podany został już <a href="#burnout">powyżej</a> w sekcji z tematami.
+
+<figure class='third'>
+  <a href='/assets/gallery/2020-02-11-srug/07-prezentacja-o-wypaleniu-zawodowym.jpg'
+     title=''>
+    <img src='/assets/gallery/2020-02-11-srug/thumbs/07-prezentacja-o-wypaleniu-zawodowym.jpg'
+         alt='Agnieszka rozpoczyna prezentację o wypaleniu zawodowym'>
+  </a>
+  <a href='/assets/gallery/2020-02-11-srug/08-co-to-jest-wypalenie.jpg'
+     title=''>
+    <img src='/assets/gallery/2020-02-11-srug/thumbs/08-co-to-jest-wypalenie.jpg'
+         alt='Omówienie czym jest wypalenie zawodowe'>
+  </a>
+  <a href='/assets/gallery/2020-02-11-srug/09-krzywa-stresu.jpg'
+     title=''>
+    <img src='/assets/gallery/2020-02-11-srug/thumbs/09-krzywa-stresu.jpg'
+         alt='Slajd z krzywą stresu'>
+  </a>
+  <a href='/assets/gallery/2020-02-11-srug/10-woman-on-rails.jpg'
+     title=''>
+    <img src='/assets/gallery/2020-02-11-srug/thumbs/10-woman-on-rails.jpg'
+         alt='Logo Agnieszki - Woman on Rails'>
+  </a>
+
+  <figcaption>
+    Co to jest i jak zapobiegać wypaleniu zawodowemu?
+  </figcaption>
+</figure>
+
+
+#### Networking
+
+{: .text-justify}
+Starym zwyczajem, po zakończeniu wszystkich prezentacji rozpoczął się upragniony networking.
+Każdy programista
+👨‍💻
+lub programistka
+👩‍💻,
+a w szczególności programiści Ruby potrafią docenić ten moment.
+Można na spokojnie wymieniać się doświadczeniami i zadać pytania prelegentom,
+jeśli wcześniej nie miało się na to odwagi lub pomysłu.
+Wszystkim, którzy byli na SRUG-u jeszcze raz dziękujemy i zapraszamy w imieniu całej społeczności Ruby w Gliwicach na kolejne spotkanie.
+
+{% include common/information.html %}
