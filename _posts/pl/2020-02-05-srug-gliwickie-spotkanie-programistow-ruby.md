@@ -203,7 +203,7 @@ Ostatnia prezentacja poruszyła wszystkich.
 Tuż przed rozpoczęciem kilku Ruby developerów z Gliwic i okolic zgłaszało się, że "to" mają.
 Oczywiście "To" nie oznaczało powieści Stephena Kinga,
 którą aktualnie kojarzyć można,
-przez adaptacją filmową,
+przez adaptacje filmową,
 z czerwonym balonikiem.
 🎈
 W tym przypadku programiści Ruby poprzez "to" mieli na myśli wypalenie zawodowe i jego symptomy.
