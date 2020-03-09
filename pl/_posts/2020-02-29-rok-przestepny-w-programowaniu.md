@@ -1,8 +1,19 @@
 ---
 author: torrocus
 category: programowanie
-description:
-excerpt: Jak policzyć czy dany rok jest przestępny czy nie? 📅
+description: "Krótka analiza o latach przestępnych. Programistyczne podejście do problemu dlaczego i który rok jest przestępny. 📅"
+excerpt: "Jak policzyć czy dany rok jest przestępny czy nie? 📅 Rozkładamy lata przestępne na czynniki pierwsze. Analizujemy ten temat programując. 💻"
+header:
+  actions:
+    - label: Społeczności wspierane przez Fractal Soft
+      url: 'https://fractalsoft.org/pl/spolecznosc'
+    - label: Naprawa laptopów w Cieszynie
+      url: 'https://fractalsoft.org/pl/cieszyn'
+  og_image: /assets/articles/2020-02-29/og_image.png
+  overlay_color: "#7eb9c1"
+  overlay_filter: rgba(0, 0, 0, 0.25)
+  overlay_image: /assets/articles/2020-02-29/header.svg
+  teaser: /assets/articles/2020-02-29/teaser.jpg
 lang: pl
 locale-ref: leap-year-programming
 locale: pl
