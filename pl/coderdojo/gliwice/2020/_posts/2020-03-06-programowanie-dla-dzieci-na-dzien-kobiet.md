@@ -86,7 +86,7 @@ Postanowiliśmy, że "chcemy wszystko".
 
 {: .text-justify}
 Zaczniemy od Dnia Kobiet.
-Programowanie z okazji Dnia Kobiet.
+**Programowanie z okazji Dnia Kobiet.**
 To brzmi całkiem nieźle.
 Pamiętajcie, że programowanie nie ma płci.
 Programowanie nie ma wieku.
@@ -95,7 +95,7 @@ Zajęcia będą dla wszystkich.
 Dla kobiet i dla mężczyzn.
 Dla chłopców i dla dziewczyn.
 Nieważne w jakim wieku jesteś.
-Przyjdź, zobacz, spróbuj, programuj i zostań z nami!
+Przyjdź, spróbuj, programuj i zostań z nami!
 
 
 ## Plany i cele
@@ -130,7 +130,9 @@ W skrócie, dużo GADA:
   📱
 + {: .text-justify} **A**gnieszka - pasjonatka matematyki i programowania.
   🤔
-  Pomaga dziewczynkom i kobietom wejść do świata IT.
+  Pomaga w programowaniu dziewczynkom
+  👧
+  oraz kobietom.
 + {: .text-justify} **D**arek - fan nauczania maszynowego i robotów.
   🤖
   W prosty sposób wytłumaczy najtrudniejsze zagadnienia.
