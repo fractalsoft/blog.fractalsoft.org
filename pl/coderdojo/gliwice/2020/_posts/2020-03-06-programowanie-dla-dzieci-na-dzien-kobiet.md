@@ -2,7 +2,7 @@
 author: torrocus
 category: coderdojo
 description: "Programowanie 💻 z okazji Dnia Kobiet dla wszystkich - CoderDojo Gliwice #12"
-excerpt: "W marcu jak w garncu. A w programowaniu jak w pogodzie, zawsze dużo zmiennych. Tym razem zmienne będziemy sumować. Zresztą sami zobaczycie. 😛"
+excerpt: "W marcu jak w garncu. A w programowaniu jak w pogodzie, zawsze dużo zmiennych. Tym razem te zmienne będziemy sumować. Zresztą sami zobaczycie. 😛"
 header:
   actions:
     - label: Dodatkowa nauka programowania - zapisy wkrótce
@@ -11,6 +11,7 @@ header:
   overlay_color: "#21564c"
   overlay_image: /assets/articles/2020-03-06/header.webp
   overlay_filter: rgba(0, 0.0, 0, 0.3)
+  teaser: /assets/articles/2020-03-06/teaser.jpg
 lang: pl
 locale-ref: coderdojo-gliwice-12
 locale: pl
@@ -99,11 +100,11 @@ Przyjdź, zobacz, spróbuj, programuj i zostań z nami!
 ## Plany i cele
 
 {: .text-justify}
-Nasze plany proste, ale ambitne.
+Nasze plany są proste, ale ambitne.
 Co będziemy robić:
-+ Udoskonalimy grę z poprzednich zajęć.
-+ Policzymy liczbę PI.
-+ Nauczymy się nowych rzeczy.
++ {: .text-justify} Udoskonalimy grę 🎮 z poprzednich zajęć. Tak, zgadza się. Będziemy programować gry, czyli to co część z Was lubi najbardziej. 🐯
++ {: .text-justify} Policzymy liczbę PI. 🧮 Pokażemy kilka różnych sposobów. Może π zafascynuje Was tak jak nas. 🤩
++ {: .text-justify} Nauczymy się nowych rzeczy. 🍱
 
 
 ## Przygotowanie do zajęć
