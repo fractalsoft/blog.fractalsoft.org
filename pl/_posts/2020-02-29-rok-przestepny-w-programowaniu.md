@@ -2,7 +2,7 @@
 author: torrocus
 category: programowanie
 description: "Krótka analiza o latach przestępnych. Programistyczne podejście do problemu dlaczego i który rok jest przestępny. 📅"
-excerpt: "Jak policzyć czy dany rok jest przestępny czy nie? 📅 Rozkładamy lata przestępne na czynniki pierwsze. Analizujemy ten temat programując. 💻"
+excerpt: "Jak policzyć czy dany **rok jest przestępny** czy nie? 📅 Rozkładamy **lata przestępne** na czynniki pierwsze. Analizujemy ten temat programując. 💻"
 header:
   actions:
     - label: Społeczności wspierane przez Fractal Soft

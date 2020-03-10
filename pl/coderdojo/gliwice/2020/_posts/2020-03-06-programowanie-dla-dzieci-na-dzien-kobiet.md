@@ -2,7 +2,7 @@
 author: torrocus
 category: coderdojo
 description: "Programowanie 💻 z okazji Dnia Kobiet dla wszystkich - CoderDojo Gliwice #12"
-excerpt: "W marcu jak w garncu. A w programowaniu jak w pogodzie, zawsze dużo zmiennych. Tym razem te zmienne będziemy sumować. Zresztą sami zobaczycie. 😛"
+excerpt: "W marcu jak w garncu. A **w programowaniu** jak w pogodzie, zawsze **dużo zmiennych**. Tym razem te zmienne będziemy sumować. Zresztą sami zobaczycie. 😛"
 header:
   actions:
     - label: Dodatkowa nauka programowania - zapisy wkrótce
