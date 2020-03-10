@@ -15,7 +15,8 @@ header:
 lang: pl
 locale-ref: coderdojo-gliwice-12
 locale: pl
-permalink: /pl/coderdojo/gliwice/2020/programowanie-dla-dzieci-na-dzien-kobiet/
+permalink: /pl/programowanie-dla-dzieci-na-dzien-kobiet/
+redirect_from: /pl/coderdojo/gliwice/2020/programowanie-dla-dzieci-na-dzien-kobiet/
 title: Dzień Kobiet z programowaniem - CoderDojo Gliwice - 2020-02
 toc: true
 toc_label: CoderDojo - 14.03.2020
