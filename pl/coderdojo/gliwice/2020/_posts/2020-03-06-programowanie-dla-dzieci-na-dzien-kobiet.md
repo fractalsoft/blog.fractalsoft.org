@@ -60,8 +60,8 @@ Dokładnie miesiąc po Walentynkach, 14 marca, w Japonii
 🇯🇵
 wypada święto o nazwie Biały Dzień.
 W kulturze japońskiej jest ono silnie powiązane z Walentynkami.
-W Japoni przyjęło się, że 14 lutego to mężczyźni wręczają słodycze kobietom.
-Za to właśnie w Biały Dzień kobiety odwdzięczają się mężczyznom.
+W Japoni przyjęło się, że 14 lutego to kobiety wręczają słodycze mężczyznom.
+Za to właśnie w Biały Dzień mężczyźni odwdzięczają się kobietom.
 🍭
 
 
@@ -102,9 +102,41 @@ Przyjdź, zobacz, spróbuj, programuj i zostań z nami!
 {: .text-justify}
 Nasze plany są proste, ale ambitne.
 Co będziemy robić:
-+ {: .text-justify} Udoskonalimy grę 🎮 z poprzednich zajęć. Tak, zgadza się. Będziemy programować gry, czyli to co część z Was lubi najbardziej. 🐯
-+ {: .text-justify} Policzymy liczbę PI. 🧮 Pokażemy kilka różnych sposobów. Może π zafascynuje Was tak jak nas. 🤩
-+ {: .text-justify} Nauczymy się nowych rzeczy. 🍱
++ {: .text-justify} Udoskonalimy grę
+  🎮
+  z poprzednich zajęć.
+  Tak, zgadza się.
+  Będziemy programować gry, czyli to co część z Was lubi najbardziej.
+  🐯
++ {: .text-justify} Policzymy liczbę PI.
+  🧮
+  Pokażemy kilka różnych sposobów.
+  Może π zafascynuje Was tak jak nas.
+  🤩
++ {: .text-justify} Nauczymy się nowych rzeczy.
+  🍱
+
+
+{: .text-justify}
+Zajęcia poprowadzą nasi kochani
+❤️
+mentorzy CoderDojo.
+Najlepsi z najlepszych.
+W skrócie, dużo GADA:
++ {: .text-justify} **G**rzesiek - miłośnik i znawca gier.
+  👾
+  Przygotowuje dla świata małą, mobilną niespodziankę.
+  📱
++ {: .text-justify} **A**gnieszka - pasjonatka matematyki i programowania.
+  🤔
+  Pomaga dziewczynkom i kobietom wejść do świata IT.
++ {: .text-justify} **D**arek - fan nauczania maszynowego i robotów.
+  🤖
+  W prosty sposób wytłumaczy najtrudniejsze zagadnienia.
++ {: .text-justify} **A**lek - koneser algorytmów i przyjaciel Linuksa.
+  🐧
+  Niedługo rusza z kursem dla młodych programistów i programistek ninja.
+  ⚔️
 
 
 ## Przygotowanie do zajęć
