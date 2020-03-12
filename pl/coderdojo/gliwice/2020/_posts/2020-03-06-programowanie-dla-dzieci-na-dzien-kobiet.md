@@ -187,10 +187,10 @@ BTW. Niektórzy z nas są.
 👴
 Ale uwierzcie nam, robimy to z wielkim smutkiem, ponieważ mamy wiele fajnych pomysłów w naszych głowach i chcemy je z Wami realizować.
 Zapewne wiecie, że wirus znany pod nazwą **koronawirus**
-👑
 (skrót **SARS-CoV-2**) panoszy się po świecie i wywołuje chorobę **COVID-19**.
 Niestety nie ma jeszcze antywirusa.
 Nawiązując do niektórych programów antywirusowych, czekamy, aż _baza wirusów zostanie zaktualizowana_.
+🦠
 
 
 ### Linki
