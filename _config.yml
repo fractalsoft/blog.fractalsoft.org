@@ -37,7 +37,7 @@ logo: /assets/images/fractalsoft/blog-44x44.png
 masthead_title: Technical blog by Fractal Soft
 minimal_mistakes_skin: contrast
 og_image: /assets/images/fractalsoft/blog-144x144.png
-paginate: 15
+paginate: 16
 paginate_path: /page:num/
 search: true
 teaser: /assets/images/fractalsoft/blog-222x120.svg
