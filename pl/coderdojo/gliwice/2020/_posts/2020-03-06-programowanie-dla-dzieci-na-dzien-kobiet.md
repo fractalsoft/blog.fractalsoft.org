@@ -192,6 +192,12 @@ Niestety nie ma jeszcze antywirusa.
 Nawiązując do niektórych programów antywirusowych, czekamy, aż _baza wirusów zostanie zaktualizowana_.
 🦠
 
+{% include common/lazy-image.html
+   alt='Wizualizacja koronawirusa SARS-CoV-2'
+   classes='align-center'
+   url='/assets/articles/2020-03-06/koronawirus.webp'
+%}
+
 
 ### Linki
 
