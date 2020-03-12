@@ -13,6 +13,7 @@ header:
   overlay_filter: rgba(0, 0.0, 0, 0.3)
   teaser: /assets/articles/2020-03-06/teaser.jpg
 lang: pl
+last_modified_at: 12.03.2020
 locale-ref: coderdojo-gliwice-12
 locale: pl
 permalink: /pl/programowanie-dla-dzieci-na-dzien-kobiet/
@@ -156,7 +157,75 @@ Polecamy dowolny edytor z poniższych:
 
 ----
 
-{% include common/coderdojo--footer.html date='14.03.2020' %}
+{: .text-justify}
+Podobają Wam się nasze programistyczne plany?
+Mamy nadzieję, że tak.
+Nie bójcie się wyrażać swoich opinii zarówno poniżej w komentarzach jak i w social mediach.
+Jeżeli macie własne propozycje tematów to również piszcie.
+Chcemy aby CoderDojo w Gliwicach było najlepszym dojo w Polsce.
+
+## Informacje organizacyjne
+
+{: .text-justify}
+Jeśli macie jakieś pytania organizacyjne to przeczytajcie proszę dział [FAQ - często zadawane pytania]({{site.url}}/pl/coderdojo/faq/).
+
+### Czas zajęć ⏰
+~~_14.03.2020 (sobota) od 09:00 do 12:00_~~
+**Uwaga! Zajęcia są odwołane!**
+
+### Miejsce zajęć 🏢
+{% include common/coderdojo--workshops-place.html %}
+
+## Odwołane zajęcia
+
+{: .text-justify}
+Większość z Was na pewno się domyśla, ale i tak należy się Wam słowo wyjaśnienia.
+Musieliśmy odwołać zajęcia CoderDojo ze względu na Wasze bezpieczeństwo.
+Dodamy, że zajęcia są odwołane nie tylko w Gliwicach, ale w całej Polsce.
+Zapewne powiedzie "OK, boomer" i pomyślicie, że jesteśmy starzy.
+BTW. Niektórzy z nas są.
+👴
+Ale uwierzcie nam, robimy to z wielkim smutkiem, ponieważ mamy wiele fajnych pomysłów w naszych głowach i chcemy je z Wami realizować.
+Zapewne wiecie, że wirus znany pod nazwą **koronawirus**
+👑
+(skrót **SARS-CoV-2**) panoszy się po świecie i wywołuje chorobę **COVID-19**.
+Niestety nie ma jeszcze antywirusa.
+Nawiązując do niektórych programów antywirusowych, czekamy, aż _baza wirusów zostanie zaktualizowana_.
+🦠
+
+
+### Linki
+
+{: .text-justify}
+W ramach rozrywki możecie powalczyć z wirusami w
+{% include common/foreign-link.html
+   name='grze Virus Attack'
+   url='https://showcase.codethislab.com/games/virus_attack/'
+%}.
+Można też wczuć się w wirusa w grze mobilnej
+{% include common/foreign-link.html
+   name='Plague Inc'
+   url='https://play.google.com/store/apps/details?id=com.miniclip.plagueinc'
+%}.
+My oczywiście zachęcamy, abyście sami spróbowali stworzyć podobne gry w ramach wolnego czasu.
+Jeśli chcecie się czegoś nowego nauczyć to możecie spróbować platformy Tynker.
+Przykładowo w
+{% include common/foreign-link.html
+   name='Counter Hack'
+   url='https://www.tynker.com/nb/project/582610b0af9231ea0b8b4ee7/'
+%}
+wykorzystano wirusa biogennego.
+Za to w tematyce liczby **π** jest Pi Day Art, gdzie możemy poćwiczyć naukę
+{% include common/foreign-link.html
+   name='JavaScript'
+   url='https://www.tynker.com/code/project/5c79b59b0460580d6103da48'
+%}
+lub
+{% include common/foreign-link.html
+   name='Pythona'
+   url='https://www.tynker.com/code/project/5c79a9d804605876f367e8e9'
+%}.
+Jeśli znacie inne linki to możecie się nimi podzielić w komentarzach.
 
 ----
 
