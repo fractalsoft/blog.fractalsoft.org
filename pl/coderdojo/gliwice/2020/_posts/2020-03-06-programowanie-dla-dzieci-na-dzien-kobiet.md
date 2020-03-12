@@ -184,7 +184,6 @@ Musieliśmy odwołać zajęcia CoderDojo ze względu na Wasze bezpieczeństwo.
 Dodamy, że zajęcia są odwołane nie tylko w Gliwicach, ale w całej Polsce.
 Zapewne powiedzie "OK, boomer" i pomyślicie, że jesteśmy starzy.
 BTW. Niektórzy z nas są.
-👴
 Ale uwierzcie nam, robimy to z wielkim smutkiem, ponieważ mamy wiele fajnych pomysłów w naszych głowach i chcemy je z Wami realizować.
 Zapewne wiecie, że wirus znany pod nazwą **koronawirus**
 👑
