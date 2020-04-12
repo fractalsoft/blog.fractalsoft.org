@@ -80,7 +80,7 @@ Poniżej rysunek wajca (w wersji tekstowej), czyli naszego jajka, a właściwie 
 Żeby lepiej zobrazować proces malowania naszej pisanki zamieszczamy zdjęcie.
 Ach ta radość na twarzy.
 
-![Malowanie jajek wielkanocnych](/assets/articles/2020-04-11/malowanie-pisanek.webp)
+![Malowanie jajek wielkanocnych](/assets/articles/2020-04-11/malowanie-pisanek.jpg)
 
 
 ### Świąteczny hazok
@@ -106,7 +106,7 @@ Rysowanie hazoka (zająca) też nie jest proste.
 W czasach korona wirusa nawet zając musi się zabezpieczać.
 🐰
 
-![Wielkanocny zajączek w maseczce podczas pandamii korona wirusa](/assets/articles/2020-04-11/zajac-podczas-pandemi.webp)
+![Wielkanocny zajączek w maseczce podczas pandamii korona wirusa](/assets/articles/2020-04-11/zajac-podczas-pandemi.jpg)
 
 
 ### Wielkanocna hybryda
@@ -114,7 +114,7 @@ W czasach korona wirusa nawet zając musi się zabezpieczać.
 {: .text-justify}
 A tak wygląda jajko-zając lub jak kto woli hazo-wajca, czyli połączenie zająca z jajkiem.
 
-![Jajko-zając](/assets/articles/2020-04-11/jajko-zajac.webp)
+![Jajko-zając](/assets/articles/2020-04-11/jajko-zajac.jpg)
 
 
 ----
