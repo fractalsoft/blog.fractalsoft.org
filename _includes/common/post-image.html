@@ -1,0 +1,5 @@
+<picture>
+  <source srcset='{{ include.image_name }}.webp' type='image/webp'>
+  <source srcset='{{ include.image_name }}.jpg' type='image/jpeg'>
+  <img src='{{ include.image_name }}.jpg' alt='{{ include.alt }}' loading='lazy'>
+</picture>
