@@ -4,8 +4,8 @@ category: community
 description: "NoRuKo - mini-konferencja online programistów Ruby. Bez opłat, bez biletów, online."
 excerpt: NoRuKo - mini-konferencja online dla **programistów Ruby** 💻💎
 header:
-  og_image: /assets/articles/2020-08-20/og_image.png
-  teaser: /assets/articles/2020-08-20/teaser.png
+  og_image: /assets/images/noruko/og_image.png
+  teaser: /assets/images/noruko/teaser.png
 lang: pl
 locale-ref: noruko-2020
 locale: pl
