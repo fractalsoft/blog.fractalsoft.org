@@ -43,7 +43,8 @@ Jeśli jesteś bardzo leniwy to poniżej masz bezpośrednie linki do ścieżek:
 Poniżej lista tematów na dwóch ścieżkach konferencji.
 
 ### Główna ścieżka
-+ {: .text-justify} _Ruby3 and beyond_ -- Yukihiro Matsumoto
++ {: .text-justify} _Ruby3 and beyond_ --
+  Matz (Yukihiro Matsumoto) zapowiedział, że Ruby 3.0 zostanie wypuszczone 25.12.2020.
 + {: .text-justify} _Building Rubyfmt_ -- Penelope Phippen
 + {: .text-justify} _Ruby + OpenGL = infinite abilities_ -- Tetiana Chupryna
 + {: .text-justify} _Git is about communication_ -- Tom de Bruijn
