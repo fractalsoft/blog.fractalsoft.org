@@ -46,7 +46,8 @@ Poniżej lista tematów na dwóch ścieżkach konferencji.
 + {: .text-justify} _Ruby3 and beyond_ --
   Matz (Yukihiro Matsumoto) zapowiedział, że Ruby 3.0 zostanie wypuszczone 25.12.2020.
 + {: .text-justify} _Building Rubyfmt_ -- Penelope Phippen
-+ {: .text-justify} _Ruby + OpenGL = infinite abilities_ -- Tetiana Chupryna
++ {: .text-justify} _Ruby + OpenGL = infinite abilities_ --
+  Tetiana Chupryna robi live coding korzystając z OpenGL i używając składni Ruby.
 + {: .text-justify} _Git is about communication_ -- Tom de Bruijn
 + {: .text-justify} _Everything is 🔥fine🔥_ -- Allison McMillan
 + {: .text-justify} _Sleeping on the job_ -- Julik Tarkhanov & Kir Shatrov
