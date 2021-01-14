@@ -55,6 +55,17 @@ torrocus:
   picture: *avatar
   # twitter: torrocus
 
+ania:
+  name: Ania Bargieł
+  avatar: &avatar https://www.gravatar.com/avatar/94b2f0c42c3e84429770e474ea7e5dee?s=110&d=robohash
+  bio:
+  links:
+    - label: Adept programowania
+      icon: 'fas fa-fw fa-link'
+      rel: ''
+      url: https://fractalsoft.org/pl/zespol
+  picture: *avatar
+
 team:
   name: Fractal Soft Team
   avatar: /assets/images/fractalsoft/blog.svg
