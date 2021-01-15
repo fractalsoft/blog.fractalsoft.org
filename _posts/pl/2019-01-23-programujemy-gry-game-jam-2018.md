@@ -357,7 +357,7 @@ można poszukać dodatkowych informacji.
 Nazwa gry nawiązuje do sytuacji, w której osoba słuchająca nie dosłyszała czegoś i odruchowo zapytała ze zdziwieniem "Co?".
 Zasady tej gry są trochę podobne do [zabawy w kryptografię]({{site.url}}/coderdojo/2019/01/coderdojo-gliwice/#szyfry-od-podstaw---zakoduj-się-z-nami), ale bez liter alfabetu, a używając tylko figur geometrycznych i czarno-białych kolorów.
 Każda z animowanych postaci wprowadza unikalne zmiany w treści wiadomości.
-Użycie figur zamiast liter sprawia, że w grę można zagrać niezależnie wieku gracza i znajomości języka.
+Użycie figur zamiast liter sprawia, że w grę można zagrać niezależnie od wieku gracza i znajomości języka.
 Niestety nie znaleźliśmy strony źródłowej, ale nagraliśmy krótki filmik podczas gry.
 
 <figure class='half'>

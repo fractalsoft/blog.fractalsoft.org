@@ -188,8 +188,8 @@ _Cicha noc_ jest jedną z najstarszych oraz najpopularniejszych kolęd.
 ### Kalendarze świąteczne
 
 {: .text-justify}
-W natłoku zadań i obowiązków, szczególnie przed Świętami, może się zdążyć, że zapomnimy o jakiejś ważnej sprawie.
-Dlatego aby tego uniknąć dobrym pomysłem jest przygotować sobie świąteczną listę.
+W natłoku zadań i obowiązków, szczególnie przed Świętami, może się zdarzyć, że zapomnimy o jakiejś ważnej sprawie.
+Dlatego aby tego uniknąć dobrym pomysłem jest przygotowanie sobie świątecznej listy.
 Zapisanie wszystkiego w punktach to podstawa dobrej organizacji.
 Na ten pomysł wpadło dwóch ninja.
 Każdy z nich stworzył w HTML-u kalendarz świąteczny z listą spraw do załatwienia.

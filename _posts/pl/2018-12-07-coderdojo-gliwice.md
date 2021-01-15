@@ -23,8 +23,8 @@ Spodziewajcie się niespodziewanego.
 
 {: .text-justify}
 Słyszeliśmy, że na poprzednich zajęciach bardzo Wam się podobało.
-Cieszy to nas i motywuje ogromnie.
-Pamiętajcie, że zajęcia {% include common/coderdojo--colorful-text.html %} mają Was uczyć i bawić i że technologia jest tylko narzędziem.
+Cieszy nas to i motywuje ogromnie.
+Pamiętajcie, że zajęcia {% include common/coderdojo--colorful-text.html %} mają Was uczyć i bawić, i że technologia jest tylko narzędziem.
 
 {: .text-justify}
 Przypominamy o [zasadach CoderDojo Gliwice]({{site.url}}/coderdojo/2018/11/coderdojo-gliwice/#zasady-coderdojo-gliwice).
@@ -184,7 +184,7 @@ Serdecznie zapraszamy do wzięcia udziału!
 _Motywy świąteczne w programowaniu_
 
 Wykonanie zależy od Was.
-Może być to program śpiewający kolędy, grafika lub animacja świąteczna lub gra o tematyce świątecznej.
+Może być to program śpiewający kolędy, grafika, animacja świąteczna lub gra o tematyce świątecznej.
 Co tylko Wam się wymarzy.
 
 ### Lista nagród

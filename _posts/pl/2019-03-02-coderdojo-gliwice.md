@@ -41,7 +41,7 @@ Małe podsumowanie poprzednich zajęć z programowania dla dzieci oraz zdjęcia 
 + {: .text-justify} programowanie bez komputera
 
 {: .text-justify}
-Jakby co, tematy tych zajęć opisaliśmy w artykule [CoderDojo Gliwice - 2019-02]({{site.url}}/coderdojo/2019/02/coderdojo-gliwice/).
+Tematy tych zajęć opisaliśmy w artykule [CoderDojo Gliwice - 2019-02]({{site.url}}/coderdojo/2019/02/coderdojo-gliwice/).
 
 {% include gallery/coderdojo-4.html %}
 
@@ -63,7 +63,7 @@ Na ostatnich zajęciach z szyfrowania mieliście okazję poznać podstawy krypto
 Okazało się, że niektóre metody szyfrowania były tak skomplikowane, że nie dało się ich jednoznacznie odszyfrować.
 Ale dzięki temu nauczyliście się jak działa **kryptoanaliza statystyczna**.
 Wykorzystaliście częstotliwość występowania liter w języku polskim do znalezienia kluczy w szyfrach podstawieniowych.
-Użyliście również metod słownikowych dla jedno-znakowych i dwu-znakowych wyrazów.
+Użyliście również metod słownikowych dla jednoznakowych i dwuznakowych wyrazów.
 Oto kod źródłowy w Ruby przydatny do kryptoanalizy statystycznej:
 ```ruby
 # Przykładowa zaszyfrowana wiadomość

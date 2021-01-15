@@ -49,7 +49,7 @@ Prawie dwieście lat temu zbudował prosty algorytm, który pozwala określić d
    - _k_ równe jest 24,
    - _l_ równe jest 5.
 3. {: .text-justify} Wykonać wzór `19*a + k`, a sumę podzielić modulo przez 30 i wynik nazwać _d_.
-4. {: .text-justify} Wykonać wzór `2*b + 4*c + 6*d + l`, a sumę podzielić modulo przez  i wynik nazwać _e_.
+4. {: .text-justify} Wykonać wzór `2*b + 4*c + 6*d + l`, a sumę podzielić modulo przez 7 i wynik nazwać _e_.
 5. {: .text-justify} Teraz do daty 22 marca należy dodać wyniki z punktu 3 i 4, czyli `d + e`.
 
 {: .text-justify}

@@ -50,14 +50,13 @@ Chcemy jednak wskazać jak wiele czasu marnujemy, zupełnie niepotrzebnie, na r�
 {: .text-justify}
 Jako firma IT zawsze wspieramy nowe technologie.
 Lubimy korzystać z różnych aplikacji, również social media.
-Jednak zdajemy sobie sprawę, że często aplikacje, które miały nam zaoszczędzić zabierają go nam najwięcej.
-Podobnie sprawa się ma ze sprzętem.
-Dajemy się ponieść modzie.
+Jednak zdajemy sobie sprawę, że często aplikacje, które miały nam czas zaoszczędzić zabierają go najwięcej.
+Podobnie sprawa ma się ze sprzętem, dajemy się ponieść modzie.
 Nakręcamy spiralę konsumpcjonizmu.
 Łatwiej nam kupić nową elektronikę niż ją naprawić.
 Dlatego apelujemy: nie wyrzucaj sprzętu elektronicznego tylko dlatego, że nie działa.
 Przynieś go do nas do [serwisu komputerowego](https://fractalsoft.org/pl/cieszyn) przy Studni Trzech Braci.
-Naprawimy go, a potem zrobisz z nim co chcesz.
+Naprawimy go, a potem zrobisz z nim co zechcesz.
 Będziesz go dalej używać albo dasz go komuś kto go potrzebuje (rodzinie, przyjaciołom).
 
 {: .text-justify}
@@ -108,8 +107,8 @@ Są one podwójnie wyjątkowe, ponieważ nawiązują do naszego logo firmy i prz
 Drodzy czytelnicy!
 Cieszymy się, że kolejny rok jesteście z nami.
 Wiemy, że są pośród Was zarówno
-nasi przyjaciele, ale także konkurencji,
-nasi klienci oraz dostawcy, zleceniodawcy, współpracownicy,
+nasi przyjaciele, ale także konkurencja,
+nasi klienci oraz współpracownicy, dostawcy, zleceniodawcy
 oraz wszyscy, którzy w większym lub mniejszym stopniu czują się z nami związani.
 Jesteśmy dumni, że możemy dla Was coś robić.
 Zawsze jesteśmy otwarci na nowe pomysły, chętnie pomagamy i współpracujemy.
@@ -119,8 +118,8 @@ Głęboko wierzymy w synergię i wzajemne uczenie się od siebie nawzajem.
 {: .text-justify}
 Z okazji Świąt Bożego Narodzenia życzymy Wam dobrej organizacji czasu.
 Tego czasu, którego zawsze brakuje.
-Magicznego, świątecznego czasu z rodziną i przyjaciółmi.
-Z dala od pracy, pośpiechu i gonienia za tym co nieistotne.
+Magicznego, świątecznego czasu z rodziną i przyjaciółmi,
+z dala od pracy, pośpiechu i gonienia za tym co nieistotne.
 Niech te Święta pozwolą Wam zwolnić i odpocząć.
 Pozwólcie sobie na więcej spokoju, radości, uśmiechu i miłości.
 

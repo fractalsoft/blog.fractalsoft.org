@@ -35,7 +35,7 @@ I po czwarte Dzień Świętego Patryka.
 ## Koncepcje na CoderDojo
 
 Każdy z powyższych dni jest ważny.
-Jeśli nie wiecie dlaczego przeczytajcie krótkie waśnienie poniżej.
+Jeśli nie wiecie dlaczego przeczytajcie krótkie wyjaśnienie poniżej.
 
 
 ### Dzień Kobiet 🌹
@@ -62,7 +62,7 @@ Dokładnie miesiąc po Walentynkach, 14 marca, w Japonii
 🇯🇵
 wypada święto o nazwie Biały Dzień.
 W kulturze japońskiej jest ono silnie powiązane z Walentynkami.
-W Japoni przyjęło się, że 14 lutego to kobiety wręczają słodycze mężczyznom.
+W Japonii przyjęło się, że 14 lutego to kobiety wręczają słodycze mężczyznom.
 Za to właśnie w Biały Dzień mężczyźni odwdzięczają się kobietom.
 🍭
 

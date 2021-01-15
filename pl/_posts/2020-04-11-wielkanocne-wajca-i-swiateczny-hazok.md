@@ -28,7 +28,7 @@ Jak pokazały ostatnie tygodnie w czasach pandemii COVID-19 prawie wszystko moż
 Nawet papier toaletowy, maseczki oraz drożdże.
 Jednak zdrowie to coś co jest bezcenne.
 Nie kupicie tego w żadnym sklepie.
-Dlatego jeśli mamy wybierać spośród wielu różnych życzeń to nie życzymy Wam nic oprócz tego, abyście żyli w zdrowiu.
+Dlatego jeśli mamy wybierać spośród wielu różnych życzeń to życzymy Wam, abyście żyli w zdrowiu.
 A reszta się sama jakoś ułoży.
 
 {: .text-justify}

@@ -47,7 +47,7 @@ My używamy wielu edytorów, więc wiele możemy polecić:
 + {% include common/foreign-link.html name='Brackets' url='http://brackets.io/' %}
 
 {: .text-justify}
-Jeśli macie już swój ulubiony edytor to nie zmieniajcie go,
+Jeśli macie już swój ulubiony edytor to go nie zmieniajcie
 ponieważ łatwiej będzie się Wam programowało w środowisku które znacie.
 Aby było bardziej walentynkowo możecie ustawić kolorystykę Waszego edytora na różowo lub czerwono.
 😂

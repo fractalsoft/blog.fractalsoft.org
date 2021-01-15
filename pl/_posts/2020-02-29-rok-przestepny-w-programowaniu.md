@@ -22,7 +22,7 @@ title: Rok przestępny w programowaniu
 ---
 
 {: .text-justify}
-**29 luty** pojawia się raz kilka lat.
+**29 luty** pojawia się raz na kilka lat.
 Data ta jest związana z rokiem przestępnym.
 Dla uproszczenia często przyjmujemy, że dzień 29-tego lutego występuje co 4 lata.
 Jest to bardzo duże uproszczenie, ale aby to zrozumieć musimy sięgnąć do astronomii.
@@ -56,7 +56,7 @@ Rok zwrotnikowy zwany jest również rokiem słonecznym i wyznacza cykl zmian p�
 Chodzi o to, że gdy Słońce przechodzi (z naszej perspektywy) przez punkt Barana zaczynamy liczyć astronomiczną wiosnę.
 Mierząc czas pomiędzy różnymi punktami otrzymamy różne wartości.
 Jeśli jako punkt startowy wybierzemy równonoc wiosenną to możemy policzyć rok równonocy wiosennej.
-Analogicznie obserwacje możemy poczynić z przesileniem letnim, równonocą jesienną oraz przesileniem zimowym.
+Analogiczne obserwacje możemy poczynić z przesileniem letnim, równonocą jesienną oraz przesileniem zimowym.
 Licząc średnią z tych czterech punktów otrzymamy średni rok zwrotnikowy.
 Dodatkowo rok zwrotnikowy jest krótszy od roku gwiazdowego.
 W dużym przybliżeniu średnia długość roku zwrotnikowego wynosi **365.2422** dni (ET).
@@ -64,7 +64,7 @@ Wartość ta była znana już kilkadziesiąt lat temu i wciąż z powodzeniem j�
 Musimy jeszcze wyjaśnić kilka pojęć.
 
 {: .text-justify}
-**Efemeryalny dzień** (ang. ephemeris day) to uśredniona długość doby w układzie SI (fr. Système international d'unités).
+**Efemerydalny dzień** (ang. ephemeris day) to uśredniona długość doby w układzie SI (fr. Système international d'unités).
 Przyjmuje się, że doba w układzie SI trwa 86400 sekund.
 Każda doba trwa 24 godziny.
 Każda godzina trwa 60 minut.
@@ -75,7 +75,7 @@ Obliczenia są więc trywialne.
 ```
 
 {: .text-justify}
-Jeśli weźmiemy podaną wcześniej średnią długość roku zwrotnikowego to możemy wyliczyć ile sekund (w dużym przybliżeniu) trwa rok zwrotnikowy.
+Jeśli weźmiemy podaną wcześniej średnią długość roku zwrotnikowego to możemy policzyć ile sekund (w dużym przybliżeniu) trwa rok zwrotnikowy.
 ```ruby
 > mean_tropical_year = 365.2422 * 24 * 60 * 60
  => 31556926.079999994
@@ -85,7 +85,7 @@ Jeśli weźmiemy podaną wcześniej średnią długość roku zwrotnikowego to m
 **Rok gwiazdowy** jest to rok liczony względem gwiazd.
 Aby wyliczyć rok gwiazdowy wymagany jest obserwator na Ziemi.
 Bierze się pod uwagę dwa kolejne przejścia Słońca na tle tych samych gwiazd.
-Ze względu na to, ze na naszą planetę oddziałują różne inne ciała niebieskie to rok ten ulega zmianom.
+Ze względu na to, że na naszą planetę oddziałują różne inne ciała niebieskie to rok ten ulega zmianom.
 W chwili J2000 długość roku gwiazdowego wynosi **365.256 363 004** dni słonecznych, czyli 365 dni 6 godzin 9 minut 9.76 sekundy.
 
 {: .text-justify}
@@ -109,7 +109,7 @@ Jest to epoka juliańska, której zapis dat juliańskich używany jest często w
 
 {: .text-justify}
 **Czas Efemeryd** (ang. Ephemeris Time, w skrócie ET) jest to standard czasu niezależny od położenia obserwatora.
-Oblicza się go przy pomocy mechaniki nieba na podstawie obserwacji położeń ciał niebieskich (planety i księżyc) względem siebie.
+Oblicza się go przy pomocy mechaniki nieba na podstawie obserwacji położeń ciał niebieskich (planety i księżyca) względem siebie.
 Jedną z odmian czasu efemeryd jest TT.
 
 {: .text-justify}
@@ -191,7 +191,7 @@ leap_year_error(mean_tropical_year: 365.2422)
 {: .text-justify}
 Widać, że po 132 latach pojawi się kolejny dodatkowy dzień, którego kalendarz juliański nie uwzględnił.
 Problem ten częściowo rozwiązuje kalendarz gregoriański.
-Otóż papież Grzegorz XIII w 1582 roku wprowadza zmienia kalendarz juliański.
+Otóż papież Grzegorz XIII w 1582 roku zmienia kalendarz juliański.
 Eliminuje on z lat przestępnych te, które wypadają na koniec wieku.
 Jednak zostawia te, których liczba stuleci podzielna jest przez 4.
 

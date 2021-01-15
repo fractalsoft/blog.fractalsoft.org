@@ -20,7 +20,7 @@ Gliwickie spotkania
 (Śląskiej Grupy Użytkowników języka Ruby) zawsze obfitowały w różnorodność tematów.
 Od tematów bezpośrednio dotyczących **programistów Ruby** i **frameworku Ruby on Rails**,
 aż po tematy miękkie i mniej techniczne.
-Niezależnie od czasów, tematów i miejsca zawsze to było, jest i będzie darmowe spotkanie pasjonatów języka Ruby.
+Niezależnie od czasów, tematów i miejsca zawsze było to, jest i będzie darmowe spotkanie pasjonatów języka Ruby.
 
 ![Logo SRUG - Silesian Ruby Users Group]({{site.url}}/assets/images/srug/srug-logo.png){: .align-center}
 

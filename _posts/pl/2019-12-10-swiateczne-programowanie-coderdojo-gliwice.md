@@ -130,7 +130,7 @@ Taki program ma tylko 59 znaków w języku Ruby.
 
 {: .text-justify}
 W kolejnych iteracjach rozwijaliśmy ten najprostszy program do generowania choinki.
-Dodawaliśmy ozdobne łańcuchy, bombki różnego rodzaju i inne zdobienia.
+Dodawaliśmy ozdobne łańcuchy, różnego rodzaju bombki i inne zdobienia.
 Świąteczne programowanie pełną parą.
 
 {: .text-justify}
@@ -161,8 +161,7 @@ end
 
 {: .text-justify}
 A oto efekt uruchomienia.
-Jest jeszcze bardziej świątecznie.
-Oraz tym bardziej programistycznie.
+Jest jeszcze bardziej świątecznie oraz tym bardziej programistycznie.
 Takie nasze świąteczne programowanie.
 
 ```bash

@@ -33,7 +33,7 @@ Szczegóły spotkania dostępne na oficjalnej stronie
 
 {: .text-justify}
 + _How a well-written pull request can help your team to review your code?_ - prezentacja o tym **jak dobrze pisać pull requesty**, aby ułatwić pracę naszemu zespołowi.
-+ _Gathering data from Jira using webhook consumer_ - prezentacja dot. **webooków do Jiry**.
++ _Gathering data from Jira using webhook consumer_ - prezentacja dot. **webhooków do Jiry**.
 + _I don't always make SPAs, but when I do, I prefer Rails Way™_ - prelekcja o tym, że **dodawanie do naszej aplikacji kolejnych technologii nie jest konieczne** i lepiej tego nie robić.
 
 

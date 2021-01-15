@@ -31,7 +31,7 @@ Przygotujcie się, bo zajęcia
 {% include common/coderdojo--colorful-text.html %}
 w Gliwicach zapowiadają się naprawdę ciekawie.
 Oczywiście nie zostaniecie z tym wszystkim sami.
-Jesteśmy tu po to, aby Was uczyć myśleć jak programiści.
+Jesteśmy tu po to, aby uczyć Was myśleć jak programiści.
 🧠
 
 ## Poprzednie CoderDojo

@@ -118,7 +118,7 @@ Potrzebuje tylko mentora, który się z nim tą wiedzą podzieli.
 A wiedza jest przecież dla wszystkich.
 Zachęcamy, żeby rodzice inspirowali swoje dzieci do działania oraz podsuwali im narzędzia i programy, które to umożliwiają.
 Aby pozwalali im eksperymentować.
-Próbowanie oraz nauka poprzez błędy jest szczególnie ważne w całej branży IT, nie tylko w programowaniu.
+Próbowanie oraz nauka poprzez błędy jest szczególnie ważna w całej branży IT, nie tylko w programowaniu.
 
 {: .text-justify}
 Podczas __SuperDojo__ my również zdobywaliśmy nową wiedzę.

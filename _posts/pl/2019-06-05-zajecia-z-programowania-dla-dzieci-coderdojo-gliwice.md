@@ -166,7 +166,7 @@ Mentorami będą:
 
 {: .text-justify}
 Zresztą nie trzeba ich przedstawiać.
-No chyba, że nie byliście na wcześniejszych CoderDojo, to wtedy ich nie znacie.
+No chyba, że nie byliście na wcześniejszych CoderDojo, to jeszcze ich nie znacie.
 Ej pozdro!
 Kumają kumaci.
 
