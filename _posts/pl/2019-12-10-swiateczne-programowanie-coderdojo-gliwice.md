@@ -1,5 +1,5 @@
 ---
-author: torrocus
+author: womanonrails
 category: coderdojo
 description: "Programowanie świątecznej choinki dla dzieci i młodzieży - CoderDojo Gliwice #9"
 excerpt: "Wkrótce Święta, a my będziemy się przygotowywać do Świąt jak **prawdziwi programiści**. Zaprogramujemy własną choinkę. 🎄"
@@ -263,6 +263,72 @@ Pień zbudowany został ze słoni stojących na żółwiach.
 🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢
 ```
 
+{: .text-justify}
+Co więcej powyższą choinkę zaprogramowaliśmy jako prostą animację.
+Oto kod źródłowy (nie jest piękny, ale tu chodzi o dobrą zabawę):
+
+```ruby
+LEAF   = '🎄'
+BOMB   = '💣'
+CANDY  = '🍬'
+STAR   = '⭐'
+HEART  = '❤️'
+ROOT   = '🐘'
+GIFT   = '🎁'
+BOW    = '🎀'
+GROUND = '🐢'
+CAT = '🐈'
+BULB = '💡'
+POPPER = '🎉'
+FLASHES = '✨'
+
+class String
+  def center_emoji(width)
+    space = ' '*((width - self.size * 2) / 2)
+    space + self
+  end
+
+  def random_replace(characters)
+    random_position = rand(self.size)
+    self[random_position] = characters.sample
+    self
+  end
+end
+
+height = 20
+index = 1
+direction = +1
+
+100.times do
+  print "\e[2J\e[f" # clear screen
+
+  puts STAR.center_emoji(80 + index)
+
+  [2..4, 3..8, 6..12].each do |range|
+    range.each do |level|
+      width = level
+      line = (LEAF*width)
+      rand(level / 2 + 1).times do
+        line.random_replace(
+          [BOMB, CANDY, GIFT, BOW, CAT, BULB, FLASHES]
+        )
+      end
+      puts line.center_emoji(80 + index)
+    end
+  end
+
+  ([3]*2).each do |level|
+    puts (ROOT*level).center_emoji(80 + index)
+  end
+
+  puts GROUND*40
+
+  sleep(1)
+  index = index + direction
+  direction = -1 if index > 10
+  direction = +1 if index < 1
+end
+```
 
 ### Choinka Sierpińskiego
 
