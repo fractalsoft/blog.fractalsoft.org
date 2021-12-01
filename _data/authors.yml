@@ -7,17 +7,21 @@ womanonrails:
       icon: 'fas fa-fw fa-link'
       rel: ''
       url: https://fractalsoft.org/pl/zespol/womanonrails
+    - label: Tech Blog
+      icon: 'fas fa-fw fa-link'
+      rel: ''
+      url: https://womanonrails.com
     # - label: LinkedIn
     #   icon: 'fab fa-fw fa-linkedin'
     #   url: https://linkedin.com/in/womanonrails
     # - label: Stack Overflow
     #   icon: 'fab fa-fw fa-stack-overflow'
     #   url: https://stackoverflow.com/users/2885676/womanonrails
-    # - label: Instagram
-    #   icon: 'fab fa-fw fa-instagram'
-    #   url: https://instagram.com/womanonrails
+    - label: Instagram
+      icon: 'fab fa-fw fa-instagram'
+      url: https://instagram.com/womanonrails_programuje
   picture: *avatar
-  # twitter: womanonrails
+  twitter: womanonrails
 
 lisu:
   name: Grzegorz Lisowski
