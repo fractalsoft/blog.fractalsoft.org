@@ -368,5 +368,47 @@ $ ruby xmass_tree_sierpinski.rb
 🎄🎀🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄
 ```
 
+{: .text-justify}
+Oto kod źródłowy:
+
+```ruby
+TREE = '🎄'
+BOMB = '💣'
+BOW  = '🎀'
+
+class String
+  def random_replace!(source, destination)
+    counter = count(source)
+    random_index = rand(counter).to_i
+    position = 0
+    random_index.times do
+      find_position = index(source, position + 1)
+      position = find_position
+    end
+    self[position] = destination.sample
+    self
+  end
+end
+
+def sierpinski_triangle(n)
+  triangle = [TREE]
+  n.times do |index|
+    space = ' ' * (2**index)
+    triangle = triangle.map { |x| space + x + space } +
+               triangle.map { |x| x + x }
+  end
+  triangle
+end
+
+n = 4
+triangle = sierpinski_triangle(n).join("\n")
+
+(3*n).times do
+  triangle.random_replace!(TREE, [BOW])
+end
+
+puts triangle
+```
+
 ----
 {% include common/footer--polish-text.html %}
