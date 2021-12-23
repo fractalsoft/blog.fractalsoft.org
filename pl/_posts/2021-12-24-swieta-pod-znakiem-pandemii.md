@@ -5,7 +5,7 @@ description: "Kolejne Święta, którym towarzyszy pandemia. Niech będą magicz
 excerpt: "Jest taki rodzaj magii 🌟, który tworzymy sami 🧙 i możemy nią obdarować innych. Niech te Święta będą pełne najpiękniejszych chwil, wypełnionych magią naszych wspólnych działań o lepsze jutro."
 header:
   actions:
-    - label: Świrusowe Święta 2020
+    - label: Świrusowe Święta
       url: /pl/news/swirusowe-swieta/
     - label: Magia Świąt
       url: /pl/news/2018/12/magia-swiat/
@@ -55,18 +55,41 @@ Ważne jest przede wszystkim to by Święta były dla nas wszystkich bezpieczne.
 Dlatego my również cieszymy się Świętami.
 Zarówno w naszym [serwisie laptopów w Cieszynie](https://fractalsoft.org/pl/cieszyn)
 
-{% include common/lazy-image.html alt='Choinka świąteczna w serwisie laptopów w Cieszynie'  classes='' url='/assets/articles/2021-12-24/cieszyn/01-choinka-w-serwisie-komputerowym.jpg' %}
+{% include common/post-image.html
+           alt='Choinka świąteczna w serwisie laptopów w Cieszynie'
+           image_name='/assets/articles/2021-12-24/cieszyn/01-choinka-w-serwisie-komputerowym'
+%}
 
-{% include common/lazy-image.html alt='Wieniec świąteczny w serwisie laptopów w Cieszynie' classes='' url='/assets/articles/2021-12-24/cieszyn/02-wieniec-swiateczny.jpg' %}
+<hr>
+
+{% include common/post-image.html
+           alt='Wieniec świąteczny w serwisie laptopów w Cieszynie'
+           image_name='/assets/articles/2021-12-24/cieszyn/02-wieniec-swiateczny'
+%}
 
 {: .text-justify}
 jak i w biurze Gliwicach podtrzymujemy świątecznego ducha.
 
-{% include common/lazy-image.html alt='Choinka z obrazem w Gliwicach' classes='' url='/assets/articles/2021-12-24/gliwice/01-choinka-z-obrazem.jpg' %}
+{% include common/post-image.html
+           alt='Choinka z obrazem w Gliwicach'
+           image_name='/assets/articles/2021-12-24/gliwice/01-choinka-z-obrazem'
+%}
 
-{% include common/lazy-image.html alt='Świecąca choinka w Gliwicach' classes='' url='/assets/articles/2021-12-24/gliwice/02-swiecaca-choinka.jpg' %}
+<hr>
 
-{% include common/lazy-image.html alt='Środowisko programisty w Święta' classes='' url='/assets/articles/2021-12-24/gliwice/03-srodowisko-programisty-w-swieta.jpg' %}
+{% include common/post-image.html
+           alt='Świecąca choinka w Gliwicach'
+           image_name='/assets/articles/2021-12-24/gliwice/02-swiecaca-choinka'
+%}
+
+<hr>
+
+{% include common/post-image.html
+           alt='Środowisko programisty w Święta'
+           image_name='/assets/articles/2021-12-24/gliwice/03-srodowisko-programisty-w-swieta'
+%}
+
+<br>
 
 {: .text-justify}
 To ważny dla nas czas nie tylko ze wględu na odpoczynek.
