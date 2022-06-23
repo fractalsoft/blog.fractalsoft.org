@@ -11,7 +11,7 @@ header:
       url: /coderdojo/2019/02/coderdojo-gliwice/
     - label: CoderDojo Gliwice - deszyfrator
       url: /coderdojo/2019/03/coderdojo-gliwice/
-  og_image: /assets/articles/2022-04-14/crypto-bomb.jpg
+  og_image: /assets/articles/2022-06-23/crypto-bomb.jpg
   overlay_filter: rgba(0, 0, 0, 0.3)
   overlay_image: /assets/articles/2022-06-23/crypto-bomb.jpg
   teaser: /assets/articles/2022-06-23/teaser.jpg
