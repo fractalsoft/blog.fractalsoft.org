@@ -92,6 +92,7 @@ W 1939 roku wyróżniono ją **nagrodą Philippa'y Fawcett**.
            image_name='/assets/articles/2022-06-23/bletchley-park'
 %}
 <br>
+
 {: .text-justify}
 Podczas zajęć z geometrii, na umiejętności Joan, zwrócił uwagę Gordon Welchman.
 Wybitny matematyk pracujący w posiadłości Bletchley Park - centrum działań alianckich zajmujących się łamaniem szyfrów.
@@ -155,7 +156,7 @@ Clarke zajmowała się również problemem czasochłonności deszyfracji.
 Nad tym samym zagadnieniem pracował jej kolega z grupy Leslie Yoxall.
 Jest on autorem pierwszego etapu strategii pozwalającej skrócić czas dekodowania.
 Clarke przyspieszyła procedurę stworzoną przez Yoxall'a przedstawiając własne rozwiązanie.
-Dowiedziała się jednak, że nie wniosła nic orginalnego tylko na nowo odkryła "Dillismus".
+Dowiedziała się jednak, że nie wniosła nic oryginalnego tylko na nowo odkryła "Dillismus".
 Metodę stworzoną przez znanego kryptologa z czasów I Wojny Światowej Dillwin'a Knox'a.
 Całą więc zasługę za usprawnienie procesu deszyfracji przypisano Yoxall'owi i proces ten nazwano "Yoxallismus".
 Gdy główny ciężar pracy nad Enigmą został oddelegowany do Stanów Zjednoczonych w 1943 roku, część pracowników Hut 8 przydzielono do innych zajęć.
@@ -199,6 +200,7 @@ Dodatkowo w latach osiemdziesiątych pomagała m.in. sir Harry'iemu Hinsleyowi (
            image_name='/assets/articles/2022-06-23/blue-plaque'
 %}
 <br>
+
 {: .text-justify}
 Joan Clarke zmarła w swoim domu w Headington, w Oksfordzie 4 września 1996 roku.
 Adres jej ostatniego zamieszkania uhonorowano niebieską tablicą _(ang. blue plaque)_ w 2019 roku.
@@ -207,3 +209,4 @@ Jest to tablica informująca o związku danego miejsca z ważną osobą.
 W ten sposób uhonorowano tą wspaniałą kobietę i jej dokonania zarówno w dziedzinie kryptologii jak i numizmatyce.
 Mimo sytuacji, kiedy to ze względu na swoją płeć nie była traktowana sprawiedliwie, udało jej się zaistnieć w świecie zdominowanym przez mężczyzn.
 Jej zdolności, oddanie sprawie i wytrwałość sprawiły, że była szanowana i traktowana na równi przez kolegów z pracy.
+
