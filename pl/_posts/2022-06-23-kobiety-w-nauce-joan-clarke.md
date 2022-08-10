@@ -209,4 +209,3 @@ Jest to tablica informująca o związku danego miejsca z ważną osobą.
 W ten sposób uhonorowano tą wspaniałą kobietę i jej dokonania zarówno w dziedzinie kryptologii jak i numizmatyce.
 Mimo sytuacji, kiedy to ze względu na swoją płeć nie była traktowana sprawiedliwie, udało jej się zaistnieć w świecie zdominowanym przez mężczyzn.
 Jej zdolności, oddanie sprawie i wytrwałość sprawiły, że była szanowana i traktowana na równi przez kolegów z pracy.
-

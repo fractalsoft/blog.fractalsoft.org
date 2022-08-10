@@ -225,4 +225,3 @@ Wyniki przedstawiają się następująco:
 🐤
 🐣
 🐥
-
