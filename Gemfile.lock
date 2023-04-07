@@ -265,6 +265,7 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
+    webrick (1.8.1)
     yell (2.2.2)
     zeitwerk (2.6.6)
 
@@ -278,6 +279,7 @@ DEPENDENCIES
   jekyll-include-cache
   jekyll-pwa-workbox
   jekyll-remote-theme
+  webrick
 
 BUNDLED WITH
-   2.2.26
+   2.3.26
