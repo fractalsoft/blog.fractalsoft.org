@@ -1,5 +1,6 @@
 # Main settings
 baseurl: ''
+repository: fractalsoft/blog.fractalsoft.org
 url: https://blog.fractalsoft.org
 
 # Theme
@@ -47,7 +48,7 @@ analytics:
   provider: 'google-gtag'
   google:
     anonymize_ip: false
-    tracking_id: 'UA-127776922-2'
+    tracking_id: 'G-6GZPFB4Y0B'
 
 category_archive:
   type: liquid
