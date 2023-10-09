@@ -4,6 +4,8 @@ updates:
     allow:
       - dependency-type: "all"
     directory: "/"
+    ignore:
+      - dependency-name: "jekyll-sass-converter"
     labels:
       - dependencies
       - ruby
