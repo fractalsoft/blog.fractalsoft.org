@@ -154,7 +154,7 @@ DEPENDENCIES
   jekyll-pwa-workbox
   jekyll-redirect-from
   jekyll-remote-theme
-  jekyll-sass-converter (~> 2.2)
+  jekyll-sass-converter (= 2.2)
   liquid
   minimal-mistakes-jekyll
   webrick
