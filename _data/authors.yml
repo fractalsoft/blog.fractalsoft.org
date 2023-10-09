@@ -67,7 +67,7 @@ ania:
     - label: Adept programowania
       icon: 'fas fa-fw fa-link'
       rel: ''
-      url: https://fractalsoft.org/pl/zespol
+      url: https://fractalsoft.org/pl/zespol/ania
   picture: *avatar
 
 team:
