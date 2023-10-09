@@ -1,0 +1,28 @@
+version: 2
+updates:
+  - package-ecosystem: bundler
+    allow:
+      - dependency-type: "all"
+    directory: "/"
+    labels:
+      - dependencies
+      - ruby
+    open-pull-requests-limit: 2
+    pull-request-branch-name:
+      separator: "-"
+    schedule:
+      day: friday
+      interval: monthly
+      time: "09:00"
+
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    labels:
+      - ci
+    open-pull-requests-limit: 1
+    pull-request-branch-name:
+      separator: "-"
+    schedule:
+      day: friday
+      interval: monthly
+      time: "09:00"
