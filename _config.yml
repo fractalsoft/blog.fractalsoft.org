@@ -4,8 +4,7 @@ repository: fractalsoft/blog.fractalsoft.org
 url: https://blog.fractalsoft.org
 
 # Theme
-remote_theme: mmistakes/minimal-mistakes
-# theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 
 # Meta head
 description: Fractal Soft blogs about Ruby on Rails, Ember.js, Backbone.js, React.js and maybe Elixir. Technical blog will be full of web development and the developer community.
@@ -23,7 +22,6 @@ permalink: /:categories/:year/:month/:title/
 
 # Plugins settings
 plugins:
-  - jekyll-compress-html
   - jekyll-feed
   - jekyll-gist
   - jekyll-include-cache

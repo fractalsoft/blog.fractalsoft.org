@@ -2,10 +2,14 @@
 
 source 'https://rubygems.org'
 
-gem 'github-pages', group: :jekyll_plugins
 gem 'html-proofer'
+gem 'jekyll', '~> 4.3.2'
 gem 'jekyll-include-cache'
 # gem 'jekyll-polyglot'
 gem 'jekyll-pwa-workbox'
+gem 'jekyll-redirect-from'
 gem 'jekyll-remote-theme'
+gem 'jekyll-sass-converter', '~> 2.2'
+gem 'liquid'
+gem 'minimal-mistakes-jekyll'
 gem 'webrick'
