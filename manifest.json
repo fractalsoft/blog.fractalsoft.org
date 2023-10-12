@@ -14,7 +14,14 @@
     {
       "src": "https://blog.fractalsoft.org/assets/images/fractalsoft/blog.svg",
       "type": "image/svg+xml",
-      "sizes": "192x192 512x512"
+      "sizes": "192x192 512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blog.fractalsoft.org/assets/images/fractalsoft/blog.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "maskable"
     },
     {
       "src": "https://blog.fractalsoft.org/assets/images/fractalsoft/blog-192x192.png",
