@@ -25,7 +25,7 @@ Zależy nam na tym, abyście wiedzieli o nas trochę więcej i abyście mieli pe
 ## Miasto Cieszyn
 
 {: .text-justify}
-<a href='https://fractalsoft.org/pl/cieszyn'>Serwis komputerowy</a> przy Studni Trzech Braci w Cieszynie można zauważyć spacerując po najważniejszych zabytkach tego pięknego miasta.
+Serwis komputerowy przy Studni Trzech Braci w Cieszynie można zauważyć spacerując po najważniejszych zabytkach tego pięknego miasta.
 Zarówno mieszkańcy Cieszyna jak i turyści zapytani o 3 miejsca, które warto zwiedzić wymienią:
 - Wieżę Piastowską,
 - Rotundę św. Mikołaja,

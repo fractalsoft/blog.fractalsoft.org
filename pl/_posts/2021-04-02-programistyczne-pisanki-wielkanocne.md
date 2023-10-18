@@ -27,8 +27,8 @@ Przed nami kolejne pandemiczne Święta, tak różne od tych jakie znamy i za ja
 {: .text-justify}
 Obostrzenia, lockdown, COVID-owe zasady towarzyszą nam od ponad roku.
 Stały się częścią naszej codzienności.
-Czas świąteczny jest dla nas szczególnie ciężki. 
-Tęsknimy za spotkaniami z rodziną i przyjaciółmi. 
+Czas świąteczny jest dla nas szczególnie ciężki.
+Tęsknimy za spotkaniami z rodziną i przyjaciółmi.
 Wprawdzie nowoczesne technologie pozwalają nam pozostać w kontakcie, ale jednak brakuje nam bliskości drugiego człowieka.
 
 {: .text-justify}
@@ -39,7 +39,7 @@ Pogody ducha i wiosennej radości każdego dnia.
 Szczęśliwych, spokojnych, a przede wszystkim zdrowych Świąt Wielkanocnych.
 Spędzonych w ciepłej i życzliwej atmosferze.
 
-TL;DR: Wesołego Alleluja! 
+TL;DR: Wesołego Alleluja!
 🐣
 
 ----
@@ -51,8 +51,8 @@ TL;DR: Wesołego Alleluja!
 Jedną z wielkanocnych tradycji jest poszukiwanie zajączka oraz schowanych przez niego prezentów.
 🐇🎁
 Zwyczaj ten przyszedł do nas z Niemiec.
-Na początku popularny był na terenie Śląska oraz Wielkopolski. 
-Następnie zaczął gościć również na Pomorzu. 
+Na początku popularny był na terenie Śląska oraz Wielkopolski.
+Następnie zaczął gościć również na Pomorzu.
 Chowano przede wszystkim pisanki 🥚 i kraszanki lub ich słodkie odpowiedniki.
 🍬
 🍭
@@ -67,13 +67,13 @@ Pełnia rolę niespodzianki i to dobrze ukrytej.
 
 {: .text-justify}
 Co to jest **easter eggs**?
-To ukryte funkcje lub sekretne wiadomości jakie programiści umieszczają w kodzie. 
+To ukryte funkcje lub sekretne wiadomości jakie programiści umieszczają w kodzie.
 Można je znaleźć w aplikacjach, grach, na stronach internetowych czy nawet w filmach.
 Nie są one oficjalnie udokumentowane i wiedzę o nich posiadają tylko wtajemniczeni.
 
 {: .text-justify}
 Kiedy zaczęła się tradycja **easter eggs**?
-Dokładnie nie wiadomo, jednak wiemy kiedy pojawił się ten termin. 
+Dokładnie nie wiadomo, jednak wiemy kiedy pojawił się ten termin.
 Pojęcie to zaczęło funkcjonować w 1979 roku.
 Wtedy to Warren Robinett, w grze Adventure, ukrył w sekretnym pokoju swoje imię i nazwisko.
 Podpisał w ten sposób swoją pracę.
@@ -139,12 +139,12 @@ Jedna z dwóch.
 lub
 
 ```shell
-                 (__) 
-                 (oo) 
-           /------\/ 
-          / |    ||   
-         *  /\---/\ 
-            ~~   ~~   
+                 (__)
+                 (oo)
+           /------\/
+          / |    ||
+         *  /\---/\
+            ~~   ~~
 ..."Have you mooed today?"...
 ```
 
@@ -152,7 +152,7 @@ lub
 ### Pomylony pociąg 🚂
 
 {: .text-justify}
-Czeskie błędy mogą zdarzyć się każdemu. 
+Czeskie błędy mogą zdarzyć się każdemu.
 Jeśli zamiast polecenia `ls` (lista plików) wpisujemy `sl`, to można dla małej rozrywki zainstalować pakiet `sl`.
 W tym celu pod Ubuntu należy wywołać polecenie:
 ```shell
@@ -245,9 +245,9 @@ lub animację tańczącego rubinka:
 {: .text-justify}
 Mamy nadzieję, że powyższe przykłady się spodobały i obudziły Waszą ciekawość.
 Zachęcamy do własnych poszukiwań 🕵️ oraz życzymy pasjonujących odkryć **programistycznych pisanek**.
-Jeżeli podczas zabawy komputer odmówi posłuszeństwa to zapraszamy serdecznie do 
-[serwisu komputerowego w Cieszynie](https://fractalsoft.org/pl/cieszyn), 
-ale to już po Świętach. 
+Jeżeli podczas zabawy komputer odmówi posłuszeństwa to zapraszamy serdecznie do
+serwisu komputerowego w Cieszynie,
+ale to już po Świętach.
 💻
 
 {: .text-justify}

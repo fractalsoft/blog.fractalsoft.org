@@ -137,7 +137,7 @@ Jeśli tak to spełnił swoją funkcję.
 ## Informacja
 
 {: .text-justify}
-Nasz [serwis komputerowy w Cieszynie](https://fractalsoft.org/pl/cieszyn) jest zamknięty już od 12 marca 2020.
+Nasz serwis komputerowy w Cieszynie jest zamknięty już od 12 marca 2020.
 😟
 Dlatego wszystkich klientów za to bardzo przepraszamy, ale mamy nadzieję, że rozumiecie sytuację.
 Liczymy na to, że w tym czasie wszystko będzie działało.

@@ -55,7 +55,7 @@ Podobnie sprawa ma się ze sprzętem, dajemy się ponieść modzie.
 Nakręcamy spiralę konsumpcjonizmu.
 Łatwiej nam kupić nową elektronikę niż ją naprawić.
 Dlatego apelujemy: nie wyrzucaj sprzętu elektronicznego tylko dlatego, że nie działa.
-Przynieś go do nas do [serwisu komputerowego](https://fractalsoft.org/pl/cieszyn) przy Studni Trzech Braci.
+Przynieś go do nas do serwisu komputerowego przy Studni Trzech Braci.
 Naprawimy go, a potem zrobisz z nim co zechcesz.
 Będziesz go dalej używać albo dasz go komuś kto go potrzebuje (rodzinie, przyjaciołom).
 

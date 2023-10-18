@@ -45,11 +45,11 @@ Od wieków posiadano wiedzę, że stosunek obwodu (ang. circumference) koła do 
 C/d jest stały.
 Ta stała wartość to właśnie **π**.
 Jeżeli rozważyć koło o średnicy 1 wtedy jego obwód będzie równy pi.
-To był punkt wyjścia. 
+To był punkt wyjścia.
 Następnie Archimedes zaczął wpisywać w koło oraz opisywać na nim wielokąty foremne.
 Obwód wielokąta wpisanego był mniejszy od obwodu koła (tym samym zawężał dolną granicę pi).
 Natomiast obwód wielokąta opisanego był większy (co wyznaczało górną granicę pi).
-W ten sposób wskazał przedział w jakim należy szukać pi. 
+W ten sposób wskazał przedział w jakim należy szukać pi.
 Przeprowadził pierwszą aproksymację tej liczby.
 Dokonując wyliczeń dla 96-kąta foremnego, udało mu się ustalić liczbę pi do dwóch miejsc po przecinku.
 
@@ -85,7 +85,7 @@ def approximation_pi_with_viete_formula(n)
   product = factor
   product *= factor / denominator
   return product if n == 1
- 
+
   n.times do
     new_denominator = Math.sqrt(2 + denominator)
     product *= factor / new_denominator
@@ -137,8 +137,8 @@ Jak może wyglądać przykładowa metoda dla tej aproksymacji?
 ``` ruby
 def approximation_pi_with_leibniz_formula(n)
   4 * n.times.sum do |k|
-    1.0 / (4 * k + 1) - 1.0 / (4 * k + 3) 
-  end 
+    1.0 / (4 * k + 1) - 1.0 / (4 * k + 3)
+  end
 end
 ```
 {: .text-justify}
@@ -179,7 +179,7 @@ Fakt ten wykorzystują nowe pokolenia miłośników π i jej aproksymacji.
 {: .text-justify}
 Cóż oznacza ten tajemniczy skrót?
 Pochodzi on od nazwisk osób, które opublikowały swoją metodę pod koniec XX wieku: David H. Bailey, Peter Borwein i Simon Plouffe.
-Przedstawili oni wzór 
+Przedstawili oni wzór
 
 ![image](/assets/articles/2021-07-22/bbp-formula.gif)
 
@@ -220,7 +220,7 @@ class PiFromContinuedFraction
   def initialize(depth)
     @depth = depth
   end
-  
+
   def calculate
     2 * (1 + 1 / continued_fraction(depth, 1))
   end
@@ -247,6 +247,6 @@ Gdybyśmy próbowali poruszyć wszystkie z nich musiałaby powstać wielotomowa 
 {: .text-justify}
 Próby przybliżenia liczby pi to dobry sposób na odświeżenie wiedzy z matematyki lub jej poszerzenie.
 To okazja na ciekawe wykorzystanie umiejętności programistycznych i komputera.
-Jeśli ten ostatni odmówi współpracy - pamiętaj, zawsze jest [Cieszyn i nasz serwis](https://fractalsoft.org/pl/cieszyn).
+Jeśli ten ostatni odmówi współpracy - pamiętaj, zawsze jest Cieszyn i nasz serwis.
 Przy okazji można zwiedzić ładne okolice.
 🚶

@@ -7,8 +7,6 @@ header:
   actions:
     - label: Społeczności wspierane przez Fractal Soft
       url: 'https://fractalsoft.org/pl/spolecznosc'
-    - label: Naprawa laptopów w Cieszynie
-      url: 'https://fractalsoft.org/pl/cieszyn'
   og_image: /assets/articles/2020-02-29/og_image.png
   overlay_color: "#7eb9c1"
   overlay_filter: rgba(0, 0, 0, 0.25)

@@ -107,7 +107,7 @@ Ale zostawimy tą metodę na inny artykuł.
 {: .text-justify}
 Drodzy czytelnicy!
 Wiemy, że są wśród Was nasi przyjaciele, współpracownicy i zleceniodawcy, nasi klienci oraz dostawcy.
-Część z Was korzysta z usług naszego [serwisu komputerowego w Cieszynie](https://fractalsoft.org/pl/cieszyn).
+Część z Was korzysta z usług naszego serwisu komputerowego w Cieszynie.
 Inni za to zamawiają u nas [aplikacje internetowe](https://fractalsoft.org/pl).
 Jeszcze inni to po prostu społeczności, w których działamy tj. [CoderDojo](https://fractalsoft.org/pl/spolecznosc/coderdojo), [Rails Girls](https://fractalsoft.org/pl/spolecznosc/rails-girls), czy [lokalna grupa Rubiego](https://fractalsoft.org/pl/spolecznosc/srug).
 Dziękujemy, że z nami jesteście.

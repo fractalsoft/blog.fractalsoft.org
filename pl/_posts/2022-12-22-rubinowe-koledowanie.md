@@ -197,7 +197,7 @@ Może nawet pochwalicie się rezultatami.
 
 {: .text-justify}
 A jeżeli Wasz zapał twórczy będzie większy niż możliwości komputera i będzie on potrzebował małej naprawy.
-To nic się nie martwcie, w [**serwisie komputerowym w Cieszynie**](https://fractalsoft.org/pl/cieszyn) go naprawią (oczywiście po Nowym Roku).
+To nic się nie martwcie, w **serwisie komputerowym w Cieszynie** go naprawią (oczywiście po Nowym Roku).
 🎅
 ❄️
 ⛄

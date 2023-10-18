@@ -60,7 +60,7 @@ Ważne jest przede wszystkim to by Święta były dla nas wszystkich bezpieczne.
 
 {: .text-justify}
 Dlatego my również cieszymy się Świętami.
-Zarówno w naszym [serwisie laptopów w Cieszynie](https://fractalsoft.org/pl/cieszyn)
+Zarówno w naszym serwisie laptopów w Cieszynie
 
 {% include common/post-image.html
            alt='Choinka świąteczna w serwisie laptopów w Cieszynie'

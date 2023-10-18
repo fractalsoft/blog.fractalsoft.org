@@ -29,7 +29,7 @@ A prywatnie ograniczenie spotkań z rodziną i przyjaciółmi.
 Wszystko to nastąpiło za szybko i zdecydowanie trwa za długo.
 Ale mamy nadzieję, że Święta Bożego Narodzenia pozwolą nam choć trochę powrócić do normalności.
 My mamy zamiar odpocząć.
-To był powód dla którego nasz [**serwis komputerowy w Cieszynie**](https://fractalsoft.org/pl/cieszyn) był nieczynny w Wigilię.
+To był powód dla którego nasz **serwis komputerowy w Cieszynie** był nieczynny w Wigilię.
 Również w Sylwestra będzie zamknięte,
 dlatego aby **naprawić laptopa** najlepiej przyjść już po Nowym Roku.
 A teraz pora wyłączyć komputer i spędzić czas z rodziną. 👪
