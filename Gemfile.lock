@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     Ascii85 (1.1.0)
-    addressable (2.8.5)
+    addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
     afm (0.2.2)
     async (2.6.4)
@@ -115,7 +115,7 @@ GEM
       hashery (~> 2.0)
       ruby-rc4
       ttfunk
-    public_suffix (5.0.3)
+    public_suffix (5.0.4)
     racc (1.7.2)
     rainbow (3.1.1)
     rb-fsevent (0.11.2)
