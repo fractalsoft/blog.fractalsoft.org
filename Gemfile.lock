@@ -92,7 +92,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
     mini_portile2 (2.8.5)
-    minimal-mistakes-jekyll (4.24.0)
+    minimal-mistakes-jekyll (4.25.1)
       jekyll (>= 3.7, < 5.0)
       jekyll-feed (~> 0.1)
       jekyll-gist (~> 1.5)
@@ -117,7 +117,7 @@ GEM
       hashery (~> 2.0)
       ruby-rc4
       ttfunk
-    public_suffix (5.0.4)
+    public_suffix (5.0.5)
     racc (1.7.3)
     rainbow (3.1.1)
     rb-fsevent (0.11.2)
