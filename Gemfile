@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 
 gem 'html-proofer'
-gem 'jekyll', '~> 4.3.3'
+gem 'jekyll', '~> 4.3.4'
 gem 'jekyll-include-cache'
 # gem 'jekyll-polyglot'
 gem 'jekyll-pwa-workbox'
